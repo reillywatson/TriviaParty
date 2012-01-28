@@ -3,7 +3,7 @@ var app = require('http').createServer(handler)
   , fs = require('fs')
 
 app.listen(8024);
-var questions = fs.readFileSync(__dirname + '/hgrepo/TriviaParty/res/raw/tr011.txt').toString().split('\n');
+var questions = fs.readFileSync(__dirname + '/trivia/tr011.txt').toString().split('\n');
 
 
 function handler (req, res) {
