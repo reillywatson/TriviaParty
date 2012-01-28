@@ -1,0 +1,56 @@
+<script src="/socket.io/socket.io.js"></script>
+<script>
+var socket = io.connect('http://localhost');
+
+socket.on('news', function (data) {
+	//document.write(data.hello);
+	console.log(data);
+	socket.emit('my other event', { my: 'data' });
+  });
+
+var answers = [];
+var hintTimer;
+
+var stopTimer = function() {
+	clearTimeout(hintTimer);
+}
+
+//String.prototype.replaceAt=function(index, chr) {
+//	return this.substr(0, index) + chr + this.substr(index+chr.length);
+//}
+
+var hintTick = function() {
+	if (hintTimer != null) {
+		var hint = document.getElementById('hint');
+		var hintText = hint.innerHTML;
+		var newHint = hintText;
+//		while (newHint === hintText && hintText !== answers[0]) {
+//			var replacementPoint = Math.floor(Math.random() * hintText.length);
+			newHint = newHint.substr(0, replacementPoint) + answers[0].substr(replacementPoint, 1) + newHint.substr(replacementPoint+1);
+//			newHint.replaceAt(replacementPoint, answers[0].substr(replacementPoint, 1);
+//		}
+		alert(newHint);
+//		hint.innerHTML = newHint;
+		hintTimer = setTimeout("hintTick()", 1500);
+	}
+}
+
+socket.on('gotquestion', function (data) {
+	document.getElementById('question').innerHTML = data.question.toString();
+	answers = data.answers;
+	document.getElementById('guess').value = "";
+	document.getElementById('guess').focus();
+	document.getElementById('hint').innerHTML = answers[0].replace(/[A-Z]/gi, '_')
+	hintTimer = setTimeout("hintTick()", 3000);
+});
+
+var guesstextentered = function(e, element) {
+	var key=e.keyCode || e.which;
+	if (key == 13) {
+		socket.emit('userguess', { guess: element.value });
+	}
+}
+</script>
+<span id="question">Loading question...</span><p/>
+<span id="hint"></span><p/>
+<input id="guess" type="text" onkeypress="guesstextentered(event, this)" default="true" />
