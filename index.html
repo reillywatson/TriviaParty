@@ -48,7 +48,7 @@ socket.on('gotitright', function(data) {
 var guesstextentered = function(e, element) {
 	var key=e.keyCode || e.which;
 	if (key == 13 && element.value != "") {
-		socket.emit('userguess', { guess: element.value, correct: (answers.indexOf(element.value.toLowerCase()) >= 0) });
+		socket.emit('userguess', { guess: element.value});
 	}
 }
 </script>

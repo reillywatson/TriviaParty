@@ -19,19 +19,25 @@ function handler (req, res) {
 }
 
 var nextQuestion = function(socket) {
-    var question = questions[Math.floor(Math.random() * questions.length)].toString();
-    var answers = question.split('*');
-    socket.emit('gotquestion', { question: answers[0], answers: answers.slice(1) });
+    var rawQuestion = questions[Math.floor(Math.random() * questions.length)].toString();
+    var answers = rawQuestion.split('*');
+    var question = {question: answers[0], answers: answers.slice(1)};
+    socket.set('question', question, function() {
+		socket.emit('gotquestion', question);
+	});
 }
 
 io.sockets.on('connection', function (socket) {
 	nextQuestion(socket);
 	socket.on('nextquestion', function(data) { nextQuestion(socket);});
 	socket.on('userguess', function(data) {
-		if (data.correct) {
-			socket.emit('gottext', {text: 'wooooooooooooo!'});
-			nextQuestion(socket);
-		}
-		socket.emit('gottext', {text: data.guess});
+		socket.get('question', function(err, question) {
+			var correct = (question.answers.indexOf(data.guess.toLowerCase()) >= 0);
+			if (correct) {
+				socket.emit('gottext', {text: 'wooooooooooooo!'});
+				nextQuestion(socket);
+			}
+			socket.emit('gottext', {text: data.guess});
+		});
 	});
 });
