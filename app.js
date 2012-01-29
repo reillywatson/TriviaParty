@@ -3,7 +3,7 @@ var app = require('http').createServer(handler)
   , fs = require('fs')
 
 app.listen(8024);
-var questions = fs.readFileSync(__dirname + '/trivia/tr011.txt').toString().split('\n');
+var questions = fs.readFileSync(__dirname + '/trivia/tr011.txt').toString().replace(/\r\n|\r/g, "\n").split('\n');
 
 
 function handler (req, res) {
@@ -18,7 +18,7 @@ function handler (req, res) {
   });
 }
 
-function nextQuestion (socket) {
+var nextQuestion = function(socket) {
     var question = questions[Math.floor(Math.random() * questions.length)].toString();
     var answers = question.split('*');
     socket.emit('gotquestion', { question: answers[0], answers: answers.slice(1) });
@@ -28,7 +28,10 @@ io.sockets.on('connection', function (socket) {
 	nextQuestion(socket);
 	socket.on('nextquestion', function(data) { nextQuestion(socket);});
 	socket.on('userguess', function(data) {
-		console.log(data);
-		nextQuestion(socket);
+		if (data.correct) {
+			socket.emit('gottext', {text: 'wooooooooooooo!'});
+			nextQuestion(socket);
+		}
+		socket.emit('gottext', {text: data.guess});
 	});
 });
