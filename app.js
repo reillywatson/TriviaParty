@@ -14,10 +14,22 @@ app.listen(port, function() {
 
 var questions = "";
 for (var i = 2; i < 192; i++) {
-	questions += fs.readFileSync(__dirname + '/trivia/tr011.txt').toString().replace(/\r\n|\r/g, "\n");
+	if (i != 133) {
+		questions += fs.readFileSync(__dirname + '/trivia/tr'+zeroFill(i, 3)+'.txt').toString().replace(/\r\n|\r/g, "\n");
+	}
 }
 questions = questions.split('\n');
 console.log(questions.length + ' questions loaded');
+
+function zeroFill( number, width )
+{
+  width -= number.toString().length;
+  if ( width > 0 )
+  {
+    return new Array( width + (/\./.test( number ) ? 2 : 1) ).join( '0' ) + number;
+  }
+  return number;
+}
 
 function handler (req, res) {
   fs.readFile(__dirname + '/index.html',
