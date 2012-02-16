@@ -2,6 +2,11 @@ var app = require('http').createServer(handler)
   , io = require('socket.io').listen(app)
   , fs = require('fs')
 
+io.configure(function() {
+	io.set("transports", ["xhr-polling"]);
+	io.set("polling duration", 10);
+});
+  
 app.listen(8024);
 var questions = "";
 for (var i = 2; i < 192; i++) {
