@@ -18,26 +18,46 @@ function handler (req, res) {
   });
 }
 
-var nextQuestion = function(socket) {
+var nextQuestion = function() {
     var rawQuestion = questions[Math.floor(Math.random() * questions.length)].toString();
     var answers = rawQuestion.split('*');
     var question = {question: answers[0], answers: answers.slice(1)};
-    socket.set('question', question, function() {
+    var clients = io.sockets.clients();
+    for (var i = 0; i < clients.length; i++) {
+		var socket = clients[i];
+		setQuestion(socket,question);
+	}
+}
+
+var setQuestion = function(socket,question) {
+	socket.set('question', question, function() {
 		socket.emit('gotquestion', question);
 	});
 }
 
 io.sockets.on('connection', function (socket) {
-	nextQuestion(socket);
+	if (io.sockets.clients().length == 1) {
+		nextQuestion();
+	}
+	else {
+		for (var i = 0; i < io.sockets.clients().length; i++) {
+			if (io.sockets.clients()[i] != socket) {
+				var other = io.sockets.clients()[i];
+				other.get('question', function(err, question) {
+					setQuestion(socket, question);
+				});
+				break;
+			}	
+		}
+	}
 	socket.on('nextquestion', function(data) { nextQuestion(socket);});
 	socket.on('userguess', function(data) {
 		socket.get('question', function(err, question) {
 			var correct = (question.answers.indexOf(data.guess.toLowerCase()) >= 0);
 			if (correct) {
-				socket.emit('gottext', {text: 'wooooooooooooo!'});
 				nextQuestion(socket);
 			}
-			socket.emit('gottext', {text: data.guess});
+			io.sockets.emit('gottext', {text: data.guess});
 		});
 	});
 });
