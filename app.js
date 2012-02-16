@@ -54,14 +54,17 @@ io.sockets.on('connection', function (socket) {
 			}	
 		}
 	}
+	socket.on('name', function(data) { socket.set('name', data); });
 	socket.on('nextquestion', function(data) { nextQuestion(socket);});
 	socket.on('userguess', function(data) {
 		socket.get('question', function(err, question) {
-			var correct = (question.answers.indexOf(data.guess.toLowerCase()) >= 0);
-			if (correct) {
-				nextQuestion(socket);
-			}
-			io.sockets.emit('gottext', {text: data.guess});
+			socket.get('name', function(err, name) {
+				var correct = (question.answers.indexOf(data.guess.toLowerCase()) >= 0);
+				if (correct) {
+					nextQuestion(socket);
+				}
+				io.sockets.emit('gottext', {text: '&lt;'+name+'&gt;'+data.guess});
+			});
 		});
 	});
 });

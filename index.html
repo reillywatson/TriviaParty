@@ -3,7 +3,10 @@
 <title>Trivia Party!</title>
 <script src="/socket.io/socket.io.js"></script>
 <script>
+var name = prompt("enter your name");
+
 var socket = io.connect('http://localhost');
+socket.emit('name', name);
 
 var answers = [];
 var hintTimer;
