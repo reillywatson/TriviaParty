@@ -55,6 +55,7 @@ var nextQuestion = function() {
 }
 
 var setQuestion = function(socket,question) {
+	console.log('question: ' + question.question + ' answer: ' + question.answers[0])
 	socket.set('question', question, function() {
 		socket.emit('gotquestion', question);
 	});
