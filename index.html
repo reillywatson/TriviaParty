@@ -41,14 +41,12 @@ socket.on('gottext', function(data) {
 	document.getElementById('text').innerHTML += data.text + '<br/>';
 });
 
-socket.on('gotitright', function(data) {
-	alert('correct!');
-});
-
 var guesstextentered = function(e, element) {
 	var key=e.keyCode || e.which;
 	if (key == 13 && element.value != "") {
 		socket.emit('userguess', { guess: element.value});
+		element.focus();
+		element.select();
 	}
 }
 </script>
