@@ -3,8 +3,12 @@ var app = require('http').createServer(handler)
   , fs = require('fs')
 
 app.listen(8024);
-var questions = fs.readFileSync(__dirname + '/trivia/tr011.txt').toString().replace(/\r\n|\r/g, "\n").split('\n');
-
+var questions = "";
+for (var i = 2; i < 192; i++) {
+	questions += fs.readFileSync(__dirname + '/trivia/tr011.txt').toString().replace(/\r\n|\r/g, "\n");
+}
+questions = questions.split('\n');
+console.log(questions.length + ' questions loaded');
 
 function handler (req, res) {
   fs.readFile(__dirname + '/index.html',
