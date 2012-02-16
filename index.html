@@ -52,6 +52,10 @@ var guesstextentered = function(e, element) {
 		element.select();
 	}
 }
+
+var skipquestion = function() {
+	socket.emit("nextquestion");
+}
 </script>
 </head>
 <style>
@@ -64,5 +68,6 @@ var guesstextentered = function(e, element) {
 <span id="question">Loading question...</span><p/>
 <span id="hint"></span><p/>
 <input id="guess" type="text" onkeypress="guesstextentered(event, this)" default="true" /><p/>
+<button type="button" onclick="skipquestion()">Skip</button>
 <span id="text"></span>
 </body>
