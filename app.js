@@ -6,8 +6,12 @@ io.configure(function() {
 	io.set("transports", ["xhr-polling"]);
 	io.set("polling duration", 10);
 });
-  
-app.listen(8024);
+
+var port = process.env.PORT || 3000;
+app.listen(port, function() {
+	console.log("Listening on " + port);
+});
+
 var questions = "";
 for (var i = 2; i < 192; i++) {
 	questions += fs.readFileSync(__dirname + '/trivia/tr011.txt').toString().replace(/\r\n|\r/g, "\n");
