@@ -4,7 +4,6 @@ var app = require('http').createServer(handler)
 
 io.configure(function() {
 	io.set("transports", ["xhr-polling"]);
-	io.set("polling duration", 10);
 });
 
 var port = process.env.PORT || 3000;
