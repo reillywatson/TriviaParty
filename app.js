@@ -14,12 +14,16 @@ app.listen(port, function() {
 
 var questions = "";
 for (var i = 2; i < 192; i++) {
-	if (i != 133) {
+	if (i != 133 && i != 146) {
 		questions += fs.readFileSync(__dirname + '/trivia/tr'+zeroFill(i, 3)+'.txt').toString().replace(/\r\n|\r/g, "\n");
 	}
 }
 questions = questions.split('\n');
 console.log(questions.length + ' questions loaded');
+
+String.prototype.trim = function() {
+	return this.replace(/^\s+|\s+$/g,"");
+}
 
 function zeroFill( number, width )
 {
