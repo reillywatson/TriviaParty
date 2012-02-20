@@ -35,7 +35,7 @@ socket.on('gotquestion', function (data) {
 	answers = data.answers;
 	document.getElementById('guess').value = "";
 	document.getElementById('guess').focus();
-	document.getElementById('hint').innerHTML = answers[0].replace(/[A-Z1-9]/gi, '_')
+	document.getElementById('hint').innerHTML = answers[0].replace(/[A-Z0-9]/gi, '_')
 	stopTimer();
 	hintTimer = setTimeout("hintTick()", 3000);
 });
