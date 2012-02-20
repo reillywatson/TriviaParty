@@ -81,7 +81,14 @@ io.sockets.on('connection', function (socket) {
 	socket.on('userguess', function(data) {
 		socket.get('question', function(err, question) {
 			socket.get('name', function(err, name) {
-				var correct = (question.answers.indexOf(data.guess.toLowerCase()) >= 0);
+				var correct = false;
+				var guess = data.guess.toLowerCase();
+				for (var i = 0; i < question.answers.length; i++) {
+					if (question.answers[i].toLowerCase() === guess) {
+						correct = true;
+						break;
+					}
+				}
 				if (correct) {
 					nextQuestion(socket);
 				}
