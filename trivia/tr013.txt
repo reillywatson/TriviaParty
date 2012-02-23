@@ -1,6 +1,6 @@
 In 1876---------- , writer (Call of the Wild), born.*jack london
 In 1944---------- , boxer, born.*joe frazier
-In 1945 US Navy destroys ----------  Japanese ships in the Battle of South China Sea.*4
+In 1945 US Navy destroys ---------- Japanese ships in the Battle of South China Sea.*4
 In 1955---------- , actress (Cheers, Star Trek II), born.*kirstie alley
 In 1986 24th Space Shuttle Mission - ---------- is launched.*columbia
 In 1991 U.S. Congress backs war in*gulf
@@ -15,11 +15,11 @@ In 1930 "---------- " comic strip 1st appears.*mickey mouse
 In 1941 James Joyce novelist, dies in---------- , Switzerland, at 58.*zurich
 In 1942 German ---------- begin harassing shipping on US east coast.*u-boats
 In 1942 Henry Ford patents a method of constructing ---------- auto bodies.*plastic
-In 1958 9,000 scientists of ----------  nations petition UN for nuclear test ban.*4
+In 1958 9,000 scientists of ---------- nations petition UN for nuclear test ban.*4
 In 1961 Graham "Suggs" McPherson ---------- (Madness-Our House), born.*rocker
 In 1961 Julia Louis-Dreyfus NYC, ---------- (SNL, Steinfeld, Day by Day), born.*comedienne
 In 1986 Bloody coup overthrows government of*south yemen
-In 1987 7 top NY Mafia bosses sentenced to ----------  years in prison each.*100
+In 1987 7 top NY Mafia bosses sentenced to ---------- years in prison each.*100
 In 1988 Ching-Kao Chiang president of---------- , dies at 81.*taiwan
 In 1989 "Friday the 13th" ---------- strikes hundreds of IBM computers in Britain.*virus
 In 1989 Ruins of ---------- (occupied 2050-1720 BC) found in Iraq.*mashkan-shapir
@@ -40,7 +40,7 @@ In 1957 ---------- actor, dies at 57.*humphrey bogart
 In 1964 Jacqueline Kennedy's 1st ---------- (TV) since assassination.*public appearance
 In 1965 ---------- [Dee Dee Williams], singer/actress (Action Jackson), born.*vanity
 In 1966 ---------- releases his 1st record (Can't Help Thinking About Me).*david bowie
-In 1967 ----------  attend the Human Be-In, SF.*20,00
+In 1967 ---------- attend the Human Be-In, SF.*20,00
 In 1978 Sex Pistols' ---------- concert (Winterland, SF).*final
 In 1984 ---------- founder of MacDonalds/owner San Diego Padres, dies at 82.*ray kroc
 In 1986 ---------- becomes only the 2nd freely elected president of Guatemala since the CIA-sponsored coup in 1954.*vinicio cerezo
@@ -345,7 +345,7 @@ In 1917 Desi---------- , famous Cuban, bandleader, born.*arnaz
 In 1923 ---------- magazine first published.*time
 In 1949 First non-stop, ---------- airplane flight completed.*round-the-world
 In 1950 Karen ---------- (in Connecticut), drummer for the Carpenters, singer, born.*carpenter
-In 1978 Soyuz ----------  is launched.*twenty eight*28
+In 1978 Soyuz ---------- is launched.*twenty eight*28
 In 1991 Arthur---------- , dance instructor, dies at 95. *murray
 In 1847 Alexander ---------- Bell, inventor of the telephone, born.*graham
 In 1851 U.S. Congress authorizes smallest U.S. ---------- coin, the 3-cent piece.*silver
@@ -356,8 +356,8 @@ In 1943 U.S. wins Battle of ---------- Sea over Japan.*bismark
 In 1945 U.S. and ---------- forces recaptured Corregidor.*philippine
 In 1956 ---------- gains its independence.*morocco
 In 1962 Jackie---------- , runner, born.*joyner-kersee
-In 1969 Apollo ----------  is launched.*nine*9
-In 1972 Pioneer ----------  launched. First to traverse asteroid belt, leave system*ten*10
+In 1969 Apollo ---------- is launched.*nine*9
+In 1972 Pioneer ---------- launched. First to traverse asteroid belt, leave system*ten*10
 In 1974 David---------- , actor (Married With Children's Bud Bundy), born.*faustino
 In 1985 TV Show "---------- " premieres.*moonlighting
 In 1785 Alessandro---------- , poet, born. *manzoni
@@ -394,7 +394,7 @@ In 1957 The Gold Coast gains independence and takes the name*ghana
 In 1963---------- , Cowboy Copus, and Hawkshaw Hawkins die in a plane crash.*patsy cline
 In 1963 Patsy Cline, ---------- , and Hawkshaw Hawkins die in a plane crash.*cowboy copus
 In 1963 Patsy Cline, Cowboy Copus, and ---------- die in a plane crash.*hawkshaw hawkins
-In 1981 Soyuz ----------  returns to Earth.*thirty nine*39
+In 1981 Soyuz ---------- returns to Earth.*thirty nine*39
 In 1583 Thomas ---------- Day.*aquinas
 In 1848 In Hawaii, the Great ---------- (division of lands) is signed.*mahele
 In 1875 Maurice ---------- (in Cibourne, France), composer (Bollero), born.*ravel
@@ -415,7 +415,7 @@ In 1879 Otto---------- , co-discoverer of nuclear fission, born.*hahn
 In 1910 Baroness de ---------- of Paris becomes first licensed female pilot.*laroche
 In 1921 Cyd ---------- (in Amarillo, Texas), actor, dancer, born.*charisse
 In 1943 Lynn ---------- (in London, England), actor, political activist, born.*redgrave
-In 1945 International ----------  Day*women's
+In 1945 International ---------- Day*women's
 In 1946 First ---------- licensed for commercial use - New York city.*helicopter
 In 1947 Carole ---------- (in New York), wife of Burt Bachrach, born.*bayer sager
 In 1959---------- , Chico and Harpo's final TV appearance together.*groucho
@@ -436,7 +436,7 @@ In 1888 The ---------- Army of England sends group to U.S. to begin welfare and 
 In 1933 Big earthquake in ---------- (W.C. Fields was making a movie when it struck and the cameras kept running).*long beach
 In 1948 First civilian to exceed ---------- -- H. H. Houver at Edwards Air Force Base, CA*speed of sound
 In 1964 Prince ---------- of England, royalty, born.*edward
-In 1978 Soyuz ----------  returns to Earth.*twenty eight*28
+In 1978 Soyuz ---------- returns to Earth.*twenty eight*28
 In 1302 According to---------- , this is Romeo and Juliet's wedding day.*shakespeare
 In 1810 Emperor ---------- married by proxy to Archduchess Marie Louise.*napoleon
 In 1847 John ---------- 'Johnny Appleseed' died in Allen County, Ind.*chapman
@@ -458,7 +458,7 @@ In 1925 Chinese revolutionary leader Sun ---------- died.*yat-sen
 In 1925 First ---------- radio broadcast.*transatlantic
 In 1927 Raul---------- , President of Argentina, born.*alfonsin
 In 1930 Mohandas Gandhi began ---------- -mile march protesting British salt tax.*two hundred*200
-In 1936 FDR conducts his first "----------  Chat".*fireside
+In 1936 FDR conducts his first "---------- Chat".*fireside
 In 1939 Pope ---------- was crowned in ceremonies at the Vatican.*pius xii
 In 1940 Al---------- , singer, born.*jarreau
 In 1940 Finland surrendered to the ---------- during World War II.*soviet union
@@ -477,7 +477,7 @@ In 1781 (England) Planet ---------- was discovered by Sir William Herschel. *ura
 In 1906 American suffragist Susan B. ---------- died. *anthony
 In 1925 ---------- law prohibits teaching of evolution. *tennessee
 In 1957 Dana---------- , actress, born. *delaney
-In 1969 Apollo ----------  returns to Earth*nine*9
+In 1969 Apollo ---------- returns to Earth*nine*9
 In 1970 Digital Equipment Corp introduces the ---------- minicomputer. *pdp-1
 In 1985 Funeral services held in ---------- for leader Konstantin Chernenko. *moscow
 In 1681 Georg Philipp Telemann, leading ---------- late-baroque composer, born.*german
@@ -498,7 +498,7 @@ In 1964 Jury in ---------- found Jack Ruby guilty of murdering Lee Harvey Oswald
 In 1965 Israel's cabinet approved diplomatic relations with*west germany
 In 1967 Body of ---------- moved from a temporary grave to a permanent memorial.*john kennedy
 In 1975 Susan ---------- dies at age 56.*hayward
-In 1980 Polish airliner crash kills all ----------  aboard (22 are US amateur boxers).*eighty seven*87
+In 1980 Polish airliner crash kills all ---------- aboard (22 are US amateur boxers).*eighty seven*87
 In 1983 ---------- cut oil prices for the first time in 23 years.*opec
 In 44 B.C. Julius ---------- slain*caesar
 In 1913 Woodrow ---------- holds the first Presidential Press Conference.*wilson
@@ -518,7 +518,7 @@ In 1916 US and ---------- sign the Migratory bird treaty.*canada
 In 1945 US forces defeat ---------- at Iwo Jima.*japanese
 In 1954 Nancy ---------- (in San Francisco, CA), singer (Heart), born.*wilson
 In 1966 Gemini ---------- is launched.*viii
-In 1978 Soyuz ----------  returns to Earth.*twenty six*26
+In 1978 Soyuz ---------- returns to Earth.*twenty six*26
 In 1985 Journalist Terry ---------- is abducted in Lebanon by pro-Iranian terrorists.*anderson
 In 461 St Patrick - the patron saint of ---------- - died in Saul.*ireland
 In 1753 First official St. ---------- 's Day.*patrick
@@ -591,7 +591,7 @@ In 1685 Johann Sebastian ---------- (in Eisenach, Germany), composer, born.*bach
 In 1806 Benito---------- , Mexician leader, born.*juarez
 In 1813 James Jesse---------- , America's only crowned king (king of the Mormons), born.*strang
 In 1839 Modest---------- , composer, born.*moussorgsky
-In 1844 ----------  New Year*bah'i
+In 1844 ---------- New Year*bah'i
 In 1851 ---------- Valley is discovered in California.*yosemite
 In 1869 Florenz---------- , of Follies fame, born.*ziegfeld
 In 1891 A Hatfield marries a---------- , ending a long feud in W. VA.*mccoy
@@ -633,12 +633,12 @@ In 1929 First telephone installed in the---------- . *white house
 In 1933 German Reichstag granted ---------- dictatorial powers. *adolf hitler
 In 1956 Pakistan became ---------- within the British Commonwealth. *independent
 In 1965 Gemini 3 launched, first US ---------- space flight. *2-man
-In 1983 First Artificial heart recipient Dr. Barney Clark died after ----------  days.*one hundred & twelve*112
+In 1983 First Artificial heart recipient Dr. Barney Clark died after ---------- days.*one hundred & twelve*112
 In 1834 William ---------- (in England), artist and poet*morris
 In 1882 German scientist Robert ---------- discovered bacillus cause of TB.*koch
 In 1905 Jules Verne dies in ---------- at 76 years old.*amiens
 In 1905 Jules ---------- dies in Amiens at 76 years old.*verne
-In 1905 Jules Verne dies in Amiens at ----------  years old.*seventy six*76
+In 1905 Jules Verne dies in Amiens at ---------- years old.*seventy six*76
 In 1934 FDR grants future independence to the*philippines
 In 1944 In occupied ---------- the Nazis executed more than 300 civilians.*rome
 In 1955 First oil drill ---------- rig placed in service.*sea going
@@ -693,7 +693,7 @@ In 1942 British naval forces raid Nazi occupied French port of St.---------- .*n
 In 1943 Composer Sergei ---------- died.*rachmaninoff
 In 1944 Ken---------- , actor, director, born.*howard
 In 1955 Reba---------- , singer, born.*mcentire
-In 1969 Dwight D. Eisenhower, the ----------  president, died in Washington at age 78.*34th
+In 1969 Dwight D. Eisenhower, the ---------- president, died in Washington at age 78.*34th
 In 1979 Nuclear accident at Three Mile Island near---------- , PA.*middletown
 In 1819 Edwin---------- , drilled first productive oil well in US, born.*drake
 In 1886 Coca-Cola is created (it had ---------- at the time).*cocaine
@@ -794,7 +794,7 @@ In 1864 Abraham ---------- was elected to his second term as President. *lincoln
 In 1895 Wilhelm ---------- discovers x-rays. *rintgen
 In 1922 Dr. Christiaan---------- , performed first human heart transplantation *barnard
 In 1942 Allied forces invade North---------- . *africa
-In 1973 Walt Disney's "----------  Hood" is released. *robin
+In 1973 Walt Disney's "---------- Hood" is released. *robin
 In 1984 Fourteenth Space Shuttle Mission - ---------- 2 is launched. *discovery
 In 1985 Judge overturned Rubin "Hurricane" ---------- conviction. (The case that inspired Bob Dylan's song "The Story Of The Hurricane") *carter's
 In 1988 George ---------- becomes the first sitting vice-president of the U.S. in 150 years to win a presidential election. *bush
@@ -1038,7 +1038,7 @@ On This Day: 26 February 1975 1st televised ---------- transplant (Today Show) *
 On This Day: 01 March 1975 17th Grammy Awards: I Honestly Love You, Marvin ---------- wins*hamlisch
 On This Day: 01 March 1975 ---------- ' "Best of My Love" reaches #1 *eagles
 On This Day: 03 March 1975 Linda McCartney is charged in US with possession of ---------- *marijuana
-On This Day: 10 March 1975 "----------  Picture Show" opens at Belasco Theater NYC for 45 performances *rocky horror
+On This Day: 10 March 1975 "---------- Picture Show" opens at Belasco Theater NYC for 45 performances *rocky horror
 On This Day: 11 March 1975 ---------- military coup under General Spinola fails *portugal
 On This Day: 18 March 1975 Kurds end fight against ---------- army *iraqi
 On This Day: 21 March 1975 ---------- ends monarchy after 3000 years *ethiopia
@@ -1086,7 +1086,7 @@ On This Day: 01 October 1975 ---------- grants internal self-government to Seych
 On This Day: 03 October 1975 ---------- releases "Extra Texture" album in UK *george harrison
 On This Day: 09 October 1975 Emperor ---------- of Japan visits SF *hirohito
 On This Day: 09 October 1975 Soviet dissident Andrei Sakharov wins ---------- Prize *nobel peace
-On This Day: 10 October 1975 Liz Taylor's ----------  marriage (re-marries Richard Burton) *6th
+On This Day: 10 October 1975 Liz Taylor's ---------- marriage (re-marries Richard Burton) *6th
 On This Day: 26 October 1975 Anwar ---------- became 1st Egyptian president to officially visit the US *sadat
 On This Day: 06 November 1975 1st appearance of the ---------- *sex pistols
 On This Day: 10 November 1975 PLO leader Yasser ---------- addresses UN in NYC *arafat
@@ -1122,7 +1122,7 @@ On This Day: 05 February 1974 Maximum speed on ---------- reduced to 100 kph *au
 On This Day: 06 February 1974 Dutch speed limit set at 100 km due to ---------- *oil crisis
 On This Day: 07 February 1974 Grenada gains independence from ---------- (National Day) *britain
 On This Day: 08 February 1974 ---------- releases "You're 16" *ringo starr
-On This Day: 10 February 1974 Iran/----------  border fight breaks out *iraqi
+On This Day: 10 February 1974 Iran/---------- border fight breaks out *iraqi
 On This Day: 13 February 1974 Dissident Nobel writer Alexander Solzhenitsyn expelled from ---------- *ussr
 On This Day: 17 February 1974 49 die in stampede for seats at soccer match, Cairo, ---------- *egypt
 On This Day: 18 February 1974 NASA launches Italian satellite ---------- C-2 235/843 km) *san marcos
@@ -1169,7 +1169,7 @@ On This Day: 29 May 1974 ---------- is brought under direct rule from Westminste
 On This Day: 21 May 1974 Israel & ---------- sign an agreement concerning Golan Heights *syria
 On This Day: 08 June 1974 Keyboardist Rick ---------- quits the rock group "Yes" *wakeman
 On This Day: 09 June 1974 Supergroup Blind ---------- 's (Clapton, Windwood, Baker) 1st concert *faith
-On This Day: 26 June 1974 Liz Taylor's ----------  divorce (Richard Burton) *5th
+On This Day: 26 June 1974 Liz Taylor's ---------- divorce (Richard Burton) *5th
 On This Day: 28 June 1974 ---------- release "Band on the Run" & "Zoo Gang" in UK *wings
 On This Day: 17 July 1974 1st ---------- studio in UK is open by the Moody Blues *quadrophonic
 On This Day: 17 July 1974 ---------- is ordered to leave the US in 60 days *john lennon
@@ -1282,7 +1282,7 @@ On This Day: 01 December 1973 Australia grants self-government to ---------- *pa
 On This Day: 01 December 1973 Jack ---------- becomes 1st golfer to earn $2M in a year *nicklaus
 On This Day: 03 December 1973 Pioneer 10 passes ---------- 1st fly-by of an outer planet) *jupiter
 On This Day: 05 December 1973 ---------- releases "Band on the Run" album *paul mccartney
-On This Day: 07 December 1973 ----------  release "Band on the Run" *wings
+On This Day: 07 December 1973 ---------- release "Band on the Run" *wings
 On This Day: 16 December 1973 ---------- becomes 1st NFLer to rush 2,000 yard in a season *o.j. simpson
 On This Day: 21 December 1973 Israel, Egypt, Syria, Jordan, US & USSR meet in ---------- *geneva
 On This Day: 23 December 1973 6 Persian Gulf nations double their ---------- *oil prices
@@ -1476,7 +1476,7 @@ On This Day: 01 January 1970 Revised ---------- for Western (RC) Church goes int
 On This Day: 04 January 1970 ---------- last recording session at EMI studios*beatles
 On This Day: 04 January 1970 ---------- ends hosting weekly documentary*walter cronkite
 On This Day: 09 January 1970 Constitution of ---------- enacted*singapore
-On This Day: 12 January 1970 Boeing ----------  makes its maiden voyage*747
+On This Day: 12 January 1970 Boeing ---------- makes its maiden voyage*747
 On This Day: 16 January 1970 Colonel Kadhaffi becomes premier of ---------- *libya
 On This Day: 19 January 1970 UCLA fires Angela Davis for being a ---------- *communist
 On This Day: 19 January 1970 Dutch ---------- says he is in favor of married priest*bishop
@@ -1796,7 +1796,7 @@ In 1987 Surrogate Baby M case begins in---------- , NJ. *hackensack
 In 548 (Israel) This was the last year the ---------- observed the birth of Jesus on this date. (Celebrating Christmas on December 25th began in the late 300s in the Western Church.).*church in jerusalem
 In 1367 (England)---------- , Bordeaux, France, king of England (1377-99), born.*richard ii
 In 1412 (France)---------- , Domremy, martyr, born.*joan of arc
-In 1540 (England) King Henry VIII of England married his ----------  wife, Anne of Cleves.*4th
+In 1540 (England) King Henry VIII of England married his ---------- wife, Anne of Cleves.*4th
 In 1745 (France) Jacques Montgolfier, ---------- (1st pioneer balloonist), born.*aeronaut
 In 1838 (USA) Samuel Morse made 1st public demonstration of*telegraph
 In 1857 (USA) Patent for reducing ---------- granted to Samuel Wetherill.*zinc ore
@@ -1810,7 +1810,7 @@ In 1949 (USA)---------- , actor (V, Nightmare on Elm Street), born.*robert englu
 In 1950 (England) ---------- recognizes Communist government of China.*britain
 In 1935 Amelia Earhart flies from Hawaii to ---------- (non-stop, of course).*california
 In 1963 Beatles release ---------- & Ask Me Why.*please please me
-In 1975 Soyuz ----------  is launched.*1
+In 1975 Soyuz ---------- is launched.*1
 In 1956 (England)---------- , comedian/actor (Never Say Never Again, Mr. Bean, Blackadder), born.*rowan atkinson
 In 1977 (England) ---------- records drop punk rock group Sex Pistols.*emi
 In 1989 (Japan) ---------- of Japan, dies at 87 after 62-year reign.*emperor hirohito
@@ -1829,7 +1829,7 @@ In 1958 (Romania) Dr Petru Groza premier of---------- , dies at 74.*romania
 In 1964 (USA)---------- , actor (The Rock, Face/Off), born.*nicolas cage
 In 1964 ---------- achieves internal self-government & cabinet responsibility.*bahamas
 In 1979 (Vietnam) Vietnamese forces capture ---------- from Khmer Rouge.*phnom penh
-In 1798 ----------  Amendment of American Constitution ratified, Judicial powers construed.*11th
+In 1798 ---------- Amendment of American Constitution ratified, Judicial powers construed.*11th
 In 1799 First ---------- imposed.*income tax
 In 1862 Frank---------- , publisher and founder of Doubleday and Co., born.*nelson doubleday
 In 1868---------- , proved Einstein right about light bent by gravity, born.*sir frank dyson
@@ -1906,73 +1906,73 @@ What kind of trousers are special made for riding horses*jodhpurs
 What name is given to a case for carrying aroows*quiver
 What name is given to a drink and a well known book of records*guinness
 What did the Ugly Duckling grow up to be*swan
-In 1967 Russia launches first  ---------- mission.*soyuz
-In 1972  ---------- 16 astronauts explore the surface of the moon.*apollo
-In 1792 "La  ---------- ", the French national anthem, is composed by Claude-Joseph Rouget de Lisle.*marseillaise
+In 1967 Russia launches first ---------- mission.*soyuz
+In 1972 ---------- 16 astronauts explore the surface of the moon.*apollo
+In 1792 "La ---------- ", the French national anthem, is composed by Claude-Joseph Rouget de Lisle.*marseillaise
 In 1898 Spain declares war on U.S., rejecting ultimatum to withdraw from*cuba
-In 1934 Shirley  ---------- (in Richmond, Virginia), actor (in this life), born*maclaine
-In 1936 Jill  ---------- (in London, England), actor, born*ireland
-In 1942 Barbra  ---------- (in Brooklyn, NY), singer, actress, profile, born*streisand
-In 1944 First Boeing  ---------- arrives in China "over the Hump".*b-29
-In 1953 Winston Churchill  ---------- by Queen Elizabeth II.*knighted
+In 1934 Shirley ---------- (in Richmond, Virginia), actor (in this life), born*maclaine
+In 1936 Jill ---------- (in London, England), actor, born*ireland
+In 1942 Barbra ---------- (in Brooklyn, NY), singer, actress, profile, born*streisand
+In 1944 First Boeing ---------- arrives in China "over the Hump".*b-29
+In 1953 Winston Churchill ---------- by Queen Elizabeth II.*knighted
 In 1961 JFK accepts "sole responsibility" following the*bay of pigs
-In 1967 Cosmonaut  ---------- is first to die in space aboard Soyuz 1.*komarov
-In 1214 Louis IX, king of  ---------- (1226-70), born.*france
-In 1284 Edward II, king of  ---------- (1307-27), born.*england
-In 1599 Oliver Cromwell, Puritan lord protector of  ---------- (1653-58), born.*england
+In 1967 Cosmonaut ---------- is first to die in space aboard Soyuz 1.*komarov
+In 1214 Louis IX, king of ---------- (1226-70), born.*france
+In 1284 Edward II, king of ---------- (1307-27), born.*england
+In 1599 Oliver Cromwell, Puritan lord protector of ---------- (1653-58), born.*england
 In 1684 Patent granted for the*thimble
 In 1792 Guillotine 1st used, executes highwayman Nicolas J*pelletier
-In 1825 Charles Ferdinand  ---------- US, standardized time zones, born.*dowd
+In 1825 Charles Ferdinand ---------- US, standardized time zones, born.*dowd
 In 1840 Peter Ilyich ---------- , Russian composer (1812 Overture), born.*tchaikovsky
-In 1859 Ground broken for  ---------- Canal.*suez
-In 1867 Tokyo is opened for  ---------- trade.*foreign
-In 1874 Guglielmo  ---------- Bologna Italy, inventor (radio) (Nobel 1909), born.*marconi
-In 1915 ANZAC troops land at  ---------- (Now observed in Australia, New Zealand, Nauru, Solomon Islands, Tonga, Western Samoa). *gallipoli
+In 1859 Ground broken for ---------- Canal.*suez
+In 1867 Tokyo is opened for ---------- trade.*foreign
+In 1874 Guglielmo ---------- Bologna Italy, inventor (radio) (Nobel 1909), born.*marconi
+In 1915 ANZAC troops land at ---------- (Now observed in Australia, New Zealand, Nauru, Solomon Islands, Tonga, Western Samoa). *gallipoli
 In 1918 Ella ---------- , singer, born.*fitzgerald
-In 1925  ---------- takes office as president of Germany.*hindenburg
-In 1938 1st use of  ---------- dog.*seeing eye
-In 1940 Al  ---------- NYC, actor (Godfather, Carlito's Way), born.*pacino
+In 1925 ---------- takes office as president of Germany.*hindenburg
+In 1938 1st use of ---------- dog.*seeing eye
+In 1940 Al ---------- NYC, actor (Godfather, Carlito's Way), born.*pacino
 In 1945 Bjorn ---------- , rock vocalist/guitarist (ABBA), born.*ulvaeus
-In 1954 Bell labs announces 1st  ---------- battery (NYC).*solar
+In 1954 Bell labs announces 1st ---------- battery (NYC).*solar
 In 1956 Elvis Presley's " ---------- " goes #1.*heartbreak hotel
 In 1958 ---------- , rock vocalist (Marillon), born.*fish
 In 1960 Hope ---------- , actress (I Married Joan, Peter Gunn), dies at 62.*emerson
-In 1961 Unmanned  ---------- test explodes on launch pad.*mercury
+In 1961 Unmanned ---------- test explodes on launch pad.*mercury
 In 1964 Andy ---------- , rocker (Erasure), born.*bell
 In 1967 Britain grants internal self-government to*swaziland
 In 1972 George ---------- , actor (Mr Freeze-Batman TV series), dies at 65.*sanders
-In 1982 In accordance with Camp David,  ---------- completes Sinai withdrawl.*israel
+In 1982 In accordance with Camp David, ---------- completes Sinai withdrawl.*israel
 In 1990 Hubble space telescope is placed into orbit by shuttle*discovery
-In 757 Stephen  ---------- ends his reign as Catholic Pope.*ii
+In 757 Stephen ---------- ends his reign as Catholic Pope.*ii
 In 1514 Copernicus makes his 1st observations of*saturn
-In 1711 David  ---------- England, empiricists (Treatise of Human Nature), born.*hume
+In 1711 David ---------- England, empiricists (Treatise of Human Nature), born.*hume
 In 1803 Meteorites fall in ---------- , France.*l'aigle
 In 1812 Alfred ---------- , German arms merchant, born.*krupp
 In 1865 John Wilkes ---------- , Abraham Lincoln's assassin, is shot dead.*booth
 In 1895 Rudolf ---------- , Hitler's Deputy Fuhrer, only prisoner at Spandau, born.*hess
 In 1900 Charles ---------- , Earthquakes seismologist (Richter scale), born.*richter
-In 1904 William "Count"  ---------- jazz pianist, born.*basie
+In 1904 William "Count" ---------- jazz pianist, born.*basie
 In 1948 Stevie ---------- , rocker (Fleetwood Mac), born.*nicks
-In 1960 Roger  ---------- rock drummer (Duran Duran), born.*taylor
-In 1962 US/UK launch of  ---------- satellite; 1st international payload.*ariel
-In 1964 Tanganyika &  ---------- unite to form Tanzania (Tanzanian Union Day).*zanzibar
+In 1960 Roger ---------- rock drummer (Duran Duran), born.*taylor
+In 1962 US/UK launch of ---------- satellite; 1st international payload.*ariel
+In 1964 Tanganyika & ---------- unite to form Tanzania (Tanzanian Union Day).*zanzibar
 In 1968 US underground nuclear test, " ---------- ", 1 megaton device.*boxcar
-In 1970  ---------- stripper/actress, dies at 56.*gypsy rose lee
-In 1974 Landslide in  ---------- Province Peru creates a natural dam.*huancavelica
-In 1982 Argentina surrenders to  ---------- on S Georgia near Falkland Island.*britain
-In 1984 Liverpool's  ---------- Club, the home of the Beatles, reopens.*cavern
+In 1970 ---------- stripper/actress, dies at 56.*gypsy rose lee
+In 1974 Landslide in ---------- Province Peru creates a natural dam.*huancavelica
+In 1982 Argentina surrenders to ---------- on S Georgia near Falkland Island.*britain
+In 1984 Liverpool's ---------- Club, the home of the Beatles, reopens.*cavern
 In 1984 Count Basie jazz piano great, dies at*seventy nine*79
-In 1986  ---------- & Arnold Schwarzenegger marry.*maria shriver
-In 1986 Worst nuclear disaster,  ---------- USSR, 31 die.*chernobyl
-In 1989 Lucille Ball comedienne/actress dies at  ----------  of a massive heart attack.*seventy eight*78
+In 1986 ---------- & Arnold Schwarzenegger marry.*maria shriver
+In 1986 Worst nuclear disaster, ---------- USSR, 31 die.*chernobyl
+In 1989 Lucille Ball comedienne/actress dies at ---------- of a massive heart attack.*seventy eight*78
 In 4977 -BC- Johannes Kepler's date for creation of*universe
-In 1509 Pope  ---------- excommunicates Italian state of Venice.*julius ii
-In 1521 Ferdinand  ---------- world traveler, killed by Filipino natives.*magellan
+In 1509 Pope ---------- excommunicates Italian state of Venice.*julius ii
+In 1521 Ferdinand ---------- world traveler, killed by Filipino natives.*magellan
 In 1565 1st Spanish settlement in ---------- , Cebu City, forms.*philippines
-In 1737 Edward  ---------- England, historian (Decline & Fall of the Roman Emp), born.*gibson
+In 1737 Edward ---------- England, historian (Decline & Fall of the Roman Emp), born.*gibson
 In 1805 US Marines attack shores of*tripoli
-In 1908  ----------  modern Olympic games opens in London.*4th
-In 1909 Sultan of Turkey Abdul  ---------- II is overthrown.*hamid
+In 1908 ---------- modern Olympic games opens in London.*4th
+In 1909 Sultan of Turkey Abdul ---------- II is overthrown.*hamid
 In 1740 Marquis---------- , 1st known sadist, writer (Justine), born.*de sade
 In 1835 St Pius X, ---------- Roman Catholic pope (1903-14), born.*257th
 In 1835 P.T. ---------- & his circus begin 1st tour of US.*barnum
@@ -2101,7 +2101,7 @@ In 1783 Laki Volcano in southern Iceland begins ---------- eruption. *8-month
 In 1809 Thomas ---------- writer (Age of Reason, Common Sense), dies at 72. *paine
 In 1809 Thomas Paine writer (Age of Reason, Common Sense), dies at ---------. *seventy two*72
 In 1815 ------------German states unite under the Act of Confederation*thirty nine*39
-In 1928 1st US-to-----------  flight lands (Sir Charles Kingford-Smith). *australia
+In 1928 1st US-to----------- flight lands (Sir Charles Kingford-Smith). *australia
 In 1933 Joan ---------- Brooklyn, comedian (The Late Show, Hollywood Squares), born. *rivers
 In 1940 Nancy ---------- Jersey City, singer, (These boots were made for walking), born. *sinatra
 Sydney 2000 Olympics: This countries medal tally was: 40 Gold, 24 Silver, 33 Bronze, 97 in Total*united states of america
@@ -2170,7 +2170,7 @@ Who replaced Alun Michael as the Labour Leader in the Welsh Assembly*rhodri morg
 Still running at St. Martin's Theatre, who wrote the play 'The Mousetrap'*agatha christie
 Which cricketer is known as the 'Rawalpindi Express'*shoaib akhtar
 If you travel northwards along the coast of California, which is the next state that you reach*oregon
-What is the English name for the constellation with the Latin name Monoceros  It's a mythical creature*unicorn
+What is the English name for the constellation with the Latin name Monoceros It's a mythical creature*unicorn
 The Germans call it Ostsee. What do we call it*baltic sea
 To which party did Countess Markievicz, the first female MP belong*sinn fein
 Anna Tellwright is the title character in a book by which author*arnold bennett

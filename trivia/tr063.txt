@@ -422,7 +422,7 @@ ANIMALS: Stoats white winter fur*ermine
 MUSIC: Composer of the opera Prince Igor*borodin
 MUSIC: Former Beatle who had a hit with Imagine*john Lennon
 SPORT: Scottish town north of Ayr, famous for its golf course*troon
-FILM:  Scarey Character in Silence of the Lambs*hannibal lecter
+FILM: Scarey Character in Silence of the Lambs*hannibal lecter
 GEOGRAPHY: Teh central part of Bejing*forbidden city
 GENERAL KNOWLEDGE: Hop drying kiln*oast
 THE BODY: Received by the ear*aural
@@ -564,7 +564,7 @@ HISTORY: In WWII what was a moaning minnie*german mortar
 SPORT: Which sport featured in the BBCs first television broadcast of a sporting event in 1931*horse racing
 HISTORY: Who was the only survivor of the Burke and Wills expedition which set out from Melbourne in 1860 to cross australia*john king
 SPORT: Who was the French lawyer who provided the World Cup Trophy in 1930 and after whom it was named in 1946*jules rimet
-MUSIC: What was Britains first  winning Eurovision song entry*puppet on a string
+MUSIC: What was Britains first winning Eurovision song entry*puppet on a string
 FILM: Released in Aug 1999, starred Pierce Brosnan and Rene Russo in roles played by Steve Mcqueen and Faye Dunaway in 1968*the thomas crown affair
 PLANTS: what is the common name for Tropaeolum majus*nasturtium
 GEOGRAPHY: What English town is served by Squires Gate Airport*blackpool
@@ -596,7 +596,7 @@ GENERAL KNOWLEDGE: What is psephology*study of elections
 GENERAL KNOWLEDGE: Psephology, the study of elections comes from the greek word psephos meaning what*pebbles
 ACRONYMS: QUANTAS, what does it stand for*queensland and northern territory aerial services
 GENERAL KNOWLEDGE: Marmorial is the adjective pertaining to what substance*marble
-GEOGRAPHY: What was the ancient name for the Dardanelles, the strait between the Sea of Marmara and the  Aegean Sea*hellespont
+GEOGRAPHY: What was the ancient name for the Dardanelles, the strait between the Sea of Marmara and the Aegean Sea*hellespont
 GENERAL KNOWLEDGE: What is the oldest airline in the english speaking world, founded in 1920*quantas
 THE BODY: What would you be doing if your soft palate and pharynx were vibrating because of an obstruction*snoring
 THE BODY: What were foreman,longman,lecman and littleman old names for*the fingers
@@ -811,8 +811,8 @@ How many days where there in 1976*three hundred and sixty six366
 Alvin & Simon had a brother called ····*Theo
 An Andy Panda cartoon gave birth to a famous, cantankerous bird*Woody Woodpecker
 An adventurous penguin named Tennessee Tuxedo had a sidekick named ·······*Chumley
-An alien creature in a funny hat has opposed both Bugs Bunny and Daffy Duck  Where is he from*Mars
-Before Olive Oil met Popeye she was engaged to someone  Who was he*Ham Gravy
+An alien creature in a funny hat has opposed both Bugs Bunny and Daffy Duck Where is he from*Mars
+Before Olive Oil met Popeye she was engaged to someone Who was he*Ham Gravy
 Benny and Cecil were at odds with whom*John
 Bugs always finds himself at the wrong end of a gun, usually toted by either Elmer Fudd or who*Yosemite Sam
 Casper the Friendly Ghost frolicked with which witch*Wendy

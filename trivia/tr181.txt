@@ -1434,7 +1434,7 @@ TV/ Movies: 1985 - Demi Moore - Starred In This Movie: *st. elmo's fire
 TV/ Movies: 1984 - Demi Moore - Starred In This Movie: *blame it on rio
 TV/ Movies: 1982 - Demi Moore - Starred In This Movie: *young doctors in love
 TV/ Movies: 1982 - Demi Moore - Starred In This Movie: *parasite
-TV/ Movies: 1981  - Demi Moore - Starred In This Movie: *choices
+TV/ Movies: 1981 - Demi Moore - Starred In This Movie: *choices
 TV/ Movies: 2000 - Bruce Willis - Starred In This Movie: *the whole nine yards
 TV/ Movies: 1999 - Bruce Willis - Starred In This Movie: *the story of us
 TV/ Movies: 1999 - Bruce Willis - Starred In This Movie: *breakfast of champions
@@ -1468,7 +1468,7 @@ TV/ Movies: 1988 - Bruce Willis - Starred In This Movie: *sunset
 TV/ Movies: 1987 - Bruce Willis - Starred In This Movie: *blind date
 TV/ Movies: 1985 - Bruce Willis - Starred In This Movie: *moonlighting
 TV/ Movies: 1982 - Bruce Willis - Starred In This Movie: *the verdict
-TV/ Movies: 1980  - Bruce Willis - Starred In This Movie: *the first deadly sin
+TV/ Movies: 1980 - Bruce Willis - Starred In This Movie: *the first deadly sin
 TV/ Movies: 1999 - Meryl Streep - Starred In This Movie: *music of the heart
 TV/ Movies: 1998 - Meryl Streep - Starred In This Movie: *dancing at lughnasa
 TV/ Movies: 1998 - Meryl Streep - Starred In This Movie: *one true thing
@@ -1496,7 +1496,7 @@ TV/ Movies: 1979 - Meryl Streep - Starred In This Movie: *kramer vs. kramer
 TV/ Movies: 1979 - Meryl Streep - Starred In This Movie: *manhattan
 TV/ Movies: 1978 - Meryl Streep - Starred In This Movie: *the deer hunter
 TV/ Movies: 1977 - Meryl Streep - Starred In This Movie: *the deadliest season
-TV/ Movies: 1977  - Meryl Streep - Starred In This Movie: *julia
+TV/ Movies: 1977 - Meryl Streep - Starred In This Movie: *julia
 TV/ Movies: 1998 - Dustin Hoffman - Starred In This Movie: *sphere
 TV/ Movies: 1997 - Dustin Hoffman - Starred In This Movie: *mad city
 TV/ Movies: 1997 - Dustin Hoffman - Starred In This Movie: *wag the dog
@@ -1555,7 +1555,7 @@ TV/ Movies: 1983 - Robin Williams - Starred In This Movie: *the survivors
 TV/ Movies: 1982 - Robin Williams - Starred In This Movie: *the world according to garp
 TV/ Movies: 1980 - Robin Williams - Starred In This Movie: *children of babylon
 TV/ Movies: 1980 - Robin Williams - Starred In This Movie: *popeye
-TV/ Movies: 1977  - Robin Williams - Starred In This Movie: *can i do it . . . 'till i need glasses
+TV/ Movies: 1977 - Robin Williams - Starred In This Movie: *can i do it . . . 'till i need glasses
 TV/ Movies: 1994 - Elizabeth Taylor - Starred In This Movie: *the flintstones
 TV/ Movies: 1989 - Elizabeth Taylor - Starred In This Movie: *sweet bird of youth
 TV/ Movies: 1988 - Elizabeth Taylor - Starred In This Movie: *young toscanini
@@ -1635,7 +1635,7 @@ TV/ Movies: 1983 - Sigourney Weaver - Starred In This Movie: *the year of living
 TV/ Movies: 1981 - Sigourney Weaver - Starred In This Movie: *eyewitness
 TV/ Movies: 1979 - Sigourney Weaver - Starred In This Movie: *alien
 TV/ Movies: 1978 - Sigourney Weaver - Starred In This Movie: *madman
-TV/ Movies: 1977  - Sigourney Weaver - Starred In This Movie: *annie hall
+TV/ Movies: 1977 - Sigourney Weaver - Starred In This Movie: *annie hall
 TV/ Movies: 1997 - Winona Ryder - Starred In This Movie: *alien resurrection
 TV/ Movies: 1996 - Winona Ryder - Starred In This Movie: *boys
 TV/ Movies: 1996 - Winona Ryder - Starred In This Movie: *looking for richard
@@ -1674,7 +1674,7 @@ TV/ Movies: 1960 - Elvis Presley - Starred In This Movie: *g.i. blues
 TV/ Movies: 1958 - Elvis Presley - Starred In This Movie: *king creole
 TV/ Movies: 1957 - Elvis Presley - Starred In This Movie: *jailhouse rock
 TV/ Movies: 1957 - Elvis Presley - Starred In This Movie: *loving you
-TV/ Movies: 1956  - Elvis Presley - Starred In This Movie: *love me tender
+TV/ Movies: 1956 - Elvis Presley - Starred In This Movie: *love me tender
 TV/ Movies: 2000 - George Clooney - Starred In This Movie: *the perfect storm
 TV/ Movies: 1999 - George Clooney - Starred In This Movie: *three kings
 TV/ Movies: 1998 - George Clooney - Starred In This Movie: *the thin red line
@@ -1688,7 +1688,7 @@ TV/ Movies: 1990 - George Clooney - Starred In This Movie: *red surf
 TV/ Movies: 1990 - George Clooney - Starred In This Movie: *sunset beat
 TV/ Movies: 1988 - George Clooney - Starred In This Movie: *return of the killer tomatoes
 TV/ Movies: 1987 - George Clooney - Starred In This Movie: *return to horror high
-TV/ Movies: 1982  - George Clooney - Starred In This Movie: *and they're off
+TV/ Movies: 1982 - George Clooney - Starred In This Movie: *and they're off
 TV/ Movies: 1999 - Arnold Schwarzenegger - Starred In This Movie: *end of days
 TV/ Movies: 1997 - Arnold Schwarzenegger - Starred In This Movie: *batman & robin
 TV/ Movies: 1996 - Arnold Schwarzenegger - Starred In This Movie: *eraser
@@ -1790,215 +1790,215 @@ TV/ Movies: 1990 - Julia Roberts - Starred In This Movie: *pretty woman
 TV/ Movies: 1989 - Julia Roberts - Starred In This Movie: *steel magnolias
 TV/ Movies: 1989 - Julia Roberts - Starred In This Movie: *blood red
 TV/ Movies: 1988 - Julia Roberts - Starred In This Movie: *satisfaction
-TV/ Movies:  What is the name of Paul & Jamies dog in "Mad About You"*murray
-TV/ Movies:  What is the registry number of the Enterprise in the original Star Trek*ncc 1701
-TV/ Movies:  What is Winnie The Pooh's real name*edward bear
-TV/ Movies:  What movie has Steve Martin noting, "it's not the size of a nose that matters, it's what's in it"*roxanne
-TV/ Movies:  What musical was named after a U S city*oklahoma
-TV/ Movies:  What network features programming just for children*nickelodeon
-TV/ Movies:  What night club did Ricky work at on 'I  Love Lucy'*the tropicana
-TV/ Movies:  What pre tv radio show turned film caused people to commit suicide when it was first aired*war of the worlds
-TV/ Movies:  What role did Herve Villechaize portray in Fantasy Island*tatoo
-TV/ Movies:  What short lived series starred Ice Cube*the watcher
-TV/ Movies:  What show do Ron Howard & Erin Moran play brother & sister in*happy days
-TV/ Movies:  What show/game has characters such as Bulbasaur & Pikachu*pokemon
-TV/ Movies:  What U K actress starred in "To The Manor Born"*penelope keith
-TV/ Movies:  What U K actress starred in the comedy series "Executive Decision"*penelope keith
-TV/ Movies:  What U K comedy series was a spin off from "Man About The House"*george & mildred
-TV/ Movies:  What U K comedy series was centred around Grace Bros department store*are you being served*are you being served
-TV/ Movies:  What was Archie Bunkers wife's name*edith
-TV/ Movies:  What was Barbara Streisand's first film*funny girl
-TV/ Movies:  What was Ben Stiller's character called in 'Mystery Men'*mr furious
-TV/ Movies:  What was Bugs Bunny originally known as*oswald the rabbit
-TV/ Movies:  What was Eddie Murphy's character name in 'Beverley Hills Cop'*axel foley
-TV/ Movies:  What was Frank Spencer's wife name in "Some Mothers Do Have Them"*betty
-TV/ Movies:  What was Garth's last name in 'Wayne's World'*algar
-TV/ Movies:  What was Gomez & Morticia's daughter's name in "The Addams Family"*wednesday
-TV/ Movies:  What was Gomez & Morticia's son's name in "The Addams Family"*pugsley
-TV/ Movies:  What was Gomez's wifes name in "The Addams Family"*morticia
-TV/ Movies:  What was Keanu Reeves' computer world alias in 'The Matrix'*neo
-TV/ Movies:  What was Keanu Reeves' first big film*point break
-TV/ Movies:  What was Kevin Bacon's first big hit*footloose
-TV/ Movies:  What was Lestat's last name*de lioncourt
-TV/ Movies:  What was Lestat's mother's name*gabrielle
-TV/ Movies:  What was Lucy's maiden name on 'I Love Lucy'*mcgillicuddy
-TV/ Movies:  What was 'Rocky's' last name*balboa
-TV/ Movies:  What was Samantha & Darren Stevens' girl called in Bewitched*tabitha
-TV/ Movies:  What was Samantha's mother's name in Bewitched*endora
-TV/ Movies:  What was Superman vulnerable to*kryptonite
-TV/ Movies:  What was the butler's name in "Family Affair"*mr french
-TV/ Movies:  What was the butler's name in "The Addams Family"*lurch
-TV/ Movies:  What was the dog's name in the Brady Bunch*tiger
-TV/ Movies:  What was the favourite dish at Mels Diner in Alice*chili
-TV/ Movies:  What was the first film to team Jack Lemmon & Walter Matthau*fortune cookie
-TV/ Movies:  What was the first movie Tom Cruise & Nicole Kidman star together in*days of thunder
-TV/ Movies:  what was the hand called in "the addams family"*thing
-TV/ Movies:  what was the magic word in mary poppins*supercalifragilisticexpialidocious
-TV/ Movies:  what was the name of archie bunker's grandson*joey stivic
-TV/ Movies:  what was the name of buffy's doll in the 1970's show 'family affair'*mrs beasley
-TV/ Movies:  what was the name of darren's boss*larry tait
-TV/ Movies:  what was the name of ross' pet monkey on 'friends'*marcell
-TV/ Movies:  what was the name of the bartender in the tv series 'cheers'*sam malone
-TV/ Movies:  what was the name of the first film where george burns played god*oh, god
-TV/ Movies:  what was the name of the husband of the pretty witch in bewitched*darrin
-TV/ Movies:  what was the name of the last film where george burns played god*oh god, you devil
-TV/ Movies:  what was the name of the ranch in the tv series 'bonanza'*ponderosa
-TV/ Movies:  what was the name of the six million dollar man*steve austin
-TV/ Movies:  what was the name of the two space shuttles in 'armegeddon'*freedom & independence
-TV/ Movies:  what was the old tarts name in "the golden girls"*blanche
-TV/ Movies:  whats the number on "herbie" the love bug*53
-TV/ Movies:  when the students in 'dead poets' society' stood on their desks & said 'o captain! My captain', who were they quoting*walt whitman
-TV/ Movies:  where did dorothy's house land in 'the wizard of oz'*on the wicked witch of the west
-TV/ Movies:  where do the simpsons live*springfield
-TV/ Movies:  which 2 famous actors both starred in "apollo13" & "forest gump"*tom hanks & gary sinise*gary sinise & tom hanks
-TV/ Movies:  which actor played the title role in the mad max series of films*mel gibson
-TV/ Movies:  which famous actor is emilio estevez's brother*charlie sheen
-TV/ Movies:  which famous actor is emilio estevez's father*martin sheen
-TV/ Movies:  which famous actor is keifer sutherland's father*donald sutherland
-TV/ Movies:  which famous actor is michael douglas' father*kirk douglas
-TV/ Movies:  which famous actor is the nephew of francis ford coppolo*nicholas cage
-TV/ Movies:  which famous actor never made it to the moon in "apollo13" but made it to mars in "mission to mars"*gary sinise
-TV/ Movies:  which famous actor played vinni barbarino in "welcome back kotter*john travolta
-TV/ Movies:  which famous actor starred in "braveheart" & "lethal weapon"*mel gibson
-TV/ Movies:  which famous actor starred in "fatal attraction" & "the game"*michael douglas
-TV/ Movies:  which famous actor starred in "grease" & "look who's talking"*john travolta
-TV/ Movies:  which famous actor starred in "the terminator" & "kindergarten cop"*arnold schwarzenegger
-TV/ Movies:  which famous actress starred in "basic instinct"*sharon stone
-TV/ Movies:  which famous actress starred in "the blue lagoon"*brooke shields
-TV/ Movies:  which famous actress starred in "the rocky horror picture movie show" & "thelma & louise"*susan sarandon
-TV/ Movies:  which famous singer played opposite kevin costner in "the bodyguard"*whitney houston
-TV/ Movies:  which hollywood actor combined gibraltar & a river to create his name*rock hudson
-TV/ Movies:  which monkee was in "circus boy"*mickey dolenz
-TV/ Movies:  which movie did cher, michelle pfeiffer & susan sarandon star together in*witches of eastwick*the withches of eastwick
-TV/ Movies:  which movie did michelle pfeifer & george clooney star together in*one fine day
-TV/ Movies:  which movie starred both john travolta & olivia newton john*grease
-TV/ Movies:  which of the four monkees was marcia in love with (brady bunch)*davey jones
-TV/ Movies:  which peanuts character plays the piano*schroder*schroeder
-TV/ Movies:  which tv series was david cassidy in*partridge family
-TV/ Movies:  who co starred opposite leonardo di caprio in the movie "titanic"*kate winslet
-TV/ Movies:  who co starred with eddie albert in the tv series "greenacres"*zsa zsa gabor
-TV/ Movies:  who co starred with lucille ball in "here's lucy"*desi arnez
-TV/ Movies:  who co starred with tom hanks in "sleepless in seattle"*meg ryan
-TV/ Movies:  who created star trek*gene roddenbury
-TV/ Movies:  who did frank sinatra marry in november of 1951*ava gardner
-TV/ Movies:  who did joan collins play in 'dynasty'*alexis carrington
-TV/ Movies:  who died in a porsche spyder*james dean
-TV/ Movies:  who directed 'e.t'*steven spielberg
-TV/ Movies:  who directed 'jurassic park'*steven spielberg
-TV/ Movies:  who directed 'schindler's list'*steven spielberg
-TV/ Movies:  who directed 'the shining'*stanley kubrick
-TV/ Movies:  who does the voice for yoda in the star wars films*frank oz
-TV/ Movies:  Who first shaved his head to play Pontius Pilate in The Greatest Story ever Told*telly savalas
-TV/ Movies:  Who got $10 million to provide the voice of a baby for a 1990 movie*bruce willis
-TV/ Movies:  who is batman's gay offsider*robin
-TV/ Movies:  who is david soul's famous brother*robert urich
-TV/ Movies:  who is mr. Warmth*don rickles
-TV/ Movies:  who is robert urich's famous brother*david soul
-TV/ Movies:  who is schroeder's favourite composer*beethoven
-TV/ Movies:  who is shirley mclean's brother*warren beatty
-TV/ Movies:  who is the main character in 'touched by an angel'*monica
-TV/ Movies:  who is warren beatty's sister*shirley mclaine
-TV/ Movies:  who lived downstairs in the uk comedy "man about the house"*george & mildred
-TV/ Movies:  who lives next door to the flintstones*the rubbles*rubbles
-TV/ Movies:  who owns the licensing rights to all star wars merchandise*george lucas
-TV/ Movies:  who play frank spencer in "some mothers do have them"*michael crawford
-TV/ Movies:  who played "daniel boone"*fess parker
-TV/ Movies:  who played "snake" in "escape from new york"*kurt russell
-TV/ Movies:  who played "the flying nun"*sally field
-TV/ Movies:  who played "the six million dollar man"*lee majors
-TV/ Movies:  who played "wonder woman"*linda carter
-TV/ Movies:  who played alex keating in "family ties"*michael j. fox*michael j fox
-TV/ Movies:  who played alexis carrington in the tv series 'dynasty'*joan collins
-TV/ Movies:  who played arthur fonzarelli in 'happy days'*henry winkler
-TV/ Movies:  who played beaver in "leave it to beaver"*jerry mathers
-TV/ Movies:  who played bonnie to warren beatty's clyde*faye dunaway
-TV/ Movies:  who played charlie in "charlies angels"*john forsythe
-TV/ Movies:  who played commander riker in 'star trek'*jonathon frakes
-TV/ Movies:  who played deanna troi in 'star trek the next generation'*marina sirtis
-TV/ Movies:  who played forrest gump*tom hanks
-TV/ Movies:  who played garth in wayne's world*dana carvey
-TV/ Movies:  who played george costanza on 'seinfeld'*jason alexander
-TV/ Movies:  who played god in 'oh god, book ii'*george burns
-TV/ Movies:  Who played Jack Crabbe, survivor of Custer's Last Stand, in Little Big Man*dustin hoffman
-TV/ Movies:  who played jeannie in "i dream of jeannie"*barbra eden*barbara eden
-TV/ Movies:  who played jim morrison's girlfriend in "the doors"*meg ryan
-TV/ Movies:  who played 'johnny mnemonic'*keanu reeves
-TV/ Movies:  who played lestat in 'interview with the vampire'*tom cruise
-TV/ Movies:  who played louis in 'interview with the vampire'*brad pitt
-TV/ Movies:  who played marcus welby*robert young
-TV/ Movies:  who played mary richard's boss in the mary tyler moore show*ed asner
-TV/ Movies:  who played mike brady in the brady bunch*robert reed
-TV/ Movies:  who played minnesota fats in the movie, 'the hustler'*jackie gleason
-TV/ Movies:  who played mork in "mork & mindy"*robin williams
-TV/ Movies:  who played mr. Spock in "star trek"*leonard nimoy
-TV/ Movies:  who played opposite dean martin in rio grande*john wayne
-TV/ Movies:  who played opposite dennis quaid (she eventually married him) in "inner space"*meg ryan
-TV/ Movies:  who played opposite tom hanks in "you've got mail"*meg ryan
-TV/ Movies:  who played queen amidala in the latest 'star wars' film*natalie portman
-TV/ Movies:  who played richie in 'happy days'*ron howard
-TV/ Movies:  who played romeo in the 1996 release of romeo & juliet*leonardo di caprio
-TV/ Movies:  who played samantha in "bewitched"*elizabeth montgomery
-TV/ Movies:  who played steve erkel in 'family matters'*jaleel white
-TV/ Movies:  who played the father in "my three sons"*fred macmurray
-TV/ Movies:  who played the father in the uk comedy "bless this house"*sid james
-TV/ Movies:  who played the incredible hulk*bill bixby
-TV/ Movies:  who played the inventor in 'honey, i shrunk the kids'*rick moranis
-TV/ Movies:  who played the joker on the original batman movie*caesar romero
-TV/ Movies:  who played the male lead in the movie grease*john travolta
-TV/ Movies:  who played the master in "i dream of jeannie"*larry hagman
-TV/ Movies:  who played the mermaid in "splash"*darryl hannah
-TV/ Movies:  who played the mother in "the partridge family"*shirley jones
-TV/ Movies:  who played the mum in the brady bunch*florence henderson
-TV/ Movies:  who played the mutating fly in the film 'the fly'*jeff goldblum
-TV/ Movies:  who played the penguin on the original batman*burgess meredith
-TV/ Movies:  who played the president of the u.s in 'air force one'*harrison ford
-TV/ Movies:  Who played the 'Rifleman' in the series*chuck connors
-TV/ Movies:  who played the role of gilligan on tv*bob denver
-TV/ Movies:  who played the starring role in "waterworld"*kevin costner
-TV/ Movies:  who played the stepmother in 'my stepmother is an alien'*kim bassinger
-TV/ Movies:  who played the 'universal soldier'*jean claude van damme
-TV/ Movies:  who played tv's superman in the original series*george reeves
-TV/ Movies:  who played woody in "cheers"*woody harrelson
-TV/ Movies:  who plays "angela" on whos the boss*judith light
-TV/ Movies:  who plays dana scully in "the x files"*gillian anderson
-TV/ Movies:  who plays fox mulder in "the x files"*david duchovny
-TV/ Movies:  who plays kelly in "married with children"*christina applegate
-TV/ Movies:  who plays many voices, such as dr nick, & moe on 'the simpsons'*hank azaria
-TV/ Movies:  who plays monica in "friends"*courtney cox arquette*courtney cox
-TV/ Movies:  who plays rachel in "friends"*jennifer aniston
-TV/ Movies:  who sang the title song to 'goldfinger'*shirley bassey
-TV/ Movies:  who shot j.r. ewing in the tv series 'dallas'*kristin shepard
-TV/ Movies:  who starred as mchale in "mchale's navy"*ernest borgnine
-TV/ Movies:  who starred as the nanny in "the nanny & the professor"*juliet mills
-TV/ Movies:  who starred opposite billy crystal in "when harry met sally"*meg ryan
-TV/ Movies:  who starred opposite tom hanks in "sleepless in seattle"*meg ryan
-TV/ Movies:  Who thanked his parents for not practicing birth control upon picking up a 1979 Best Actor Oscar*dustin hoffman
-TV/ Movies:  who was alice's boyfriend in "the brady bunch"*sam the butcher
-TV/ Movies:  who was basil in the uk comedy "fawlty towers"*john cleese
-TV/ Movies:  who was born marion morrison*john wayne
-TV/ Movies:  who was brandon lee's father*bruce lee
-TV/ Movies:  who was bruce lee's son*brandon lee
-TV/ Movies:  who was elvis presley's female co starin g. I. Blues*juliet prowse
-TV/ Movies:  who was george burns' wife, whom he had a popular tv show with*gracie allen
-TV/ Movies:  who was lauren bacall's first husband*humphrey bogart
-TV/ Movies:  who was pinocchio's father*geppetto
-TV/ Movies:  who was ronald reagan's first wife*jane wyman
-TV/ Movies:  who was the actor that played the starring role in escape from new york*kurt russell
-TV/ Movies:  who was the announcer on you bet your life*george fenneman
-TV/ Movies:  who was the director of 'terminator & titanic'*james cameron
-TV/ Movies:  who was the first actress to appear on the cover of life magazine*jean harlow
-TV/ Movies:  who was the first american actress to appear on a postage stamp*grace kelly
-TV/ Movies:  Who was the first supposedly computer generated TV talk show host*max headroom
-TV/ Movies:  who was the millionaire in "gilligans island"*thurston howell iii
-TV/ Movies:  who was the movie star in "gilligans island"*ginger
-TV/ Movies:  Who was the only person the new owners didn't fire, on The Mary Tyler Moore Show*ted baxter
-TV/ Movies:  who were lucy & ricky's next door neighbours & best friends*fred & ethel
-TV/ Movies:  who wrote & performed "year of the cat"*al stewart
-TV/ Movies:  who wrote the classic thriller 'the birds'*alfred hitchcock*hitchcock
-TV/ Movies:  who wrote the vampire series that featured lestat as the main character*anne rice
-TV/ Movies:  Whose biography was titled The Other Side of the Rainbow*judy garland*judy garland's*judy garlands
-TV/ Movies:  whose legs were shown in place of julia roberts' legs in 'pretty woman'*goldie hawn
-TV/ Movies:  whose neighbors were frank & irene lorenzo*archie bunker's
+TV/ Movies: What is the name of Paul & Jamies dog in "Mad About You"*murray
+TV/ Movies: What is the registry number of the Enterprise in the original Star Trek*ncc 1701
+TV/ Movies: What is Winnie The Pooh's real name*edward bear
+TV/ Movies: What movie has Steve Martin noting, "it's not the size of a nose that matters, it's what's in it"*roxanne
+TV/ Movies: What musical was named after a U S city*oklahoma
+TV/ Movies: What network features programming just for children*nickelodeon
+TV/ Movies: What night club did Ricky work at on 'I Love Lucy'*the tropicana
+TV/ Movies: What pre tv radio show turned film caused people to commit suicide when it was first aired*war of the worlds
+TV/ Movies: What role did Herve Villechaize portray in Fantasy Island*tatoo
+TV/ Movies: What short lived series starred Ice Cube*the watcher
+TV/ Movies: What show do Ron Howard & Erin Moran play brother & sister in*happy days
+TV/ Movies: What show/game has characters such as Bulbasaur & Pikachu*pokemon
+TV/ Movies: What U K actress starred in "To The Manor Born"*penelope keith
+TV/ Movies: What U K actress starred in the comedy series "Executive Decision"*penelope keith
+TV/ Movies: What U K comedy series was a spin off from "Man About The House"*george & mildred
+TV/ Movies: What U K comedy series was centred around Grace Bros department store*are you being served*are you being served
+TV/ Movies: What was Archie Bunkers wife's name*edith
+TV/ Movies: What was Barbara Streisand's first film*funny girl
+TV/ Movies: What was Ben Stiller's character called in 'Mystery Men'*mr furious
+TV/ Movies: What was Bugs Bunny originally known as*oswald the rabbit
+TV/ Movies: What was Eddie Murphy's character name in 'Beverley Hills Cop'*axel foley
+TV/ Movies: What was Frank Spencer's wife name in "Some Mothers Do Have Them"*betty
+TV/ Movies: What was Garth's last name in 'Wayne's World'*algar
+TV/ Movies: What was Gomez & Morticia's daughter's name in "The Addams Family"*wednesday
+TV/ Movies: What was Gomez & Morticia's son's name in "The Addams Family"*pugsley
+TV/ Movies: What was Gomez's wifes name in "The Addams Family"*morticia
+TV/ Movies: What was Keanu Reeves' computer world alias in 'The Matrix'*neo
+TV/ Movies: What was Keanu Reeves' first big film*point break
+TV/ Movies: What was Kevin Bacon's first big hit*footloose
+TV/ Movies: What was Lestat's last name*de lioncourt
+TV/ Movies: What was Lestat's mother's name*gabrielle
+TV/ Movies: What was Lucy's maiden name on 'I Love Lucy'*mcgillicuddy
+TV/ Movies: What was 'Rocky's' last name*balboa
+TV/ Movies: What was Samantha & Darren Stevens' girl called in Bewitched*tabitha
+TV/ Movies: What was Samantha's mother's name in Bewitched*endora
+TV/ Movies: What was Superman vulnerable to*kryptonite
+TV/ Movies: What was the butler's name in "Family Affair"*mr french
+TV/ Movies: What was the butler's name in "The Addams Family"*lurch
+TV/ Movies: What was the dog's name in the Brady Bunch*tiger
+TV/ Movies: What was the favourite dish at Mels Diner in Alice*chili
+TV/ Movies: What was the first film to team Jack Lemmon & Walter Matthau*fortune cookie
+TV/ Movies: What was the first movie Tom Cruise & Nicole Kidman star together in*days of thunder
+TV/ Movies: what was the hand called in "the addams family"*thing
+TV/ Movies: what was the magic word in mary poppins*supercalifragilisticexpialidocious
+TV/ Movies: what was the name of archie bunker's grandson*joey stivic
+TV/ Movies: what was the name of buffy's doll in the 1970's show 'family affair'*mrs beasley
+TV/ Movies: what was the name of darren's boss*larry tait
+TV/ Movies: what was the name of ross' pet monkey on 'friends'*marcell
+TV/ Movies: what was the name of the bartender in the tv series 'cheers'*sam malone
+TV/ Movies: what was the name of the first film where george burns played god*oh, god
+TV/ Movies: what was the name of the husband of the pretty witch in bewitched*darrin
+TV/ Movies: what was the name of the last film where george burns played god*oh god, you devil
+TV/ Movies: what was the name of the ranch in the tv series 'bonanza'*ponderosa
+TV/ Movies: what was the name of the six million dollar man*steve austin
+TV/ Movies: what was the name of the two space shuttles in 'armegeddon'*freedom & independence
+TV/ Movies: what was the old tarts name in "the golden girls"*blanche
+TV/ Movies: whats the number on "herbie" the love bug*53
+TV/ Movies: when the students in 'dead poets' society' stood on their desks & said 'o captain! My captain', who were they quoting*walt whitman
+TV/ Movies: where did dorothy's house land in 'the wizard of oz'*on the wicked witch of the west
+TV/ Movies: where do the simpsons live*springfield
+TV/ Movies: which 2 famous actors both starred in "apollo13" & "forest gump"*tom hanks & gary sinise*gary sinise & tom hanks
+TV/ Movies: which actor played the title role in the mad max series of films*mel gibson
+TV/ Movies: which famous actor is emilio estevez's brother*charlie sheen
+TV/ Movies: which famous actor is emilio estevez's father*martin sheen
+TV/ Movies: which famous actor is keifer sutherland's father*donald sutherland
+TV/ Movies: which famous actor is michael douglas' father*kirk douglas
+TV/ Movies: which famous actor is the nephew of francis ford coppolo*nicholas cage
+TV/ Movies: which famous actor never made it to the moon in "apollo13" but made it to mars in "mission to mars"*gary sinise
+TV/ Movies: which famous actor played vinni barbarino in "welcome back kotter*john travolta
+TV/ Movies: which famous actor starred in "braveheart" & "lethal weapon"*mel gibson
+TV/ Movies: which famous actor starred in "fatal attraction" & "the game"*michael douglas
+TV/ Movies: which famous actor starred in "grease" & "look who's talking"*john travolta
+TV/ Movies: which famous actor starred in "the terminator" & "kindergarten cop"*arnold schwarzenegger
+TV/ Movies: which famous actress starred in "basic instinct"*sharon stone
+TV/ Movies: which famous actress starred in "the blue lagoon"*brooke shields
+TV/ Movies: which famous actress starred in "the rocky horror picture movie show" & "thelma & louise"*susan sarandon
+TV/ Movies: which famous singer played opposite kevin costner in "the bodyguard"*whitney houston
+TV/ Movies: which hollywood actor combined gibraltar & a river to create his name*rock hudson
+TV/ Movies: which monkee was in "circus boy"*mickey dolenz
+TV/ Movies: which movie did cher, michelle pfeiffer & susan sarandon star together in*witches of eastwick*the withches of eastwick
+TV/ Movies: which movie did michelle pfeifer & george clooney star together in*one fine day
+TV/ Movies: which movie starred both john travolta & olivia newton john*grease
+TV/ Movies: which of the four monkees was marcia in love with (brady bunch)*davey jones
+TV/ Movies: which peanuts character plays the piano*schroder*schroeder
+TV/ Movies: which tv series was david cassidy in*partridge family
+TV/ Movies: who co starred opposite leonardo di caprio in the movie "titanic"*kate winslet
+TV/ Movies: who co starred with eddie albert in the tv series "greenacres"*zsa zsa gabor
+TV/ Movies: who co starred with lucille ball in "here's lucy"*desi arnez
+TV/ Movies: who co starred with tom hanks in "sleepless in seattle"*meg ryan
+TV/ Movies: who created star trek*gene roddenbury
+TV/ Movies: who did frank sinatra marry in november of 1951*ava gardner
+TV/ Movies: who did joan collins play in 'dynasty'*alexis carrington
+TV/ Movies: who died in a porsche spyder*james dean
+TV/ Movies: who directed 'e.t'*steven spielberg
+TV/ Movies: who directed 'jurassic park'*steven spielberg
+TV/ Movies: who directed 'schindler's list'*steven spielberg
+TV/ Movies: who directed 'the shining'*stanley kubrick
+TV/ Movies: who does the voice for yoda in the star wars films*frank oz
+TV/ Movies: Who first shaved his head to play Pontius Pilate in The Greatest Story ever Told*telly savalas
+TV/ Movies: Who got $10 million to provide the voice of a baby for a 1990 movie*bruce willis
+TV/ Movies: who is batman's gay offsider*robin
+TV/ Movies: who is david soul's famous brother*robert urich
+TV/ Movies: who is mr. Warmth*don rickles
+TV/ Movies: who is robert urich's famous brother*david soul
+TV/ Movies: who is schroeder's favourite composer*beethoven
+TV/ Movies: who is shirley mclean's brother*warren beatty
+TV/ Movies: who is the main character in 'touched by an angel'*monica
+TV/ Movies: who is warren beatty's sister*shirley mclaine
+TV/ Movies: who lived downstairs in the uk comedy "man about the house"*george & mildred
+TV/ Movies: who lives next door to the flintstones*the rubbles*rubbles
+TV/ Movies: who owns the licensing rights to all star wars merchandise*george lucas
+TV/ Movies: who play frank spencer in "some mothers do have them"*michael crawford
+TV/ Movies: who played "daniel boone"*fess parker
+TV/ Movies: who played "snake" in "escape from new york"*kurt russell
+TV/ Movies: who played "the flying nun"*sally field
+TV/ Movies: who played "the six million dollar man"*lee majors
+TV/ Movies: who played "wonder woman"*linda carter
+TV/ Movies: who played alex keating in "family ties"*michael j. fox*michael j fox
+TV/ Movies: who played alexis carrington in the tv series 'dynasty'*joan collins
+TV/ Movies: who played arthur fonzarelli in 'happy days'*henry winkler
+TV/ Movies: who played beaver in "leave it to beaver"*jerry mathers
+TV/ Movies: who played bonnie to warren beatty's clyde*faye dunaway
+TV/ Movies: who played charlie in "charlies angels"*john forsythe
+TV/ Movies: who played commander riker in 'star trek'*jonathon frakes
+TV/ Movies: who played deanna troi in 'star trek the next generation'*marina sirtis
+TV/ Movies: who played forrest gump*tom hanks
+TV/ Movies: who played garth in wayne's world*dana carvey
+TV/ Movies: who played george costanza on 'seinfeld'*jason alexander
+TV/ Movies: who played god in 'oh god, book ii'*george burns
+TV/ Movies: Who played Jack Crabbe, survivor of Custer's Last Stand, in Little Big Man*dustin hoffman
+TV/ Movies: who played jeannie in "i dream of jeannie"*barbra eden*barbara eden
+TV/ Movies: who played jim morrison's girlfriend in "the doors"*meg ryan
+TV/ Movies: who played 'johnny mnemonic'*keanu reeves
+TV/ Movies: who played lestat in 'interview with the vampire'*tom cruise
+TV/ Movies: who played louis in 'interview with the vampire'*brad pitt
+TV/ Movies: who played marcus welby*robert young
+TV/ Movies: who played mary richard's boss in the mary tyler moore show*ed asner
+TV/ Movies: who played mike brady in the brady bunch*robert reed
+TV/ Movies: who played minnesota fats in the movie, 'the hustler'*jackie gleason
+TV/ Movies: who played mork in "mork & mindy"*robin williams
+TV/ Movies: who played mr. Spock in "star trek"*leonard nimoy
+TV/ Movies: who played opposite dean martin in rio grande*john wayne
+TV/ Movies: who played opposite dennis quaid (she eventually married him) in "inner space"*meg ryan
+TV/ Movies: who played opposite tom hanks in "you've got mail"*meg ryan
+TV/ Movies: who played queen amidala in the latest 'star wars' film*natalie portman
+TV/ Movies: who played richie in 'happy days'*ron howard
+TV/ Movies: who played romeo in the 1996 release of romeo & juliet*leonardo di caprio
+TV/ Movies: who played samantha in "bewitched"*elizabeth montgomery
+TV/ Movies: who played steve erkel in 'family matters'*jaleel white
+TV/ Movies: who played the father in "my three sons"*fred macmurray
+TV/ Movies: who played the father in the uk comedy "bless this house"*sid james
+TV/ Movies: who played the incredible hulk*bill bixby
+TV/ Movies: who played the inventor in 'honey, i shrunk the kids'*rick moranis
+TV/ Movies: who played the joker on the original batman movie*caesar romero
+TV/ Movies: who played the male lead in the movie grease*john travolta
+TV/ Movies: who played the master in "i dream of jeannie"*larry hagman
+TV/ Movies: who played the mermaid in "splash"*darryl hannah
+TV/ Movies: who played the mother in "the partridge family"*shirley jones
+TV/ Movies: who played the mum in the brady bunch*florence henderson
+TV/ Movies: who played the mutating fly in the film 'the fly'*jeff goldblum
+TV/ Movies: who played the penguin on the original batman*burgess meredith
+TV/ Movies: who played the president of the u.s in 'air force one'*harrison ford
+TV/ Movies: Who played the 'Rifleman' in the series*chuck connors
+TV/ Movies: who played the role of gilligan on tv*bob denver
+TV/ Movies: who played the starring role in "waterworld"*kevin costner
+TV/ Movies: who played the stepmother in 'my stepmother is an alien'*kim bassinger
+TV/ Movies: who played the 'universal soldier'*jean claude van damme
+TV/ Movies: who played tv's superman in the original series*george reeves
+TV/ Movies: who played woody in "cheers"*woody harrelson
+TV/ Movies: who plays "angela" on whos the boss*judith light
+TV/ Movies: who plays dana scully in "the x files"*gillian anderson
+TV/ Movies: who plays fox mulder in "the x files"*david duchovny
+TV/ Movies: who plays kelly in "married with children"*christina applegate
+TV/ Movies: who plays many voices, such as dr nick, & moe on 'the simpsons'*hank azaria
+TV/ Movies: who plays monica in "friends"*courtney cox arquette*courtney cox
+TV/ Movies: who plays rachel in "friends"*jennifer aniston
+TV/ Movies: who sang the title song to 'goldfinger'*shirley bassey
+TV/ Movies: who shot j.r. ewing in the tv series 'dallas'*kristin shepard
+TV/ Movies: who starred as mchale in "mchale's navy"*ernest borgnine
+TV/ Movies: who starred as the nanny in "the nanny & the professor"*juliet mills
+TV/ Movies: who starred opposite billy crystal in "when harry met sally"*meg ryan
+TV/ Movies: who starred opposite tom hanks in "sleepless in seattle"*meg ryan
+TV/ Movies: Who thanked his parents for not practicing birth control upon picking up a 1979 Best Actor Oscar*dustin hoffman
+TV/ Movies: who was alice's boyfriend in "the brady bunch"*sam the butcher
+TV/ Movies: who was basil in the uk comedy "fawlty towers"*john cleese
+TV/ Movies: who was born marion morrison*john wayne
+TV/ Movies: who was brandon lee's father*bruce lee
+TV/ Movies: who was bruce lee's son*brandon lee
+TV/ Movies: who was elvis presley's female co starin g. I. Blues*juliet prowse
+TV/ Movies: who was george burns' wife, whom he had a popular tv show with*gracie allen
+TV/ Movies: who was lauren bacall's first husband*humphrey bogart
+TV/ Movies: who was pinocchio's father*geppetto
+TV/ Movies: who was ronald reagan's first wife*jane wyman
+TV/ Movies: who was the actor that played the starring role in escape from new york*kurt russell
+TV/ Movies: who was the announcer on you bet your life*george fenneman
+TV/ Movies: who was the director of 'terminator & titanic'*james cameron
+TV/ Movies: who was the first actress to appear on the cover of life magazine*jean harlow
+TV/ Movies: who was the first american actress to appear on a postage stamp*grace kelly
+TV/ Movies: Who was the first supposedly computer generated TV talk show host*max headroom
+TV/ Movies: who was the millionaire in "gilligans island"*thurston howell iii
+TV/ Movies: who was the movie star in "gilligans island"*ginger
+TV/ Movies: Who was the only person the new owners didn't fire, on The Mary Tyler Moore Show*ted baxter
+TV/ Movies: who were lucy & ricky's next door neighbours & best friends*fred & ethel
+TV/ Movies: who wrote & performed "year of the cat"*al stewart
+TV/ Movies: who wrote the classic thriller 'the birds'*alfred hitchcock*hitchcock
+TV/ Movies: who wrote the vampire series that featured lestat as the main character*anne rice
+TV/ Movies: Whose biography was titled The Other Side of the Rainbow*judy garland*judy garland's*judy garlands
+TV/ Movies: whose legs were shown in place of julia roberts' legs in 'pretty woman'*goldie hawn
+TV/ Movies: whose neighbors were frank & irene lorenzo*archie bunker's
 TV/ Movies: "A Black Sheriff*blazing saddles
 TV/ Movies: "are you pondering what i'm pondering"where is this quote from*pinky & the brain
 TV/ Movies: "Dozens of people are dying all the time, thousands, so why not mother"*julian
@@ -2036,7 +2036,7 @@ TV/ Movies: 1980s GrabBag: Movie that earned Glenn Close her 2nd Oscar nominatio
 TV/ Movies: 1980s GrabBag: Sitcom that got Isabel Sanford her 1981 best actress Emmy*the jeffersons
 TV/ Movies: 1980s GrabBag: The last team Tom Seaver tried to pitch for*new york mets
 TV/ Movies: 1980s GrabBag: TV sitcom most frequently taped in 1987*the cosby show
-TV/ Movies: 1992   what movie has meg ryan switching identities with an elderly man*prelude to a kiss
+TV/ Movies: 1992 what movie has meg ryan switching identities with an elderly man*prelude to a kiss
 TV/ Movies: 1993: name one of the major actors in the movie "sidekicks"*beau bridges
 TV/ Movies: 1993: name one of the major stars in the film house of cards*tommy lee jones
 TV/ Movies: 1993: name one of the major stars in the movie hear no evil*martin sheen
@@ -2104,7 +2104,7 @@ TV/ Movies: Actor In The Role: Michelangelo in 'The Agony and the Ecstasy'*charl
 TV/ Movies: Actor In The Role: Nero in 'The Sign of the Cross'*charles laughton
 TV/ Movies: Actor In The Role: Rembrandt in 'Rembrandt'*charles laughton
 TV/ Movies: Actor In The Role: Vincent van Gogh in 'Lust for Life'*kirk douglas
-TV/ Movies: Actor levar burton (jordi on 'star trek   the next generation') was born in _______*germany
+TV/ Movies: Actor levar burton (jordi on 'star trek the next generation') was born in _______*germany
 TV/ Movies: Actor originally intended to be Wizard in "Wizard of Oz"*w c fields
 TV/ Movies: Actor peter fonda was once arrested for slashing a sign that said*feed jane fonda to the whales
 TV/ Movies: Actor whose real name is Ramon Estevez (full name)*martin sheen
@@ -2141,7 +2141,7 @@ TV/ Movies: Actress In The Role: The Color of Money ---> Carla*mary elizabeth ma
 TV/ Movies: Actress In The Role: Unnecessary Roughness ---> the placekicker*kathy ireland
 TV/ Movies: Alfred hitchcock didn't have what*belly button
 TV/ Movies: Alfred hitchcock was born in _____*1899
-TV/ Movies: Ally McBeal: Ally's imaginary, dancing baby was called  (two words)*ugachacka baby*brush away
+TV/ Movies: Ally McBeal: Ally's imaginary, dancing baby was called (two words)*ugachacka baby*brush away
 TV/ Movies: Amazing actress who won for _The Prime of Miss Jean Brodie_*maggie smith
 TV/ Movies: Among animation aficionados, what is generally considered to be Chuck Jones best animated short film*one froggy evening
 TV/ Movies: An alien creature in a funny hat has opposed both Bugs Bunny & Daffy Duck.where is he from*mars
@@ -2182,7 +2182,7 @@ TV/ Movies: Back To The Future: Marty gives a _ to the Doc in 1955 to prevent Do
 TV/ Movies: Between 1931 & 1969 Walt Disney collected how many oscars*35
 TV/ Movies: Beverly Hills 90210: The numbers 90210 are what *zip code
 TV/ Movies: Beverly Hills 90210: This girlfriend of Brandon slipped him drugs at a club.*emily valentine
-TV/ Movies: Beverly Hills 90210: What 3 characters share an apartment (May 95)  (first names, alpha, no and)*clare donna kelly
+TV/ Movies: Beverly Hills 90210: What 3 characters share an apartment (May 95) (first names, alpha, no and)*clare donna kelly
 TV/ Movies: Beverly Hills 90210: What character sold her friends out to a tabloid TV show *brenda walsh
 TV/ Movies: Beverly Hills 90210: When the gang parodied The Real World, who was "Tuck" *brandon walsh
 TV/ Movies: Bill & ted's excellent adventure: strange things are amuck at the _____*circle k
@@ -2667,7 +2667,7 @@ TV/ Movies: Winona Ryder: Complete the title: "Welcome Home ---- ----------".*ro
 TV/ Movies: Winona Ryder: In what film does Winona star with Johnny Depp *edward scissorhands
 TV/ Movies: Winona Ryder: What is the first movie Winona was in *lucas
 TV/ Movies: Winona Ryder: What relation is Winona to Pfeiffer in The Age of Innocence *cousin
-TV/ Movies: Winona Ryder: Where was Winona born  (City State)*winona minnesota
+TV/ Movies: Winona Ryder: Where was Winona born (City State)*winona minnesota
 TV/ Movies: Wizard Of Oz: In the book, these items give the Emerald City its green appearance. (2 words)*green spectacles
 TV/ Movies: Wizard Of Oz: Second kind of animal heard in the MGM film.*chicken
 TV/ Movies: Wizard Of Oz: The actor originally slated to play the tin man.*buddy ebsen
@@ -2675,7 +2675,7 @@ TV/ Movies: Wizard Of Oz: The famous actress who played Dorothy.*judy garland
 TV/ Movies: Wizard Of Oz: The words the wicked witch wrote in the sky above the Emerald City.*surrender dorothy
 TV/ Movies: Zorro was the secret identity of what wealthy landowner*don diego de la vega
 TV/ Movies: Zsa Zsa Gabor has been married how many times*eight*8
-TV : Movies: What movie gave Humphrey Bogart the line: "I remember every detail.  The Germans wore gray.  You wore blue."*casablanca
+TV : Movies: What movie gave Humphrey Bogart the line: "I remember every detail. The Germans wore gray. You wore blue."*casablanca
 TV/ Movies: Commander Sisko loves what sport*baseball
 TV/ Movies: 'Dances With Wolves' won the best picture Oscar in 1990, 1991, or 1993*1990
 TV/ Movies: Indiana Jones: Name the first challenge*breath of god

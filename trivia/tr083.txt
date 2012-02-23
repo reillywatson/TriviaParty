@@ -305,7 +305,7 @@ Television: Which TV Series features Constable Evan "jonesy" Jones*Blue Heelers
 Television: Which TV Series features Sergeant Theresa "tess" Gallagher*Blue Heelers
 Television: Which TV Series features Constable Joanna "jo" Parrish*Blue Heelers
 Television: Which TV Series features Inspector Monica Draper*Blue Heelers
-Television: Which TV Series stars Martin Sacks*Blue Heelers  
+Television: Which TV Series stars Martin Sacks*Blue Heelers 
 Television: Which character does Martin Sacks play in Blue Heelers*Senior Detective P.J. Hasham
 What do you call a Penguin in the Desert*lost
 Which side of a Chicken has the most Feathers*The Outside

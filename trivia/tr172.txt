@@ -145,7 +145,7 @@ Music : Alternative Tune:"and I'll cry for ___, yes I'll die for ___"*you
 Music : Alternative Tune:"Hey, man you disrespecting me Take him out"*come out & play
 Music : Alternative Tune:"I know I'm being used, that's okay man cause I like the abuse"*self esteem
 Music : Alternative Tune:"I, ohhhhhhh, I'm still _____"*alive
-Music : Although his early career was snuffed out in the same plane crash that killed Buddy Holly, this east L A  kid had a memorable top ten hit about his girlfriend, Donna*richie valens
+Music : Although his early career was snuffed out in the same plane crash that killed Buddy Holly, this east L A kid had a memorable top ten hit about his girlfriend, Donna*richie valens
 Music : Although the fabulous Thunderbirds sang 'I Thank You' it was originally released by this soul duo in 1968.*sam & dave
 Music : Although the Fireballs had some success with the record "Torquay" when they teamed up with Jimmy Gilmer, this record stayed at number one for an entire year*sugar shack
 Music : Alvin & the ...*chipmunks
@@ -704,7 +704,7 @@ Music : Category: American Songbook: "When somebody loves you, its no good unles
 Music : Category: American Songbook: "When you believe in things you don't understand, you will suffer."*superstition/wonder
 Music : Category: American Songbook: "When you hear me buzzin' baby, you know there's some stingin' goin' on."*im a king Bee/Harpo
 Music : Category: American Songbook: "Where the tree-tops glisten, and children listen..."*white christmas/berlin
-Music : Category: American Songbook: "You lie awake & think about the girl, & never even think of counting sheep"*in the wee small Hours of  the Morning/Mann
+Music : Category: American Songbook: "You lie awake & think about the girl, & never even think of counting sheep"*in the wee small Hours of the Morning/Mann
 Music : Category: Angus Young takes his band on a highway to ----*hell
 Music : Category: Animaniacs Tunes: Second place Magellan mistakes for the East Indies...*chile
 Music : Category: Animaniacs Tunes: Sense that "guides us right, when we goes out and walks"*sight
@@ -881,7 +881,7 @@ Music : Name the gallery in Liverpool where John Lennon met Yoko Ono*indica
 Music : Name the group that went searching in 1957*the coasters
 Music : Name the group who sings "Zunga Zeng" and "Come Baby Come"*k7
 Music : Name the group who's members are T-Boz, Left Eye, and Chili*tlc
-Music : Name the Group:  "Oh baby I love your way.. every day yeah.."*big mountain
+Music : Name the Group: "Oh baby I love your way.. every day yeah.."*big mountain
 Music : Name the group: "Carry On Wayward Son", "Point of Know Return".*kansas
 Music : Name the group: "So tap the bottle and twist the cap"*young black teenagers
 Music : Name the group: "Zoo Station", "One", "Sunday Bloody Sunday", "Bad".*u2
@@ -898,10 +898,10 @@ Music : Name the rapper who claims he's "the lyrical gangsta"*kamoze
 Music : Name the RHCP album: "Knock Me Down," "Higher Ground," "Magic Johnson".*mothers milk
 Music : Name the Russian band with the single "Bang" and a cover of "My Generation"*gorky park
 Music : Name the scale: f, g, a, b, c, d, e, f*lydian
-Music : Name the Singer:  "You mean the world to me,.. you are my everything.."*toni braxton
+Music : Name the Singer: "You mean the world to me,.. you are my everything.."*toni braxton
 Music : Name the single that Morrissey released on Jan. 95 *boxers
 Music : Name the song 'No crib for a bed'*away in a manger
-Music : Name the song:  "As we walk along together.  Holding hands walking.. "*so in love
+Music : Name the song: "As we walk along together. Holding hands walking.. "*so in love
 Music : Name the song: "...Here in my car I feel safest of all..."*cars
 Music : Name the song: "...I wanna reach out & grab ya..."*abracadabra
 Music : Name the song: "...I've travelled the world & the seven seas..."*sweet dreams
@@ -1318,7 +1318,7 @@ Music : Pop Groups: Frank Zappa's sons' group*z
 Music : Pop Groups: Henry Rollins led this group.*black flag
 Music : Pop Groups: Her first words to Billy Corgan were allegedly "You're full of shit"*darcy
 Music : Pop Groups: She led the group Blue Angel before moving onto greater fame.*cyndi lauper
-Music : Pop Groups: The group "Indecent Obsession" took its name from a novel by this woman.*colleen  mccullough
+Music : Pop Groups: The group "Indecent Obsession" took its name from a novel by this woman.*colleen mccullough
 Music : Pop Kulture: He's "sold more records in Europe than the Beatles and Elvis combined."*slim whitman
 Music : Pop Music Groups: Back-up group for heavy D*boyz
 Music : Pop Music Groups: Boy George went as Lieutenant Lush when he sang with this group*bow wow wow
@@ -1376,7 +1376,7 @@ Music : Pop Rock: This group sang "I wanna hold your hand".*beatles
 Music : Pop Rock: This group sang "Stop! In the Name of Love".*the supremes
 Music : Pop Rock: WOMAD is an acronym for this festival put on by Peter Gabriel.*world of music and dance
 Music : Pop Singers: Ali Campbell sings lead with which group*ub40
-Music : Pop Singers: Under what name did high-voiced William Robison Jr. sing  (FULL NAME)*smokey robinson
+Music : Pop Singers: Under what name did high-voiced William Robison Jr. sing (FULL NAME)*smokey robinson
 Music : Pop Singers: Which country does Shirley Bassey come from*wales
 Music : Pop Singers: Which Irish singer won Eurovision with "All Kinds of Everything"*dana
 Music : Pop Singers: Which Osmond sang "Puppy Love" & "Young Love" *donny
@@ -1438,7 +1438,7 @@ Music : Punk Rock : Who performed: Trans-Europ Express *kraftwerk
 Music : Punk Rock: He said "I don't like it when people f*ck with my head; it confuses me."*johnny rotten
 Music : Punk Rock: In concert, this band wore giant eyeballs over their heads & tuxedos*the residents
 Music : Punk Rock: This band was fronted by Wattie Buchanan, who supported the National Front*the exploited
-Music : Punk Rock: What artist drew the infamous cover of the Dead Kennedys'  "Frankenchrist"*h.r. giger
+Music : Punk Rock: What artist drew the infamous cover of the Dead Kennedys' "Frankenchrist"*h.r. giger
 Music : Punk Rock: Whether it's really punk or not, this Berkeley band hit big with "Longview"*green day
 Music : Purple Reign: Name the song: "U, _ _____ ___ ___ _, darlin' if u want me to..."*i would die 4 u
 Music : Purple Reign: Prince recently changed his name to:*a symbol
@@ -3305,264 +3305,264 @@ Name the artist/band: Wannabe*spice girls
 Name the artist/band: Common People*pulp
 Name the artist/band: Love Spreads*stone roses
 Name the artist/band: Praise You*fat boy slim
-Music Term: - Aristocratic, elaborate English stage entertainment chiefly cultivated in the 17th century and involving poetry, dancing, scenery,  costumes, instrumental and vocal music. The masque was related to opera and  ballet.*masque
+Music Term: - Aristocratic, elaborate English stage entertainment chiefly cultivated in the 17th century and involving poetry, dancing, scenery, costumes, instrumental and vocal music. The masque was related to opera and ballet.*masque
 Music Term: - This is the main service of the Roman Catholic Church which has been set to music by composers including Bach, Mozart and Haydn.*mass
-Music Term:  (It. ) - Morning song.*mattinata
-Music Term: - A Polish folk dance in moderate to fast 3  /  4 or 3  /  8 time. Adapted and stylised by Chopin.*mazurka
+Music Term: (It. ) - Morning song.*mattinata
+Music Term: - A Polish folk dance in moderate to fast 3 / 4 or 3 / 8 time. Adapted and stylised by Chopin.*mazurka
 Music Term: - Instruction to play with the right hand in piano playing. Abbreviations of main droite (Fr.) and mano destra (It.).*md
-Music Term: - A name for the third degree of the scale (e.g. E is in the mediant in C major). The mediant is so-called because it stands between the tonic and  dominant.*mediant
-Music Term:  (Gk., ' song'; plural melismata) - Describes a group of notes sung to the same syllable. However, the term is also applied to any florid vocal  passage of improvisatory or cadenza-like nature.*melisma
+Music Term: - A name for the third degree of the scale (e.g. E is in the mediant in C major). The mediant is so-called because it stands between the tonic and dominant.*mediant
+Music Term: (Gk., ' song'; plural melismata) - Describes a group of notes sung to the same syllable. However, the term is also applied to any florid vocal passage of improvisatory or cadenza-like nature.*melisma
 Music Term: - One of the three types of minor scale.*melodic minor
-Music Term:  (Fr.) - I) Melody. (2) Song.*melodie
-Music Term: - In musical contexts, this term refers to the dramatic use of the spoken word against a musical background. This style may be used  throughout an entire work or just as part of a work.*melodrama
-Music Term:  (It.) - Less.*meno
+Music Term: (Fr.) - I) Melody. (2) Song.*melodie
+Music Term: - In musical contexts, this term refers to the dramatic use of the spoken word against a musical background. This style may be used throughout an entire work or just as part of a work.*melodrama
+Music Term: (It.) - Less.*meno
 Music Term: - slower.*Meno*mosso
-Music Term:  (Fr.), menuett (Ger.) - Same as minuet.*menuet
+Music Term: (Fr.), menuett (Ger.) - Same as minuet.*menuet
 Music Term: - Term used by German composers who believed it to be Italian for minuet. The Italian for minuet is minuetto.*menuetto
-Music Term:  (It.) - The steady increasing and decreasing of volume on one long held note in singing.*messa di voce
-Music Term:  (Fr. and Ger.) - Same as mass.*messe
-Music Term:  (It.) - Sad.*mesto
-Music Term:  (It.) - Half.*meta
+Music Term: (It.) - The steady increasing and decreasing of volume on one long held note in singing.*messa di voce
+Music Term: (Fr. and Ger.) - Same as mass.*messe
+Music Term: (It.) - Sad.*mesto
+Music Term: (It.) - Half.*meta
 Music Term: - Liszt's term for leitmotif, the recurring and development of themes symbolising a character, emotion, object, idea, etc.*metamorphosis of themes
-Music Term: - This is indicated by a time signature dividing up the music into regularly occurring accents (e.g. 3  /  4 time means that the basic note values are quarter notes and that every third one is accented).*metre
-Music Term:  (It., 'half') - Mezzo-soprano, female voice midway between a soprano and contralto range. *mezzo
+Music Term: - This is indicated by a time signature dividing up the music into regularly occurring accents (e.g. 3 / 4 time means that the basic note values are quarter notes and that every third one is accented).*metre
+Music Term: (It., 'half') - Mezzo-soprano, female voice midway between a soprano and contralto range. *mezzo
 Music Term: - Midway between loud and soft and abbreviated mf.*Mezzo forte
 Music Term: - With a moderate tone.*Mezza voce
 Music Term: - Instruction to play with the left hand in piano playing. Abbreviation of main gauche (Fr.).*MG
 Music Term: - Abbreviation of the minor scale.*mi
 Music Term: - An interval smaller than a semitone, evident in some modern compositions.*microtone
 Music Term: - Abbreviation of the minor scale.*min
-Music Term:  (It.) - Threatening.*minacciando
+Music Term: (It.) - Threatening.*minacciando
 Music Term: - Opposite of major. Applied to scales, keys, chords and intervals.*minor
-Music Term:  (Eng.), minuetto (It.) - A moderately fast French dance of rustic origin in 3  /  4 time but rising to court and becoming fashionable in the 18th century. The minuet is the standard third movement in the classical sonata,  symphony, string quartet, etc., developing later into the scherzo with  Beethoven. Form is A A B A.*minuet
-Music Term: - This term is sometimes attached to a fugue or canon to describe two or more parts appearing simultaneously, with one the correct way up and the  other upside down, as if a mirror had been placed between them.*mirror
-Music Term:  (Lat.) - Mass.*missa
-Music Term:  (Lat.) - (I) A short concise musical setting of the mass. (2) A setting of the Kyrie and Gloria only.*missa brevis
+Music Term: (Eng.), minuetto (It.) - A moderately fast French dance of rustic origin in 3 / 4 time but rising to court and becoming fashionable in the 18th century. The minuet is the standard third movement in the classical sonata, symphony, string quartet, etc., developing later into the scherzo with Beethoven. Form is A A B A.*minuet
+Music Term: - This term is sometimes attached to a fugue or canon to describe two or more parts appearing simultaneously, with one the correct way up and the other upside down, as if a mirror had been placed between them.*mirror
+Music Term: (Lat.) - Mass.*missa
+Music Term: (Lat.) - (I) A short concise musical setting of the mass. (2) A setting of the Kyrie and Gloria only.*missa brevis
 Music Term: - High Mass.*Missa solemnis
-Music Term:  (It.) - A measure. Senza misura, not in strict time.*misura
-Music Term:  (Ger.) - With.*mit
+Music Term: (It.) - A measure. Senza misura, not in strict time.*misura
+Music Term: (Ger.) - With.*mit
 Music Term: - A mode represented on the white notes of the piano from G to G.*mixolydian mode
-Music Term:  (It.) - At a moderate pace. This term is used in other tempos (e.g. allegro moderato, implying a moderately fast pace).*moderato
-Music Term: - Sets of eight-note scales inherited from ancient Greece via the Middle Ages in which they were most prevalent, although they still survive  today in plainsong and folk music. At the end of the 17th century the modes  had been reduced to two scales, major and minor, which we know today. Here  are the modes which may be represented by scales of white notes on the piano  with the names derived from the Greek system. The 'final' of a mode is the  note of a cadence, or resting point, in a melody, and the 'dominant' is a  reciting note.*modes
-Music Term:  (It.) - Manner. In modo di, in the manner of. *modo
+Music Term: (It.) - At a moderate pace. This term is used in other tempos (e.g. allegro moderato, implying a moderately fast pace).*moderato
+Music Term: - Sets of eight-note scales inherited from ancient Greece via the Middle Ages in which they were most prevalent, although they still survive today in plainsong and folk music. At the end of the 17th century the modes had been reduced to two scales, major and minor, which we know today. Here are the modes which may be represented by scales of white notes on the piano with the names derived from the Greek system. The 'final' of a mode is the note of a cadence, or resting point, in a melody, and the 'dominant' is a reciting note.*modes
+Music Term: (It.) - Manner. In modo di, in the manner of. *modo
 Music Term: - The shift from one key to another in composition.*modulate
-Music Term:  (It.) - Much, very.*molto
+Music Term: (It.) - Much, very.*molto
 Music Term: - A dramatic stage work for only one character.*monodrama
-Music Term:  (Gk., 'single song') -  A term used to describe a solo song with accompaniment (or continuo) in contrast to the polyphonic style in which all  parts are of equal importance.*monody
-Music Term:  (Gk., 'single sound') - This term describes music with a single melody line without support of accompaniment.*monophony
+Music Term: (Gk., 'single song') - A term used to describe a solo song with accompaniment (or continuo) in contrast to the polyphonic style in which all parts are of equal importance.*monody
+Music Term: (Gk., 'single sound') - This term describes music with a single melody line without support of accompaniment.*monophony
 Music Term: - Music with only one theme.*monothematic
-Music Term:  (It.) - Gentle, delicate.*morbido
+Music Term: (It.) - Gentle, delicate.*morbido
 Music Term: - An ornament which has two forms: (1) upper mordent (or inverted mordent); (2) lower mordent or simply, mordent.*mordent
-Music Term:  (It.) - Dying away (of force and sometimes, speed).*morendo
-Music Term:  (It.) - Animated, moving.*mosso
-Music Term: - (1) In modern use this is a religious choral composition in Latin of the Roman Catholic service corresponding to the anthem in the Anglican  service. (2) In medieval times, this was a vocal composition based on a given  set of words and melody, which sometimes came from a secular song.*motet
-Music Term:  (Fr.) - (1) A term sometimes used in English for leitmotif. (2) Sarne as motiv or motive.*motif
-Music Term: - A term describing the course of a melody or melodies. Conjunct motion is movement by step. Disjunct motion is movement by leap. Similar  motion describes two melodies moving in the same direction and contrary  motion describes two melodies moving in opposite directions. Paralicl motion  describes parts moving the same way and also keeping the same interval  between them.*motion
-Music Term:  (Ger.), motive (Eng.) - (1) A short but recognisable melodic or rhythmic figure. (2) In analysis, this term describes the smallest subdivision of  (e.g. a theme). moto (It.) - Movement. Con Moto means 'with movement'.*motiv
+Music Term: (It.) - Dying away (of force and sometimes, speed).*morendo
+Music Term: (It.) - Animated, moving.*mosso
+Music Term: - (1) In modern use this is a religious choral composition in Latin of the Roman Catholic service corresponding to the anthem in the Anglican service. (2) In medieval times, this was a vocal composition based on a given set of words and melody, which sometimes came from a secular song.*motet
+Music Term: (Fr.) - (1) A term sometimes used in English for leitmotif. (2) Sarne as motiv or motive.*motif
+Music Term: - A term describing the course of a melody or melodies. Conjunct motion is movement by step. Disjunct motion is movement by leap. Similar motion describes two melodies moving in the same direction and contrary motion describes two melodies moving in opposite directions. Paralicl motion describes parts moving the same way and also keeping the same interval between them.*motion
+Music Term: (Ger.), motive (Eng.) - (1) A short but recognisable melodic or rhythmic figure. (2) In analysis, this term describes the smallest subdivision of (e.g. a theme). moto (It.) - Movement. Con Moto means 'with movement'.*motiv
 Music Term: - A term for music which recurs and develops in the form of a quotation.*motto theme
-Music Term: - A self-contained section of a large composition having its own time signature and title. In some works, movements are directly linked  (without a break inbetween) and sound incomplete without performing them  in sequence. In all works, movements form a cohesive whole, much like in a  set of related literary short stories. movimento (It.) - Motion. Doppio mouvmento, at double the preceding speed.*movement
-Music Term:  (It. 'mano sinistra') - Left hand. Instruction to play with left hand in piano playing.*MS
+Music Term: - A self-contained section of a large composition having its own time signature and title. In some works, movements are directly linked (without a break inbetween) and sound incomplete without performing them in sequence. In all works, movements form a cohesive whole, much like in a set of related literary short stories. movimento (It.) - Motion. Doppio mouvmento, at double the preceding speed.*movement
+Music Term: (It. 'mano sinistra') - Left hand. Instruction to play with left hand in piano playing.*MS
 Music Term: - Abbreviation of mezzo soprano.*M Sop
-Music Term: - A type of American-influenced light stage entertainment which succeeded the musical comedy in the mid-20th century. Now known  simply as a musical. An example is Phantom of the Opera with music by  Andrew Lloyd Webber.*musical play
+Music Term: - A type of American-influenced light stage entertainment which succeeded the musical comedy in the mid-20th century. Now known simply as a musical. An example is Phantom of the Opera with music by Andrew Lloyd Webber.*musical play
 Music Term: - A medley of popular tunes.*musical switch
-Music Term: - A Wagnerian term for opera, which he felt to be inadequate. This term describes Wagner's new concept of the leitmotif and the fusing of  scenery, costume, libretti, music and drama into a new art.*music drama
+Music Term: - A Wagnerian term for opera, which he felt to be inadequate. This term describes Wagner's new concept of the leitmotif and the fusing of scenery, costume, libretti, music and drama into a new art.*music drama
 Music Term: - A term describing (from the 1960's) dramatic works simpler than opera and suitable for the concert platform.*music theatre
-Music Term:  (Fr., 'concrete music') - Music in which natural sounds (instrumental, vocal or other) were recorded on tape and then distorted,  combined, etc. This term was coined by Peter Schaeffer in 1948 but it has  largely been superseded by electronic music.*musique concrete
-Music Term:  (It.) - Change. Direction to the timpani player to change tuning or to the wind player to change instrument.*muta
-Music Term:  (Ger.) - To, after.*nach
-Music Term:  (Ger.) - Ornament in German music in the 17th and 18th centuries.*nachschlag
-Music Term:  (Ger., 'after dance') - A quick dance used to follow a slow one.*nachtanz
-Music Term:  (Ger.) - Serenade or 'night music'. A title used in Mozart's Eine Klcine Nachtmusik.*nachtmusik
-Music Term: - Music with national characteristics (e.g. use of folk music. The term is particularly applied to 19th century composers (e.g.  Smetena and Grieg. Bartok and Kodaly were also famous as nationalist  composers).*nationalism*nationalist
+Music Term: (Fr., 'concrete music') - Music in which natural sounds (instrumental, vocal or other) were recorded on tape and then distorted, combined, etc. This term was coined by Peter Schaeffer in 1948 but it has largely been superseded by electronic music.*musique concrete
+Music Term: (It.) - Change. Direction to the timpani player to change tuning or to the wind player to change instrument.*muta
+Music Term: (Ger.) - To, after.*nach
+Music Term: (Ger.) - Ornament in German music in the 17th and 18th centuries.*nachschlag
+Music Term: (Ger., 'after dance') - A quick dance used to follow a slow one.*nachtanz
+Music Term: (Ger.) - Serenade or 'night music'. A title used in Mozart's Eine Klcine Nachtmusik.*nachtmusik
+Music Term: - Music with national characteristics (e.g. use of folk music. The term is particularly applied to 19th century composers (e.g. Smetena and Grieg. Bartok and Kodaly were also famous as nationalist composers).*nationalism*nationalist
 Music Term: - (1) The cancelling of a flat or sharp of a note or key indicated by a sign beside the note; (2) A trumpet or horn, etc. not having any valves or keys.*natural
 Music Term: - Instruction to a singer or instrumentalist to perform in the normal way (e.g. singing tenor instead of falsetto or playing without mutes).*naturale
 Music Term: - A chord on the fourth degree of the scale with a minor third and sixth (e.g. in C major it includes the notes F, A flat and D flat).*neapolitan sixth
-Music Term:  (Gk., 'new') - A prefix indicating a new interest in older styles (e.g. neo- romantic refers to composers in the 20th century writing in the romantic  style).*neo
-Music Term: - Describes a trend, especially in the 1920's, characterised by its use of the concerto grosso technique, contrapuntal writing and avoidance  of emotion. Neo-classical composers included Stravinsky and Hindemith.*neo-classical
-Music Term: - (I) In the early 17th century this described the new expressive music; (2) Between 1850 and 1900 it described the new music of Wagner and  Liszt as opposed to the more traditional music of Brahms; (3) Today it refers  to music by contemporary composers.*new music
-Music Term:  (It.) - Nothing. A niente, to nothing. Used after a diminuendo symbol to indicate the sound dying away entirely. nobile, nobilmente (It.) - Noble, nobly.*niente
-Music Term: - A night piece with two main meanings: (1) In the 18th century this was a composition close to a serenade for several instruments and  movements. (2) In the romantic period it was a short Iyrical piece in one  movement for piano (e.g. by Chopin). noel (Fr., 'Christmas') - A Christmas carol. non (Fr. and It.) - Not.*nocturne
+Music Term: (Gk., 'new') - A prefix indicating a new interest in older styles (e.g. neo- romantic refers to composers in the 20th century writing in the romantic style).*neo
+Music Term: - Describes a trend, especially in the 1920's, characterised by its use of the concerto grosso technique, contrapuntal writing and avoidance of emotion. Neo-classical composers included Stravinsky and Hindemith.*neo-classical
+Music Term: - (I) In the early 17th century this described the new expressive music; (2) Between 1850 and 1900 it described the new music of Wagner and Liszt as opposed to the more traditional music of Brahms; (3) Today it refers to music by contemporary composers.*new music
+Music Term: (It.) - Nothing. A niente, to nothing. Used after a diminuendo symbol to indicate the sound dying away entirely. nobile, nobilmente (It.) - Noble, nobly.*niente
+Music Term: - A night piece with two main meanings: (1) In the 18th century this was a composition close to a serenade for several instruments and movements. (2) In the romantic period it was a short Iyrical piece in one movement for piano (e.g. by Chopin). noel (Fr., 'Christmas') - A Christmas carol. non (Fr. and It.) - Not.*nocturne
 Music Term: - A note which is not part of the chord with which it sounds. This could mean a passing note or an appoggiatura.*non-harmonic note
-Music Term:  (It., 'changed note') - A contrapuntal device whereby a dissonant note is used when one expects a consonant one.*nota cambiata
+Music Term: (It., 'changed note') - A contrapuntal device whereby a dissonant note is used when one expects a consonant one.*nota cambiata
 Music Term: - Written music, by ordinary staff notation symbols or graphic representation or simply by letter-names (e.g. the tonic sol-fa.*notation
-Music Term: - The performance of a group of adjacent notes simultaneously on the piano, e. g. with the forearm or a piece of wood. Pioneered by Cowell  in 1912 and used by Ives. Also known as tone cluster.*note cluster
-Music Term: - This occurs in 20th century serial music, also called dodecaphonic music or twelve-note music. It is the order in which the  composer chooses to arrange the twelve notes, which serves as the foundation  of the composition. novelette (Eng.) or novellette (Ger.) - A short, instrumental, romantic piece. The term was first used by Schumann for a piano work in 1848.*note row
-Music Term:  (It., 'obligatory') - An obbligato part is one which has an important and unusual special role and cannot be dispensed with, as opposed to an  optional part. However, in some l9th century music, the term obbligato was  applied to an additional optional part.*obbligato
+Music Term: - The performance of a group of adjacent notes simultaneously on the piano, e. g. with the forearm or a piece of wood. Pioneered by Cowell in 1912 and used by Ives. Also known as tone cluster.*note cluster
+Music Term: - This occurs in 20th century serial music, also called dodecaphonic music or twelve-note music. It is the order in which the composer chooses to arrange the twelve notes, which serves as the foundation of the composition. novelette (Eng.) or novellette (Ger.) - A short, instrumental, romantic piece. The term was first used by Schumann for a piano work in 1848.*note row
+Music Term: (It., 'obligatory') - An obbligato part is one which has an important and unusual special role and cannot be dispensed with, as opposed to an optional part. However, in some l9th century music, the term obbligato was applied to an additional optional part.*obbligato
 Music Term: - Describes the movement of parts or melodies when one remains on the same note and the other moves in some direction.*oblique motion
 Music Term: - The interval of eight steps (e.g. C to C on the white notes of the piano).*octave
 Music Term: - A composition for eight voices or instruments, or simply eight people.*octet
 Music Term: - The setting of a poem entitled 'ode' to music.*ode
-Music Term:  (Ger.) - Without.*ohne
-Music Term: - Abbreviation of Latin opus, work. Used as a publishers' catalogue system to indicate the order in which a composer's works have been  published. The higher the opus number, the later the music was published in a  composer's lifetime.*op
-Music Term: -  A drama in which all or most characters sing and in which music is an important element. Early composers of opera include Monteverdi and  Purcell. Other composers are Mozart, Beethoven, Rossini, Donizetti, Verdi,  Wagner (who preferred the term music drama), Puccini, and in the 20th  century, Berg and Britten.*opera
-Music Term:  (Fr.) - A light, often satirical opera or operetta (e.g. by Offenbach).*opera bouffe
-Music Term:  (It.) - A comic opera especially in the 18th century (e.g. by Pergolesi).*opera buffa
-Music Term:  (Fr.) - This term describes comic opera but has two special meanings: (1) A type of French comic opera with spoken dialogue, lighter  than current serious operas in the 18th century; (2) An opera, comic or  otherwise, with spoken dialogue (e.g. Bizet's Carmen in the l9th century).*opera comique
-Music Term:  (It.) - Serious opera and opposite of opera buffa. This term is especially applied to the flourishing 18th century style as used by Rossini.  Characterised by the use of castrato singers, heroic or mythological plots,  Italian libretti and formality in the music and action.*opera seria
-Music Term: - A stage work giving more or less equal importance to opera and ballet (e.g. the works of Lully and Rameau in France in the 17th and 18th  centuries).*opera- ballet
+Music Term: (Ger.) - Without.*ohne
+Music Term: - Abbreviation of Latin opus, work. Used as a publishers' catalogue system to indicate the order in which a composer's works have been published. The higher the opus number, the later the music was published in a composer's lifetime.*op
+Music Term: - A drama in which all or most characters sing and in which music is an important element. Early composers of opera include Monteverdi and Purcell. Other composers are Mozart, Beethoven, Rossini, Donizetti, Verdi, Wagner (who preferred the term music drama), Puccini, and in the 20th century, Berg and Britten.*opera
+Music Term: (Fr.) - A light, often satirical opera or operetta (e.g. by Offenbach).*opera bouffe
+Music Term: (It.) - A comic opera especially in the 18th century (e.g. by Pergolesi).*opera buffa
+Music Term: (Fr.) - This term describes comic opera but has two special meanings: (1) A type of French comic opera with spoken dialogue, lighter than current serious operas in the 18th century; (2) An opera, comic or otherwise, with spoken dialogue (e.g. Bizet's Carmen in the l9th century).*opera comique
+Music Term: (It.) - Serious opera and opposite of opera buffa. This term is especially applied to the flourishing 18th century style as used by Rossini. Characterised by the use of castrato singers, heroic or mythological plots, Italian libretti and formality in the music and action.*opera seria
+Music Term: - A stage work giving more or less equal importance to opera and ballet (e.g. the works of Lully and Rameau in France in the 17th and 18th centuries).*opera- ballet
 Music Term: - A stage work involving elements of both opera and oratorio (e.g. Stravinsky's Oedipus Rex).*opera oratorio
-Music Term:  (It., 'little opera') - A term applied in the l9th century to lighter styles of opera involving dialogue. Composers included Offenbach, Johann  Strauss and Sullivan. This style is sometimes referred to as light opera.*operetta
-Music Term:  (Fr.) - Operetta.*operette
-Music Term: - A musical composition (originating around 1600) consisting of an extended setting of a religious or epic text for chorus, soloists and orchestra  for performance in a church or concert hall, although originally oratorios  involved scenery, costumes and action. An example is Handel's Messiah of  1742.*oratorio
-Music Term: - A large body of instrumentalists which has developed historically. The first orchestras were variable, but by the baroque period they  consisted of strings, oboes and bassoons with other solo instruments.  Standardisation took place in the classical period when the orchestra was  divided into four sections: strings, woodwind (two flutes, two oboes, two  bassoons and clarinets), brass (two horns and two trumpets) and percussion  consisting of two kettledrums. The orchestra was greatly expanded in the 19th  century to include the harp and other percussion. Some 20th century  composers began writing for smaller ensembles (perhaps mainly because of  economics).*orchestra
-Music Term: - (1) The art of writing for an orchestra, band, etc., involving great knowledge of tone colours, range of instruments, technical capacities  and combinations of instruments, etc. (2) The scoring of a work, originally  intended for another medium, for an orchestra.*orchestration
+Music Term: (It., 'little opera') - A term applied in the l9th century to lighter styles of opera involving dialogue. Composers included Offenbach, Johann Strauss and Sullivan. This style is sometimes referred to as light opera.*operetta
+Music Term: (Fr.) - Operetta.*operette
+Music Term: - A musical composition (originating around 1600) consisting of an extended setting of a religious or epic text for chorus, soloists and orchestra for performance in a church or concert hall, although originally oratorios involved scenery, costumes and action. An example is Handel's Messiah of 1742.*oratorio
+Music Term: - A large body of instrumentalists which has developed historically. The first orchestras were variable, but by the baroque period they consisted of strings, oboes and bassoons with other solo instruments. Standardisation took place in the classical period when the orchestra was divided into four sections: strings, woodwind (two flutes, two oboes, two bassoons and clarinets), brass (two horns and two trumpets) and percussion consisting of two kettledrums. The orchestra was greatly expanded in the 19th century to include the harp and other percussion. Some 20th century composers began writing for smaller ensembles (perhaps mainly because of economics).*orchestra
+Music Term: - (1) The art of writing for an orchestra, band, etc., involving great knowledge of tone colours, range of instruments, technical capacities and combinations of instruments, etc. (2) The scoring of a work, originally intended for another medium, for an orchestra.*orchestration
 Music Term: - A medieval type of part-writing based on plainsong and harmonised by either one, two or three parallel parts.*organum
-Music Term: - Also called graccs or embellishments, these are notes considered to be an extra embellishment of a melody which are either added  spontaneously by the performer or indicated by the composer on the score by  signs or notation. In the 17th and 18th centuries, omaments were mostly  indicated by signs and they included the trill, mordent, turn, arpeggio and  appoggiatura. Composers wrote out ornaments in full in later periods.*ornaments
-Music Term:  (It.) - Or. Indicates an alternative passage (usually a simpler version) in a composition.*ossia
-Music Term:  (It., 'obstinate') - A persistently repeated musical figure or rhythm. A basso ostinato or ground bass has this feature in the bass part. otez (Fr.) - Take off. Otez Ies sourdines, take off the mutes.*ostinato
-Music Term:  (It.) - Octave. Often written 8ve. All'ottava, at the octave and ottava bassa, an octave lower.*ottava
+Music Term: - Also called graccs or embellishments, these are notes considered to be an extra embellishment of a melody which are either added spontaneously by the performer or indicated by the composer on the score by signs or notation. In the 17th and 18th centuries, omaments were mostly indicated by signs and they included the trill, mordent, turn, arpeggio and appoggiatura. Composers wrote out ornaments in full in later periods.*ornaments
+Music Term: (It.) - Or. Indicates an alternative passage (usually a simpler version) in a composition.*ossia
+Music Term: (It., 'obstinate') - A persistently repeated musical figure or rhythm. A basso ostinato or ground bass has this feature in the bass part. otez (Fr.) - Take off. Otez Ies sourdines, take off the mutes.*ostinato
+Music Term: (It.) - Octave. Often written 8ve. All'ottava, at the octave and ottava bassa, an octave lower.*ottava
 Music Term: - Any notes of the harmonic series are given this name except for the first fundamental.*overtone
-Music Term: - (1) An orchestral piece preceding an opera, oratorio or play; (2) Since Mendelssohn's Hebrides of 1832, the overture also describes a one  movement orchestral piece composed for the concert hall with a non-musical  subject. This is also called the concert overture; (3) In the 17th and 18th  centuries the French overture (preceding an opera, etc.) was in three  movements, slow-quick-slow, and the Italian overture (a precursor of the  symphony) also in three movements was quick-slow-quick.*overture
+Music Term: - (1) An orchestral piece preceding an opera, oratorio or play; (2) Since Mendelssohn's Hebrides of 1832, the overture also describes a one movement orchestral piece composed for the concert hall with a non-musical subject. This is also called the concert overture; (3) In the 17th and 18th centuries the French overture (preceding an opera, etc.) was in three movements, slow-quick-slow, and the Italian overture (a precursor of the symphony) also in three movements was quick-slow-quick.*overture
 Music Term: - Abbreviaion for piano (It.), soft. Varying degrees of increasing softness are abbreviated as pp, ppp, etc.*p
-Music Term: - (1) Traditionally a play in mime; (2) Nowadays it is a Christmas stage entertainment based on a fairy tale or other traditional source  with dialogue, popular songs, costumes and actions (e.g. Snow White).*pantomime
+Music Term: - (1) Traditionally a play in mime; (2) Nowadays it is a Christmas stage entertainment based on a fairy tale or other traditional source with dialogue, popular songs, costumes and actions (e.g. Snow White).*pantomime
 Music Term: - Schonberg preferred this term to atonality (e.g. music not written in any definite key).*pantonality
 Music Term: - The movement of two or more parts in the same direction while also keeping the same interval between them.*parallel motion
-Music Term:  (Lat. missa parodia) - A polyphonic mass (e.g. by Palestrina) flourishing in the 16th century based on existing material of a motet or  chanson. This term has only been used since the 19th century, however.*parody mass
+Music Term: (Lat. missa parodia) - A polyphonic mass (e.g. by Palestrina) flourishing in the 16th century based on existing material of a motet or chanson. This term has only been used since the 19th century, however.*parody mass
 Music Term: - The music of a particular voice or instrument in an ensemble.*part
-Music Term:  (It.) - Voice-part.*parte
+Music Term: (It.) - Voice-part.*parte
 Music Term: - The tones of the harmonic series, the lowest being thefirst partial and the others the upper partials or overtones.*partials
-Music Term:  (It.) - A suite. This term was much used in the 18th century. In the 17th century, however, a partita was a variation.*partita
-Music Term: - Generally a strophic song for several male, female or mixed voices in which there are many singers to a part, with the top part usually  having the principal part. Composers include Elgar, Parry and Stanford.*part-song
+Music Term: (It.) - A suite. This term was much used in the 18th century. In the 17th century, however, a partita was a variation.*partita
+Music Term: - Generally a strophic song for several male, female or mixed voices in which there are many singers to a part, with the top part usually having the principal part. Composers include Elgar, Parry and Stanford.*part-song
 Music Term: - The composing of polyphonic music and the writing of equally good melodic parts.*part-writing
-Music Term:  (Fr ) - Step. A pas d 'action is a ballet scene of dramatic nature and a pas de deux is a dance for two.*pas
-Music Term:  (Sp., 'double step') or paso doble - A modern and quick Spanish dance in 2  /  4 time.*pasodoble
-Music Term: - Originally a slow and stately dance appearing in keyboard music of the 17th century. Later the passacaglia was a piece with a theme  continually repeated, but not necessarily in the bass, like the chaconne.*passacaglia
+Music Term: (Fr ) - Step. A pas d 'action is a ballet scene of dramatic nature and a pas de deux is a dance for two.*pas
+Music Term: (Sp., 'double step') or paso doble - A modern and quick Spanish dance in 2 / 4 time.*pasodoble
+Music Term: - Originally a slow and stately dance appearing in keyboard music of the 17th century. Later the passacaglia was a piece with a theme continually repeated, but not necessarily in the bass, like the chaconne.*passacaglia
 Music Term: - A section of a composition, usually with no structural importance.*passage
-Music Term: - A note, which may be accented or unaccented, forming a discord with the chord with which it is heard, but is melodically placed  between two consonant notes.*passing note
-Music Term: - This is the Passion of Christ, as accounted by Matthew, Mark, Luke and John, set to music and properly performed during Holy  Week.*passion music
-Music Term:  (It., 'pie') - An operatic work with the material drawn from the works of various composers, especially popular in the 18th century.*pasticcio
-Music Term:  (Fr.) - A piece composed deliberately in the style of another well- known composer. See also pasticcio above.*pastiche
+Music Term: - A note, which may be accented or unaccented, forming a discord with the chord with which it is heard, but is melodically placed between two consonant notes.*passing note
+Music Term: - This is the Passion of Christ, as accounted by Matthew, Mark, Luke and John, set to music and properly performed during Holy Week.*passion music
+Music Term: (It., 'pie') - An operatic work with the material drawn from the works of various composers, especially popular in the 18th century.*pasticcio
+Music Term: (Fr.) - A piece composed deliberately in the style of another well- known composer. See also pasticcio above.*pastiche
 Music Term: - (I) Alternative name for the madrigal; (2) Any piece representing country life.*pastoral
-Music Term:  (It.) - (I) An instrumental movement with long bass notes giving a drone-like effect in 6  /  8 or 12  /  8 time; (2) Obsolete term for a stage entertainment based on a legendary or rustic subject.*pastorale
-Music Term: - Popular in opera, this is a comic song in which words, sung as fast as possible, are often tongue-twisters. Often found in the works of Gilbert  and Sullivan.*patter song
-Music Term:  (It.) - A rest (not a pause).*pausa
+Music Term: (It.) - (I) An instrumental movement with long bass notes giving a drone-like effect in 6 / 8 or 12 / 8 time; (2) Obsolete term for a stage entertainment based on a legendary or rustic subject.*pastorale
+Music Term: - Popular in opera, this is a comic song in which words, sung as fast as possible, are often tongue-twisters. Often found in the works of Gilbert and Sullivan.*patter song
+Music Term: (It.) - A rest (not a pause).*pausa
 Music Term: - A wait of indefinite length on a note or rest.*pause
-Music Term:  (Eng.) or pavane (Fr.) - A slow, stately dance usually in duple time dating from the 16th century. It was normally followed by the quicker galliard  after about 1550, often employing the same theme.*pavan
-Music Term: -  The fudamental or lowest note of the harmonic series especially applied to the playing of brass instruments.*pedal
+Music Term: (Eng.) or pavane (Fr.) - A slow, stately dance usually in duple time dating from the 16th century. It was normally followed by the quicker galliard after about 1550, often employing the same theme.*pavan
+Music Term: - The fudamental or lowest note of the harmonic series especially applied to the playing of brass instruments.*pedal
 Music Term: - A note, usually in the bass, which is held below changing harmonies above, with which it may be discordant.*pedal point
-Music Term: -  A five note scale, the commonest being without minor seconds (e.g. CDEGA-C...).*pentatonic
-Music Term:  (It.) - By, through, for (e.g. per archi, for strings).*per
-Music Term:  (It., 'losing itself') - Gradually dying away.*perdendosi
-Music Term: -  A cadence with the chord progression consisting of the dominant (chord V) to the tonic (chord I) which has a 'complete' sound.*perfect cadence
+Music Term: - A five note scale, the commonest being without minor seconds (e.g. CDEGA-C...).*pentatonic
+Music Term: (It.) - By, through, for (e.g. per archi, for strings).*per
+Music Term: (It., 'losing itself') - Gradually dying away.*perdendosi
+Music Term: - A cadence with the chord progression consisting of the dominant (chord V) to the tonic (chord I) which has a 'complete' sound.*perfect cadence
 Music Term: - These are the intervals of the octave, fourth and fifth.*perfect intervals
 Music Term: - A sense of pitch which enables a person to identify a note simply by hearing it.*perfect pitch
 Music Term: - In medieval music, this was triple time.*perfect time
-Music Term: -  Popularly known as a round, this is a never-ending canon which is also known as an infinite canon.*perpetual canon
-Music Term:  (Lat., 'perpetually in motion') - A fast piece of music in which a rapid repetitive note-pattern is played throughout.*perpetuum mobile
-Music Term:  (It.) - Heavy, ponderous.*pesante
-Music Term:  (Fr.) - Little .*petit
-Music Term:  (It., 'chest') - In musical contexts used as in voci di petto, chest voice.*petto
-Music Term:  (Ger.) - Fantasy.*phantasie
-Music Term: -  A group of notes forming a unit of a melody. To phrase a melody is to observe and mark the divisions of a melody into units or phrases .*phrase
+Music Term: - Popularly known as a round, this is a never-ending canon which is also known as an infinite canon.*perpetual canon
+Music Term: (Lat., 'perpetually in motion') - A fast piece of music in which a rapid repetitive note-pattern is played throughout.*perpetuum mobile
+Music Term: (It.) - Heavy, ponderous.*pesante
+Music Term: (Fr.) - Little .*petit
+Music Term: (It., 'chest') - In musical contexts used as in voci di petto, chest voice.*petto
+Music Term: (Ger.) - Fantasy.*phantasie
+Music Term: - A group of notes forming a unit of a melody. To phrase a melody is to observe and mark the divisions of a melody into units or phrases .*phrase
 Music Term: - A cadence which ends on the dominant of the relative minor.*phrygian cadence
 Music Term: - The mode which, on the white keys of the piano, is represented by E to E.*phrygian mode
-Music Term:  (It.) - At pleasure (e.g. not at any strict speed).*piacere a
-Music Term:  (It.) - Pleasantly.*piacevole
-Music Term:  (It.) - Plaintively.*piangendo
-Music Term:  (It.) - Very soft, with abbreviation pp.*pianissimo
-Music Term:  (It.) - (1) Soft, abbreviation p; (2) Standard abbreviation in French and English for pianoforte.*piano
+Music Term: (It.) - At pleasure (e.g. not at any strict speed).*piacere a
+Music Term: (It.) - Pleasantly.*piacevole
+Music Term: (It.) - Plaintively.*piangendo
+Music Term: (It.) - Very soft, with abbreviation pp.*pianissimo
+Music Term: (It.) - (1) Soft, abbreviation p; (2) Standard abbreviation in French and English for pianoforte.*piano
 Music Term: - (It)soft and loud, abrrev. is piano.*pianoforte
-Music Term:  (Fr.) - The surprising sound of a major third at the end of a piece otherwise in a minor key thus converting the  expected minor chord to a major one. This was a common device up to the  mid-18th century .*picardy third*tierce de picardie
+Music Term: (Fr.) - The surprising sound of a major third at the end of a piece otherwise in a minor key thus converting the expected minor chord to a major one. This was a common device up to the mid-18th century .*picardy third*tierce de picardie
 Music Term: - (It.) - More. Piu lento, slower.*pi
-Music Term:  (It.) - Somewhat, rather.*piuttosto
+Music Term: (It.) - Somewhat, rather.*piuttosto
 Music Term: - Abbreviation of pizzicato.*pizz
-Music Term:  (It.) - Indication to pluck notes on a bowed string instrument. Abbreviation pizz.*pizzicato
-Music Term: -  A closing cadence consisting of a progression of the subdominant (chord IV) to the tonic (Chord I) sounding like 'Amen'.*plagal cadence
-Music Term:  (from Lat. cantus planus) -  Medieval church music usually describing the gregorian chant which still survives today in the Roman  Catholic church. It consists of a single, unaccompanied vocal line in free  rhythm like speech with no regular bar lengths.*plainchant*plainsong
-Music Term:  (Gk ., ' breath ' ) - A type of florid passage in plainsong sung to a single vowel.*pneuma
-Music Term:  (It.) - Very slightly, very little. Diminutive of poco.*pochettino*pochetto
-Music Term:  (It. ) - Very slightly. Superlative of poco.*pochissimo
-Music Term:  (It.) - Slightly, little, rather. Poco crescendo, getting slightly louder. poco a poco, little by little.*poco
-Music Term:  (It.) - Then. In the phrase scherzo da capo, e poi la coda it means repeat the scherzo and then go on to the coda.*poi
-Music Term:  (Fr.) - Point of the bow.*pointe d'archet
-Music Term: - Term taken from painting (referring to pictures using separate dots of colour) and applied to the music of some 20th century composers (e.g.  Webern). This described music of a spare and pointed style emplying use of  pizzicato.*pointillism
-Music Term:  (It.) - See polonaise.*polacca
-Music Term: - A moderately fast dance in 2  /  4 time for couples, originating in Bohemia in the 19th century and becoming popular in Europe and the U.S.A.*polka
-Music Term: - A Spanish dance in fast, syncopated 3  /  4 time with song.*polo
-Music Term: - A stately Polish dance in moderately fast 3  /  4 time dating from at least the 16th century. Composers include Bach, but the most famous  examples are the 13 written by Chopin.*polonaise
+Music Term: (It.) - Indication to pluck notes on a bowed string instrument. Abbreviation pizz.*pizzicato
+Music Term: - A closing cadence consisting of a progression of the subdominant (chord IV) to the tonic (Chord I) sounding like 'Amen'.*plagal cadence
+Music Term: (from Lat. cantus planus) - Medieval church music usually describing the gregorian chant which still survives today in the Roman Catholic church. It consists of a single, unaccompanied vocal line in free rhythm like speech with no regular bar lengths.*plainchant*plainsong
+Music Term: (Gk ., ' breath ' ) - A type of florid passage in plainsong sung to a single vowel.*pneuma
+Music Term: (It.) - Very slightly, very little. Diminutive of poco.*pochettino*pochetto
+Music Term: (It. ) - Very slightly. Superlative of poco.*pochissimo
+Music Term: (It.) - Slightly, little, rather. Poco crescendo, getting slightly louder. poco a poco, little by little.*poco
+Music Term: (It.) - Then. In the phrase scherzo da capo, e poi la coda it means repeat the scherzo and then go on to the coda.*poi
+Music Term: (Fr.) - Point of the bow.*pointe d'archet
+Music Term: - Term taken from painting (referring to pictures using separate dots of colour) and applied to the music of some 20th century composers (e.g. Webern). This described music of a spare and pointed style emplying use of pizzicato.*pointillism
+Music Term: (It.) - See polonaise.*polacca
+Music Term: - A moderately fast dance in 2 / 4 time for couples, originating in Bohemia in the 19th century and becoming popular in Europe and the U.S.A.*polka
+Music Term: - A Spanish dance in fast, syncopated 3 / 4 time with song.*polo
+Music Term: - A stately Polish dance in moderately fast 3 / 4 time dating from at least the 16th century. Composers include Bach, but the most famous examples are the 13 written by Chopin.*polonaise
 Music Term: - Term describes the use of several choirs performing both separately and jointly in a composition.*polychoral
-Music Term: - The combining of different metres simultaneously (e.g. 2  /  4 against 3  /  4 or 6  /  8).*polymetry*polymetrical
-Music Term: - A style of music in two or more parts in which (as opposed to homophony) each part is independent and of equal importance. Therefore,  polyphonic music implies the use of counterpoint, and some of the most  important forms are the motet, canon and fugue. Composers include  Palestrina, Byrd and Bach.*polyphony
+Music Term: - The combining of different metres simultaneously (e.g. 2 / 4 against 3 / 4 or 6 / 8).*polymetry*polymetrical
+Music Term: - A style of music in two or more parts in which (as opposed to homophony) each part is independent and of equal importance. Therefore, polyphonic music implies the use of counterpoint, and some of the most important forms are the motet, canon and fugue. Composers include Palestrina, Byrd and Bach.*polyphony
 Music Term: - The systematic use of quite different rhythms sounding simultaneously. Polyrhythmic devices are especially used in the 20th century.*polyrhythm
-Music Term: - The use of two or more keys performed simultaneously and employed by Stravinsky, Holst and Milhaud. When only two keys are used,  this is referred to as bitonality.*polytonality
-Music Term:  (It.) - In a pompous manner.*pomposo
-Music Term:  (Gael.) - Same as mouth music.*port a beul
-Music Term:  (It.) - Carrying sound. On bowed string instruments or in singing, the effect is obtained by gliding from one note to another higher or  lower one, without a break in the sound.*portamento
-Music Term: - (1) In string playing, the term indicates where on the fingerboard the left hand should be in order to play a passage; (2) In trombone playing, the  term indicates how far the slide should be pushed out; (3) In harmony, the  term describes the layout of a chord. Here are the common positions of the  chord with C major as an example, using the notes C E and G. In root  position, the chord of C is played with C (the root of the chord) at the bottom.  Infirst inversion, the chord is played with E at the bottom. In second inversion  the chord is played with G at the bottom. Therefore, the note at the bottom of  the chord determines these positions.*position
+Music Term: - The use of two or more keys performed simultaneously and employed by Stravinsky, Holst and Milhaud. When only two keys are used, this is referred to as bitonality.*polytonality
+Music Term: (It.) - In a pompous manner.*pomposo
+Music Term: (Gael.) - Same as mouth music.*port a beul
+Music Term: (It.) - Carrying sound. On bowed string instruments or in singing, the effect is obtained by gliding from one note to another higher or lower one, without a break in the sound.*portamento
+Music Term: - (1) In string playing, the term indicates where on the fingerboard the left hand should be in order to play a passage; (2) In trombone playing, the term indicates how far the slide should be pushed out; (3) In harmony, the term describes the layout of a chord. Here are the common positions of the chord with C major as an example, using the notes C E and G. In root position, the chord of C is played with C (the root of the chord) at the bottom. Infirst inversion, the chord is played with E at the bottom. In second inversion the chord is played with G at the bottom. Therefore, the note at the bottom of the chord determines these positions.*position
 Music Term: - A final piece of a composition.*postlude
-Music Term:  (Fr.) - Up bow as opposed to tire, down bow.*pousse
+Music Term: (Fr.) - Up bow as opposed to tire, down bow.*pousse
 Music Term: - Abbreviation for pianissimo, very soft.*pp
-Music Term:  (It.) - Impetuously.*precipitato*precipitoso
-Music Term:  (It.) - Precise.*preciso
+Music Term: (It.) - Impetuously.*precipitato*precipitoso
+Music Term: (It.) - Precise.*preciso
 Music Term: - Term describing music before Haydn and Mozart and also (more vaguely) describing music before Bach.*preclassical
-Music Term: -  An introductory piece or movement before a fugue, an act of an opera etc. Chopin and other later composers wrote preludes as short,  independent piano pieces in one movement.*prelude
-Music Term: - A harmonic device in which the effect of a discord is softened by first employing the note which actually causes that chord to be discordant,  in the previous note with which it is consonant.*preparation
-Music Term: -  A 20th century term, coined by John Cage, describing a piano which has been prepared by the insertion of objects between the piano  strings for performance (e.g. a piece of cardboard).*prepared piano
-Music Term:  (Fr.) - Increase speed.*pressez
-Music Term:  (It.) - Very fast. Superlative of presto.*prestissimo
-Music Term:  (It.) - Fast. In Mozart's music this means as fast as possible.*presto
-Music Term:  (It.) - First.*prima*primo
-Music Term:  (It., 'first lady') - A female singer with the most important part in an opera.*prima donna
-Music Term:  (It.) - First time.*prima volta
-Music Term:  (It.) - First. (1) Upper part of a piano duet, the lower part being termed sccondo; (2) The first of two or more performers (e.g. violino primo means  first violin). (3) Tempo primo indicates that the original speed is to be  resumed.*primo
-Music Term:  (It.) - The chief castrato or tenor role, used in the 18th century.*primo vomo
-Music Term: - (1) The first player of an orchestral section (e.g. the 'principal horn'). (2) In opera, the principal is the singer who performs the main parts,  but not the chief ones.*principal
+Music Term: - An introductory piece or movement before a fugue, an act of an opera etc. Chopin and other later composers wrote preludes as short, independent piano pieces in one movement.*prelude
+Music Term: - A harmonic device in which the effect of a discord is softened by first employing the note which actually causes that chord to be discordant, in the previous note with which it is consonant.*preparation
+Music Term: - A 20th century term, coined by John Cage, describing a piano which has been prepared by the insertion of objects between the piano strings for performance (e.g. a piece of cardboard).*prepared piano
+Music Term: (Fr.) - Increase speed.*pressez
+Music Term: (It.) - Very fast. Superlative of presto.*prestissimo
+Music Term: (It.) - Fast. In Mozart's music this means as fast as possible.*presto
+Music Term: (It.) - First.*prima*primo
+Music Term: (It., 'first lady') - A female singer with the most important part in an opera.*prima donna
+Music Term: (It.) - First time.*prima volta
+Music Term: (It.) - First. (1) Upper part of a piano duet, the lower part being termed sccondo; (2) The first of two or more performers (e.g. violino primo means first violin). (3) Tempo primo indicates that the original speed is to be resumed.*primo
+Music Term: (It.) - The chief castrato or tenor role, used in the 18th century.*primo vomo
+Music Term: - (1) The first player of an orchestral section (e.g. the 'principal horn'). (2) In opera, the principal is the singer who performs the main parts, but not the chief ones.*principal
 Music Term: - Music which interprets or describes a story, painting, poem, landscape or emotional experience. Opposite of absolute music.*programme music
 Music Term: - The movement from one note or chord to another in music.*progression
 Music Term: - The systematic plan of beginning in one key and ending in another in a movement.*progressive tonality
-Music Term:  (It.) - Point of the bow.*punta d'arco
-Music Term: -  A French square dance popular in the 19th century. It was in five sections alternating between 6  /  8 and 2  /  4 time and performed by two or four couples.*quadrille
+Music Term: (It.) - Point of the bow.*punta d'arco
+Music Term: - A French square dance popular in the 19th century. It was in five sections alternating between 6 / 8 and 2 / 4 time and performed by two or four couples.*quadrille
 Music Term: - Counterpoint in which four melodies can exchange position.*quadruple counterpoint
 Music Term: - A fugue with four different subjects.*quadruple fugue
 Music Term: - A chord of four notes played on a bowed string instrument.*quadruple stop
 Music Term: - A group of four notes to be played in the time of 3.*quadruplet
-Music Term: -  Same as common time consisting of four quarter notes to the bar, written 4  /  4 or C.*quadruple time
-Music Term: - In 4  /  4 time, the equivalent of one beat.*quarter note
+Music Term: - Same as common time consisting of four quarter notes to the bar, written 4 / 4 or C.*quadruple time
+Music Term: - In 4 / 4 time, the equivalent of one beat.*quarter note
 Music Term: - A composition for four performers.*quartet
-Music Term:  (It.) - As if, almost.*quasi
-Music Term: -  An opera in which the principal character undergoes a test or a difficult journey, or experiences hardships before reaching his goal (e.g .  Mozart's Magic Flute).*quest opera
+Music Term: (It.) - As if, almost.*quasi
+Music Term: - An opera in which the principal character undergoes a test or a difficult journey, or experiences hardships before reaching his goal (e.g . Mozart's Magic Flute).*quest opera
 Music Term: - A modern ballroom dance with quick steps.*quickstep
 Music Term: - A composition for five performers.*quintet
 Music Term: - A group of five notes to be performed in the time of 4.*quintuplet
-Music Term: - Time with five beats, usually quarter notes, to the bar (e.g. 5  /  4 time). Not common before the 20th century.*quintuple time
-Music Term:  (Lat., 'what you will') -  A piece containing several popular tunes. The composition may be improvised or notated and was especially practised  by German composers (e.g. Bach) in the 17th and 18th centuries.*quodlibet
+Music Term: - Time with five beats, usually quarter notes, to the bar (e.g. 5 / 4 time). Not common before the 20th century.*quintuple time
+Music Term: (Lat., 'what you will') - A piece containing several popular tunes. The composition may be improvised or notated and was especially practised by German composers (e.g. Bach) in the 17th and 18th centuries.*quodlibet
 Music Term: - Abbreviation of(l) Ray in the tonic sol-fa; (2) Respond.*r
-Music Term:  (It.) - Rage.*rabbia
-Music Term:  (It.) - Doubling. Usually indicates doubling of the bass at an octave below.*raddoppiamento
+Music Term: (It.) - Rage.*rabbia
+Music Term: (It.) - Doubling. Usually indicates doubling of the bass at an octave below.*raddoppiamento
 Music Term: - Abbreviation of rallentando.*rall
-Music Term:  (It.) - Getting slower.*rallentando
+Music Term: (It.) - Getting slower.*rallentando
 Music Term: - Describes a wide range of 17th century English dances.*rant
-Music Term:  (Ger.) - Quick.*rasch
-Music Term:  (Ger.) - Rattle.*ratsche
+Music Term: (Ger.) - Quick.*rasch
+Music Term: (Ger.) - Rattle.*ratsche
 Music Term: - A responding musical phrase (e.g. in a fugue) which exactly reproduces the subject or entry of a theme at the fifth.*real answer
 Music Term: - The completion of 17th and 18th century harmony by adding a keyboard accompaniment indicated by figured bass.*realisation
-Music Term: - Particularly used in sonata form, this term describes a section of a composition which repeats or approximates themes originally  presented in a previous section, which have since been developed.*recapitulation
+Music Term: - Particularly used in sonata form, this term describes a section of a composition which repeats or approximates themes originally presented in a previous section, which have since been developed.*recapitulation
 Music Term: - Abbreviation of recitative.*recit
 Music Term: - A performance by one or two performers.*recital
-Music Term: - Generally, this is a style of singing used in opera and oratorio for dialogue and some narrative which is more closely related to dramatic speech  in pitch and rhythm than to song. Two main types exist: (1) recitative  accompagnato or stromentato which is expressive and accompanied by the  orchestra and (2) recitative secco which has only an occasional broken chord  from the harpsichord or 'cellos (sometimes with the bass line reinforced by the  double bass) and this was the accepted style in 18th and l9th century operas.*recitative
-Music Term:  (Fr. ) - Meditative, collected.*recueilli
+Music Term: - Generally, this is a style of singing used in opera and oratorio for dialogue and some narrative which is more closely related to dramatic speech in pitch and rhythm than to song. Two main types exist: (1) recitative accompagnato or stromentato which is expressive and accompanied by the orchestra and (2) recitative secco which has only an occasional broken chord from the harpsichord or 'cellos (sometimes with the bass line reinforced by the double bass) and this was the accepted style in 18th and l9th century operas.*recitative
+Music Term: (Fr. ) - Meditative, collected.*recueilli
 Music Term: - In a fugue, this term describes an extra voice in the initial entries or exposition.*redundant entry
-Music Term: - A fast dance for two or more couples in 2  /  4 or 4  /  4 time, found mainly in Scotland, Ireland, Scandinavia and North America.*reel
+Music Term: - A fast dance for two or more couples in 2 / 4 or 4 / 4 time, found mainly in Scotland, Ireland, Scandinavia and North America.*reel
 Music Term: - A recurring section of a song (both words and music) at the end of each stanza.*refrain
-Music Term: - (1) The division of compass of a singer's voice (e.g. chest register and head register). Also applied to the compass of an instrument (e.g. the  chalumeau register of the clarinet); (2) A set of organ pipes controlled by one  particular stop.*register
-Music Term:  (Fr., 'enjoyment') - This title is sometimes found in spirited movements in suites of the baroque period.*rejouissance
-Music Term: - Describes the harmonic relationships of keys (e.g. G major is closely related to D major (its dominant) since there is only the difference of  one sharp. See also relative.*related
-Music Term: - This term refers to each key signature being shared by two keys (e.g. A minor is the 'relative' minor of C major since they both have no sharps  or flats in the key signature. D major is the relative major of B minor since  both keys have two sharps in the key signature.*relative
-Music Term: - A restatement of a section of a composition usually indicated by repeat marks which consist of a pair of dots and a double bar. When the  performer reaches these repeat marks, he then plays from the previous pair of  dots, or if there are none, from the beginning.*repeat
-Music Term:  (Fr.) - The coach, usually in an opera house, who teaches singers their parts. The repetiteur may also give them cues during the performance.*repetiteur
-Music Term:  (It.) - Repeat.*replica
-Music Term:  (Fr.) Rehearsal. Repetition General is the dress rehearsal, often given before a full, but invited audience, in continental opera houses.*repetition
-Music Term:  (It.) - Repeat.*replica
-Music Term:  (Fr.) - (1) Repeat; (2) The recapitulation in sonata form; (3) The return to the first section after contrasting music in the second section in  binary form.*reprise
+Music Term: - (1) The division of compass of a singer's voice (e.g. chest register and head register). Also applied to the compass of an instrument (e.g. the chalumeau register of the clarinet); (2) A set of organ pipes controlled by one particular stop.*register
+Music Term: (Fr., 'enjoyment') - This title is sometimes found in spirited movements in suites of the baroque period.*rejouissance
+Music Term: - Describes the harmonic relationships of keys (e.g. G major is closely related to D major (its dominant) since there is only the difference of one sharp. See also relative.*related
+Music Term: - This term refers to each key signature being shared by two keys (e.g. A minor is the 'relative' minor of C major since they both have no sharps or flats in the key signature. D major is the relative major of B minor since both keys have two sharps in the key signature.*relative
+Music Term: - A restatement of a section of a composition usually indicated by repeat marks which consist of a pair of dots and a double bar. When the performer reaches these repeat marks, he then plays from the previous pair of dots, or if there are none, from the beginning.*repeat
+Music Term: (Fr.) - The coach, usually in an opera house, who teaches singers their parts. The repetiteur may also give them cues during the performance.*repetiteur
+Music Term: (It.) - Repeat.*replica
+Music Term: (Fr.) Rehearsal. Repetition General is the dress rehearsal, often given before a full, but invited audience, in continental opera houses.*repetition
+Music Term: (It.) - Repeat.*replica
+Music Term: (Fr.) - (1) Repeat; (2) The recapitulation in sonata form; (3) The return to the first section after contrasting music in the second section in binary form.*reprise
 Music Term: - In harmony this is the progression from a discord to a concord.*resolution
 Music Term: - A plainsong chant sung by a chorus alternating with solo verse(s).*respond*responsory
 Music Term: - A silence in a performer's part indicated by symbols corresponding to certain beats.*rest
 Music Term: - In harmony this is a suspension which resolves upwards not downwards.*retardation
-Music Term:  (Fr.) - Held back.*retenu
-Music Term: - A theme which is played backwards. This device was prominent in the Middle Ages in fugues and in 20th century serial music.  Retrograde inversion describes a theme played backwards and upside-down.*retrograde motion
-Music Term:  (Ger.) - Recitative.*rezitativ
+Music Term: (Fr.) - Held back.*retenu
+Music Term: - A theme which is played backwards. This device was prominent in the Middle Ages in fugues and in 20th century serial music. Retrograde inversion describes a theme played backwards and upside-down.*retrograde motion
+Music Term: (Ger.) - Recitative.*rezitativ
 Music Term: - Abbreviations of rinforzando.*rf*rfz
 Music Term: - Abbreviation for right hand.*rh
-Music Term: - A title given by l9th and 20th century composers to describe works generally in one continuous movement suggestive of neroic, national or  other romantic inspiration.*rhapsody
+Music Term: - A title given by l9th and 20th century composers to describe works generally in one continuous movement suggestive of neroic, national or other romantic inspiration.*rhapsody
 Music Term: - A canon in which the cornposer leaves the performer to decide where and at what pitch the following voices make their entries.*riddle canon
 Music : 70s Tune: "Here is that rainbow I've been praying for."*i can see clearly now

@@ -414,7 +414,7 @@ Music : Category: American Songbook: "When somebody loves you, its no good unles
 Music : Category: American Songbook: "When you believe in things you don't understand, you will suffer."*superstition/wonder
 Music : Category: American Songbook: "When you hear me buzzin' baby, you know there's some stingin' goin' on."*im a king Bee/Harpo
 Music : Category: American Songbook: "Where the tree-tops glisten, and children listen..."*white christmas/berlin
-Music : Category: American Songbook: "You lie awake & think about the girl, & never even think of counting sheep"*in the wee small Hours of  the Morning/Mann
+Music : Category: American Songbook: "You lie awake & think about the girl, & never even think of counting sheep"*in the wee small Hours of the Morning/Mann
 Music : Category: Angus Young takes his band on a highway to ----*hell
 Music : Category: Animaniacs Tunes: Second place Magellan mistakes for the East Indies...*chile
 Music : Category: Animaniacs Tunes: Sense that "guides us right, when we goes out and walks"*sight
@@ -587,7 +587,7 @@ Music : Name the gallery in Liverpool where John Lennon met Yoko Ono*indica
 Music : Name the group that went searching in 1957*the coasters
 Music : Name the group who sings "Zunga Zeng" and "Come Baby Come"*k7
 Music : Name the group who's members are T-Boz, Left Eye, and Chili*tlc
-Music : Name the Group:  "Oh baby I love your way.. every day yeah.."*big mountain
+Music : Name the Group: "Oh baby I love your way.. every day yeah.."*big mountain
 Music : Name the group: "Carry On Wayward Son", "Point of Know Return".*kansas
 Music : Name the group: "So tap the bottle and twist the cap"*young black teenagers
 Music : Name the group: "Zoo Station", "One", "Sunday Bloody Sunday", "Bad".*u2
@@ -604,10 +604,10 @@ Music : Name the rapper who claims he's "the lyrical gangsta"*kamoze
 Music : Name the RHCP album: "Knock Me Down," "Higher Ground," "Magic Johnson".*mothers milk
 Music : Name the Russian band with the single "Bang" and a cover of "My Generation"*gorky park
 Music : Name the scale: f, g, a, b, c, d, e, f*lydian
-Music : Name the Singer:  "You mean the world to me,.. you are my everything.."*toni braxton
+Music : Name the Singer: "You mean the world to me,.. you are my everything.."*toni braxton
 Music : Name the single that Morrissey released on Jan. 95*boxers
 Music : Name the song 'No crib for a bed'*away in a manger
-Music : Name the song:  "As we walk along together.  Holding hands walking.. "*so in love
+Music : Name the song: "As we walk along together. Holding hands walking.. "*so in love
 Music : Name the song: "...Here in my car I feel safest of all..."*cars
 Music : Name the song: "...I wanna reach out & grab ya..."*abracadabra
 Music : Name the song: "...I've travelled the world & the seven seas..."*sweet dreams

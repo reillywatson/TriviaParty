@@ -2321,7 +2321,7 @@ Music : Musical W: Please come to ______ ___ ___ ______ (ramblin boy)*boston for
 Music : Musical W: The Moody Blues whiny hit ("...never reaching the end...")*nights in white satin
 Music : Musical W: This jazz alto player married Charlie Parker's widow *phil woods
 Music : Musical W: This jazz alto player married Charlie Parker's widow*phil woods
-Music : Musical W: This troubled Beach Boy put out a solo album in 1988  (full name)*brian wilson
+Music : Musical W: This troubled Beach Boy put out a solo album in 1988 (full name)*brian wilson
 Music : Musical Wheel : Adrian Belew: Tw_n_ B_r K_n_*twang bar king
 Music : Musical Wheel : Squeeze: P_ll_ng m_ss_ls fr_m th_ sh_ll*pulling mussels from the shell
 Music : Musical Wheel : Tommy James: _ th_nk w_r_ _l_n_ n_w*i think were alone now
@@ -2332,7 +2332,7 @@ Music : Musical Wheel: Minutemen: P_l_t_c_l s_ng f_r M_ch__l J_cks_n t_ s_ng*pol
 Music : Musical Wheel: Prince: _ c__ld n_v_r t_k_ th_ pl_c_ _f y__r m_n*i could never take the place of your man
 Music : Musical Wheel: Prince: R_nn__ t_lk t_ R_ss__*ronnie talk to russia
 Music : Musical Wheel: Rolling Stones: _x_l_ _n ___n _t___t*exile on main street
-Music : Musical Wheel: Song: _v_ryb_dys g_t s_m_th_ng t_ h_d_ _xc_pt f_r m_ _nd my m_nk_y*everybodys got  something to hide except for me and my monkey
+Music : Musical Wheel: Song: _v_ryb_dys g_t s_m_th_ng t_ h_d_ _xc_pt f_r m_ _nd my m_nk_y*everybodys got something to hide except for me and my monkey
 Music : Musical Wheel: Squeeze: P_ll_ng m_ss_ls fr_m th_ sh_ll*pulling mussels from the shell
 Music : Musical Wheel: The Clash: G_v_ _m _n__gh r_p_*give em enough rope
 Music : Musical Wheel: The Stranglers: Br_ng _n th_ n_b_l_s*bring on the nubiles
@@ -2362,11 +2362,11 @@ Music : Musician in Common: Yes, people born in South Africa*trevor rabin
 Music : My love, there's only you in my life*endless love
 Music : 60s Tune: ``... get out of my mind, my love for you is way out of line, better run...''*young girl
 Music : ' _____ of Love' by Frankie Lymon*abc's
-Music :  Pride, Type, Ology *times up
-Music :  What is indicated by the fine on a piece of sheet music*the end
-Music :  Who recorded "Long As I can See The Light"*creedence clearwater revival
-Music :  Who recorded "Moonlight Gamblers"*frankie laine
-Music :  Who'd begun work on a 10th symphony when he died during a thunderstorm in 1827*ludwig von beethoven*beethoven
+Music : Pride, Type, Ology *times up
+Music : What is indicated by the fine on a piece of sheet music*the end
+Music : Who recorded "Long As I can See The Light"*creedence clearwater revival
+Music : Who recorded "Moonlight Gamblers"*frankie laine
+Music : Who'd begun work on a 10th symphony when he died during a thunderstorm in 1827*ludwig von beethoven*beethoven
 Music : "... and I yearn for some cerebral fix..."*in the flat field
 Music : "...come together with your hands, save me"*spoonman
 Music : "...Swimming in the pool, swimming is cool, I go swimming"*peter gabriel
@@ -2550,7 +2550,7 @@ Music : 60s Tune: Which dance was Chubby Checker doing at the start of the 60s*t
 Music : 60s Tune: Which Marianne was linked with Mick Jagger *faithfull
 Music : 60s Tune: Who backed Brian Poole *the tremeloes
 Music : 60s Tune: Whose Five were in Bits & Pieces *dave clark
-Music : 60s Tune: "Are you ready, boots  Start walkin"*these boots are made for walking
+Music : 60s Tune: "Are you ready, boots Start walkin"*these boots are made for walking
 Music : 60s Tune: "Each morning I wake up, before I put on my make-up..."*i say a little prayer for you
 Music : 60s Tune: "Some cats & rats & elephants, but as sure as you're born.."*the unicorn
 Music : 60s Tune: ``... & even if time is really on my side, it's one of those days...''*daydream
@@ -3312,48 +3312,48 @@ Name the artist/band: All By Myself*eric carmen
 Name the artist/band: Total Eclipse Of The Heart*bonnie tyler
 Name the artist/band: The Power Of Love*frankie goes to hollywood
 Classical Music: Who wrote the Scheherazade suite *Rimsky-Korsakov
-Classical Music: Who was credited with completing  Mozart's last work, The Requiem *His pupil
+Classical Music: Who was credited with completing Mozart's last work, The Requiem *His pupil
 Classical Music: What city was Mozart was born in *Salzburg
 Classical Music: Who composed the opera Aida *Verdi
 Classical Music: What is the highest female voice *Soprano
 Classical Music: Composer Heitor Villa-Lobos was born in which country *Brazil
 Classical Music: Which work was not written by Richard Wagner *Die Fledermaus
-Classical Music: What virtuoso pianist had to turn to composing  after he injured his hand when he tried to strengthen his third and fourth fingers using a self-invented  apparatus  *Robert Schumann
+Classical Music: What virtuoso pianist had to turn to composing after he injured his hand when he tried to strengthen his third and fourth fingers using a self-invented apparatus *Robert Schumann
 Classical Music: Which well-known composer was confined to an insane asylum in Bonn near the end of his life *Robert Schumann
 Classical Music: Name the composer who tried to commit suicide by jumping in the Rhine. *Robert Schumann
 Classical Music: What composer was famous for his Polonaises *Frederic Chopin
 Classical Music: Which century did Johann Sebastian Bach die in *18th
 Classical Music: What does the term "equal temperament" describe *an octave divided into 12 equal notes
-Classical Music: How many symphonies did Beethoven write{Beethoven was born in Bonn, Germany in 1770.  He died inVienna, Austria in 1827.} *nine
+Classical Music: How many symphonies did Beethoven write{Beethoven was born in Bonn, Germany in 1770. He died inVienna, Austria in 1827.} *nine
 Classical Music: Which composer sent a lock of goat's hair to an ardent admirer *Beethoven
 Classical Music: What does the term appoggiatura mean *replacement of a note by it's upper or lower note
 Classical Music: What is the meaning of fermata *to pause
 Classical Music: A style of vocal music from the fifteenth century of Italian origin is: *Madrigal
-Classical Music: A  IV-I  chord progression is called a: *plagal cadence
+Classical Music: A IV-I chord progression is called a: *plagal cadence
 Classical Music: A cadenza is: *a passage in the style of brilliant improvisation
 Classical Music: Name the composer who wrote a an opus to specifically demonstrate equal temperament. *Bach
 Classical Music: Sonata No. 8, Opus No.13 in C minor by Beethoven is referred to as: *Sonata Pathetique
 Classical Music: The first four notes (of the melody) of Beethoven's Sonata Pathetique in C minor are: *C, C, D, Eb
-Classical Music: The  first four notes of the first main theme of  Chopin's Grande Valse Brilliante in Eb major are: *Bb, D, Eb, F
+Classical Music: The first four notes of the first main theme of Chopin's Grande Valse Brilliante in Eb major are: *Bb, D, Eb, F
 Classical Music: The first four notes of the first main melody in Chopin's "Minute Waltz" in Db are: *G, Ab, C, Bb
 Classical Music: The first three notes of the main theme of the second movement in Beethoven's Pathetique Sonata are: *C, Bb, Eb
 Classical Music: Which composer had the "house-gig" for 25 years as Kapellmeister at the Court of Prince Esterhazy *Haydn
 Classical Music: The National Anthem of Austria has been referred to as musically the finest National Anthem ever written. Who composed this work *Josef Haydn
 Classical Music: Who, after a performance of the "Messiah" was heard to sob, "Handel is the master of us all" *Haydn
 Classical Music: "The Creation" was composed by: *Haydn
-Classical Music: Who was the composer of  the "Clock " Symphony *Josef Haydn
-Classical Music: Who wrote the "Toy"  Symphony *Haydn
-Classical Music: In the slow, gentle second movement of Haydn's Symphony in G Major (No.94), a loud chord for full orchestra suddenly bursts forth. What  is this Symphony better known as *The Surprise Symphony                                    
+Classical Music: Who was the composer of the "Clock " Symphony *Josef Haydn
+Classical Music: Who wrote the "Toy" Symphony *Haydn
+Classical Music: In the slow, gentle second movement of Haydn's Symphony in G Major (No.94), a loud chord for full orchestra suddenly bursts forth. What is this Symphony better known as *The Surprise Symphony 
 Classical Music: Most present day composers would consider 4 or 5 Symphonies to be a good Symphonic output for a lifetime. Name the composer who wrote 102 Symphonies. *Haydn
-Classical Music: Who was Mozart referring to when he said "He alone has the secret of making me smile and touching me to the bottom of my soul"  *Haydn
+Classical Music: Who was Mozart referring to when he said "He alone has the secret of making me smile and touching me to the bottom of my soul" *Haydn
 Classical Music: The Symphony form owes its development to: *The Sonata form
 Classical Music: The Symphony form usually consists of: *Four movements
 Classical Music: The second movement of a Symphony is usually: *Slow
 Classical Music: A Polish court dance in triple rhythm , moderately fast is a: *Polonaise
-Classical Music: Who wrote  11 great polonaises for solo piano *Chopin
-Classical Music: Near the end of this symphony, the players gradually leave the stage until at the end there are only two first violins left.  The composer was: *Haydn
+Classical Music: Who wrote 11 great polonaises for solo piano *Chopin
+Classical Music: Near the end of this symphony, the players gradually leave the stage until at the end there are only two first violins left. The composer was: *Haydn
 Classical Music: Chopin's "Minute" waltz: *Is named after the French word for small. E.G small waltz
-Classical Music: How many symphonies did Chopin write  *None
+Classical Music: How many symphonies did Chopin write *None
 Classical Music: With which composer would you link the following musical forms. Nocturnes; Etudes; Waltzes; Polonaises; Mazurkas; Impromptus etc. *Chopin
 Classical Music: With which composer would you link the following musical forms. Fugues; Preludes; Passions; Partitas; organ works etc. *Bach
 Classical Music: Who was Wagner referring to when he said "The most stupendous miracle in all music" *Bach
@@ -3384,19 +3384,19 @@ Classical Music: A Canzone is: *a transcribed madrigal or chanson
 Classical Music: Several independent voices, each entering separately with the subject or answer are identifying characteristics of: *the fugue
 Classical Music: Which composer was so fastidious in his preparation of coffee that he would actually count out the number of beans per cup *Beethoven
 Classical Music: Which composer is known for a lullaby which bears his name: *Brahms
-Classical Music: Which composer wrote the  piano work "Microkosmos" to teach children the modern idiom *Bela Bartok
+Classical Music: Which composer wrote the piano work "Microkosmos" to teach children the modern idiom *Bela Bartok
 Classical Music: The Concerto for Orchestra was written by : *Bartok
-Classical Music: This European composer spent the last years of his life living in appalling poverty in New York City. Near the end, he was commissioned  to write a piece for the Boston Symphony Orchestra. His name: *Bartok
-Classical Music: To which opus was Robert Schauffler referring when he said; "It is as long as a symphony, as brilliant and as  difficult as a  concerto. " *Beethoven's Hammerklavier Sonata
+Classical Music: This European composer spent the last years of his life living in appalling poverty in New York City. Near the end, he was commissioned to write a piece for the Boston Symphony Orchestra. His name: *Bartok
+Classical Music: To which opus was Robert Schauffler referring when he said; "It is as long as a symphony, as brilliant and as difficult as a concerto. " *Beethoven's Hammerklavier Sonata
 Classical Music: Chopin and George Sand hoped to have an idyllic holiday on this island paradise. Instead it turned into a nightmare. Name this island. *Majorca
-Classical Music: An American  popular-song composer based this hit song on Chopin's Fantasie-Impromptu. This tune is: *I'm Always chasing Rainbows
+Classical Music: An American popular-song composer based this hit song on Chopin's Fantasie-Impromptu. This tune is: *I'm Always chasing Rainbows
 Classical Music: Who wrote the "Unfinished Symphony" (in B minor) *Schubert
-Classical Music: 80 years after his death,  Bach was all but forgotten by the general public. Which composer is credited with reviving interest in Bach after his death. *Felix Mendelssohn
-Classical Music: Who composed "Clair de Lune"  *Claude Debussy
-Classical Music: Who composed the piano piece, "Liebestraum"  *Liszt
+Classical Music: 80 years after his death, Bach was all but forgotten by the general public. Which composer is credited with reviving interest in Bach after his death. *Felix Mendelssohn
+Classical Music: Who composed "Clair de Lune" *Claude Debussy
+Classical Music: Who composed the piano piece, "Liebestraum" *Liszt
 Classical Music: Which composer is credited with having first developed the twelve tone technique *Arnold Schoenberg
 Classical Music: Who composed the musical piece "Silence" for solo piano *John Cage
-Classical Music: Which composer used the Prelude No. 1  in C from the Well Tempered Clavier by Bach as an accompaniment for a beautiful and famous religious melody *Charles Gounod
+Classical Music: Which composer used the Prelude No. 1 in C from the Well Tempered Clavier by Bach as an accompaniment for a beautiful and famous religious melody *Charles Gounod
 Classical Music: Who wrote "Dance of the Sugarplum Fairy" *Tchaikovsky
 Classical Music: Who wrote the well known "Wedding March" *Mendelssohn
 Classical Music: Which one of the following works was penned by Gustav Holst *The Planets
@@ -3408,7 +3408,7 @@ Classical Music: What composer wrote a piece which became the nationalanthem of 
 Classical Music: The opening line of this song asks, "My God, Why hast Thou forsaken me" *Eli, Eli
 Classical Music: What composer was born in Rohfrau, Lower Austria in 1732 and dies in Vienna in 1809 *Haydn
 Classical Music: Schubert's "The Earl King" sets to music the work of what great poet *Goethe
-Classical Music: This composer was born in 1860 in Bohemia and died in 1911 in Vienna.  *Mahler
+Classical Music: This composer was born in 1860 in Bohemia and died in 1911 in Vienna. *Mahler
 Classical Music: Between 1791 and 1795, this continental composer spent most of his time writing symphonies in London. *Haydn
 Classical Music: "Who is Sylvia" was set to music by Schubert. Who wrote the poem *Shakespeare
 Classical Music: Walter Scott's "The Lady of the Lake" provided the words for which of Schubert's songs *Ave Maria
@@ -3466,27 +3466,27 @@ Classical Music: Tchaikowsky made use of what newly invented instrument in "Danc
 Classical Music: This composer died in Paris from cancer of the rectum while the city was being shelled by the German Army in 1918. *Debussy
 Classical Music: Puccini's finest opera was completed after his death by his frend Franco Alfano. It is a fairy tale about a cruel but beautiful Chinese princess. *Turandot
 Classical Music: Tchaikowsky's "Piano Concerto in A-flat minor" was rejected as "unplayable" by the 19th century virtuoso for whom it was written. *Rubinstein
-Classical Music:  A performance by this folk-orchestra at the Paris Exhibition is said to have made a marked impression on Debussy. *a Javanese gamelan
+Classical Music: A performance by this folk-orchestra at the Paris Exhibition is said to have made a marked impression on Debussy. *a Javanese gamelan
 Classical Music: Bach wrote a charming collection of easy piano pieces for his second wife: *Anna Magdalena
 Classical Music: Debussy is noted for his use of this non-traditional scale. *whole tone
-Classical Music: This composer was once accused of drawing on Beethoven for musical ideas. He replied "Das weisst jeder Esel" (any ass knows that).  *Brahms
+Classical Music: This composer was once accused of drawing on Beethoven for musical ideas. He replied "Das weisst jeder Esel" (any ass knows that). *Brahms
 Classical Music: After being left an orphan at the age of 10, he was taken care of by his older brother Johann Cristoph. *Bach
 Classical Music: This composer travelled extensively in Eastern Europe to research the elements of Magyar folk-music. *Bartok
 Classical Music: With whom did Clara Schumann fall during her husbands period of mental illness *Brahms
 Classical Music: This hugely prolific composer was ill equipped to deal with the ways of the world. Despite the aid of friends in having his songs published he dies in poverty at the age of 31. *Schubert
 Classical Music: He was Leipzig's leading piano teacher in 1830. Schumann was sent to study with him and fell in love with his daughter. *Frederick Wieck
 Classical Music: In 1835 Chopin had a traumatic experience, sharing the stage with a more dazzling pianist. Chopin attracted only a fraction of the applause garnered by his rival. *none of the above
-Classical Music: In 1853 this virtuoso had to transpose Beethoven's C minor symphony  into C# minor. *Brahms
+Classical Music: In 1853 this virtuoso had to transpose Beethoven's C minor symphony into C# minor. *Brahms
 Classical Music: What small town in Upper Franconia is synonymous with the music of Wagner *Bayreuth
 Classical Music: Two of this composer's better-remembered lovers were the Comtesse D'Agoult and Princess Sayn-Wittgenstein. *Liszt
 Classical Music: One of Brahm's most difficult pieces is based on a theme by this composer who lived from 1782 to 1840. *Paganini
 Classical Music: This Chopin etude calls for extended chromatic runs executed by the last three fingers of the right hand. *Opus 10 No. 2 in A minor
 Classical Music: Beethoven's piano sonatas were influenced by those of an earlier composer whose B-flat major sonat was the subject of a competition with Mozart. *Clementi
-Classical Music: In his G-minor  sonata he instructs the player to begin "so schnell wie moglich" (as fast as possible). *Schumann
+Classical Music: In his G-minor sonata he instructs the player to begin "so schnell wie moglich" (as fast as possible). *Schumann
 Classical Music: What constitutes the surprise in Haydn's "Surprise Symphony" *a loud drumbeat
 Classical Music: Domenico Scarlatti acquired novel ideas on the use of rhythm and harmony during his sojourn in what country *Spain
 Classical Music: His publishers referred to him as the "Finnish Chopin". *Palmgren
-Classical Music: His Opus 117 No. 1 in E-flat if remmebered as the beautiful "Cradle Song".  *Brahms
+Classical Music: His Opus 117 No. 1 in E-flat if remmebered as the beautiful "Cradle Song". *Brahms
 Classical Music: Mendelssohn's wedding march begins on an unusual chord of which type *diminished
 Classical Music: When an independent Poland was carved out from Russian, German, and Austrian territory after WWI, this pianist became its first prime minister. *Paderewski
 Classical Music: This Russian composer is known for his children's piano pieces. *Kabalevsky
@@ -3494,51 +3494,51 @@ Classical Music: Haydn was taken in by this noble patron in 1761 and remained in
 Classical Music: Richard Wagner's second wife Cosima was the illegitimatedaughter of what famous virtuoso *Liszt
 Classical Music: The formalized solo song used in the opera is : *The Aria
 Classical Music: Name the piano virtuoso who spent the earlier years ofhis life pursuing sensual pleasures and many love affairs, but spent the last years of his life in prayer and contemplation as an Abbe. *Franz Liszt
-Classical Music: For what instrument did Girolamo Frescobaldi become one of the firstgreat composers of music   *Organ
-Classical Music: What composition can be sung forward and backward, then turned upside down and sung forward and backward again   *Oh Sing Unto The Lord
-Classical Music: Who never wrote an opera, symphony, choral piece or produce a string quartet, but was very influential in the history of piano music   *Chopin
-Classical Music: Did Johannes Brahms...   *Remain a bachelor
-Classical Music: What composer at age 44 became tragically insane and was confined to anasylum   *Schumann
-Classical Music: What composer had a daughter named Chouchou to whom he dedicated the Children's Corner suite   *Debussy
-Classical Music: Who said "a master of the art is gone, a greater arises in Brahms"   *Marxsen
-Classical Music: Who studied under and married the daughter of Friedrich Wieck   *Schumann
-Classical Music: What instrument did Johannes Brahms' father play   *Double bass
-Classical Music: What popular song was based on Chopin's Fantasie Impromptu, Opus 66   *I'm Always Chasing Rainbows
-Classical Music: What classical composition was the popular song Full Moon And Empty Arms derived from   *Rachmanninov's Piano Concerto No. 2
+Classical Music: For what instrument did Girolamo Frescobaldi become one of the firstgreat composers of music *Organ
+Classical Music: What composition can be sung forward and backward, then turned upside down and sung forward and backward again *Oh Sing Unto The Lord
+Classical Music: Who never wrote an opera, symphony, choral piece or produce a string quartet, but was very influential in the history of piano music *Chopin
+Classical Music: Did Johannes Brahms... *Remain a bachelor
+Classical Music: What composer at age 44 became tragically insane and was confined to anasylum *Schumann
+Classical Music: What composer had a daughter named Chouchou to whom he dedicated the Children's Corner suite *Debussy
+Classical Music: Who said "a master of the art is gone, a greater arises in Brahms" *Marxsen
+Classical Music: Who studied under and married the daughter of Friedrich Wieck *Schumann
+Classical Music: What instrument did Johannes Brahms' father play *Double bass
+Classical Music: What popular song was based on Chopin's Fantasie Impromptu, Opus 66 *I'm Always Chasing Rainbows
+Classical Music: What classical composition was the popular song Full Moon And Empty Arms derived from *Rachmanninov's Piano Concerto No. 2
 Classical Music: What did Tzar Alexander I of Russia give to Chopin after a performance *Diamond ring
 Classical Music: Which popular song was based on Toselli's Serenade *Years and Years Ago
-Classical Music: Who wrote a piano concerto for left hand alone for a friend who had lost his right hand in World War I   *Ravel
-Classical Music: Who envisioned a work for 2000 performers combining music, poetry, dancing, colours and perfumes   *Scriabin
-Classical Music: What composer, when not awarded the Grand Prix, forced the resignation of the head of the Paris Conservatory   *Ravel
-Classical Music: What composer adapted Edgar Allan Poe's Fall of the House of Usher for an operatic libretto   *Debussy
-Classical Music: Which love inspired Wagner's libretto for Tristan und Isolde   *Mathilde
-Classical Music: What composition did Ravel call "17 minutes of orchestra without any music"   *Bolero
-Classical Music: Who was infatuated with Liszt's daughter and the wife of one of his best friends   *Wagner
-Classical Music: Who was refused admission to the Paris Conservatory at age 12 because the director disliked child prodigies   *Liszt
-Classical Music: What director of the Paris Conservatory refused admission to Liszt   *Cherubini
-Classical Music: Who was the founder of French Grand Opera   *Lully
-Classical Music: What two composers died within one and a half years of each other   *Beethoven and Schubert
-Classical Music: Who wrote The Trout (Die Forelle)   *Schubert
-Classical Music: Who paid Scriabin a annual fee for composing and took him on an orchestral tour down the Volga by boat   *Koussenitzky
-Classical Music: Who became intrigued by mechanical player pianos and wrote an Etude for Pianola   *Stravinsky
-Classical Music: What violinist was said to have sold his soul to the devil   *Paganini
-Classical Music: Who was known as "twelve tone man"   *Schoenberg
-Classical Music: For whom did Berlioz write his viola concerto Harold in Italy   *Paganini
-Classical Music: What composer became so depressed, he needed hypnotism before he could write again   *Rachmaninov
-Classical Music: Who achieved fame as an organist and a tester of church organs   *Bach
+Classical Music: Who wrote a piano concerto for left hand alone for a friend who had lost his right hand in World War I *Ravel
+Classical Music: Who envisioned a work for 2000 performers combining music, poetry, dancing, colours and perfumes *Scriabin
+Classical Music: What composer, when not awarded the Grand Prix, forced the resignation of the head of the Paris Conservatory *Ravel
+Classical Music: What composer adapted Edgar Allan Poe's Fall of the House of Usher for an operatic libretto *Debussy
+Classical Music: Which love inspired Wagner's libretto for Tristan und Isolde *Mathilde
+Classical Music: What composition did Ravel call "17 minutes of orchestra without any music" *Bolero
+Classical Music: Who was infatuated with Liszt's daughter and the wife of one of his best friends *Wagner
+Classical Music: Who was refused admission to the Paris Conservatory at age 12 because the director disliked child prodigies *Liszt
+Classical Music: What director of the Paris Conservatory refused admission to Liszt *Cherubini
+Classical Music: Who was the founder of French Grand Opera *Lully
+Classical Music: What two composers died within one and a half years of each other *Beethoven and Schubert
+Classical Music: Who wrote The Trout (Die Forelle) *Schubert
+Classical Music: Who paid Scriabin a annual fee for composing and took him on an orchestral tour down the Volga by boat *Koussenitzky
+Classical Music: Who became intrigued by mechanical player pianos and wrote an Etude for Pianola *Stravinsky
+Classical Music: What violinist was said to have sold his soul to the devil *Paganini
+Classical Music: Who was known as "twelve tone man" *Schoenberg
+Classical Music: For whom did Berlioz write his viola concerto Harold in Italy *Paganini
+Classical Music: What composer became so depressed, he needed hypnotism before he could write again *Rachmaninov
+Classical Music: Who achieved fame as an organist and a tester of church organs *Bach
 Classical Music: What did the ladies of Dublin agree to do so more people could attendHandel's Messiah *Go without their hoops
 Classical Music: To whom did Mozart refer when he said "Pay attention to him. He will make a noise in the world some day or other" *Beethoven
-Classical Music: What is considered to be the first true Italian opera   *Eurydice
+Classical Music: What is considered to be the first true Italian opera *Eurydice
 Classical Music: What was Beethoven's only opera *Fidelio
-Classical Music: What instrument did Queen Elizabeth I of England play   *Virginal
+Classical Music: What instrument did Queen Elizabeth I of England play *Virginal
 Classical Music: What composer was called the "Red Priest" *Vivaldi
 Classical Music: What was known as Paganini's widow *His favorite violin
 Classical Music: Composers Rimsky-Korsakov, Borodin, Balakirev, Cui and Mussorgskybelonged to what group *The Five
 Classical Music: Who wrote the Russian historical opera A Life For The Tzar *Glinka
 Classical Music: Who was the first musician to become a member of the Austrian House ofLords *Dvorak
-Classical Music: Who founded the American Society of Composers, Authors and Publishers(ASCAP) in 1914   *Herbert
-Classical Music: Who wrote the ballet Harlequin's Millions   *Drigo
-Classical Music: Of what composition did Tchaikovsky say  "a piece from the heart. I can't wait for to be played" *Waltz from Serenade for Strings
+Classical Music: Who founded the American Society of Composers, Authors and Publishers(ASCAP) in 1914 *Herbert
+Classical Music: Who wrote the ballet Harlequin's Millions *Drigo
+Classical Music: Of what composition did Tchaikovsky say "a piece from the heart. I can't wait for to be played" *Waltz from Serenade for Strings
 Classical Music: Who composed Rhapsody on a Theme by Paganini *Rachmaninov
 Classical Music: Humoresque was published in 1890 and has remained a favorite. Who wrote it *Dvorak
 Classical Music: What composition was used as the theme of the Lone Ranger TV series *William Tell Overture
@@ -3546,22 +3546,22 @@ Classical Music: Who wrote the Can Can *Offenbach
 Classical Music: Approximately how many waltzes did Johann Strauss Jr. compose *Over 500
 Classical Music: The song Tonight We Love was taken from the opening theme of which concerto *Tchaikovsky's Piano Concerto
 Classical Music: In 1970, 100 cellists played Sardana in tribute to what composer *Casals
-Classical Music: Who wrote the Skater's Waltz   *Waldtoufel
-Classical Music: Domenico Scarlatti's works are often identified with "L" and a number. Whatdoes "L" stand for   *Longo
-Classical Music: Who wrote most of Mozart's Symphony No. 37, K. 444   *Michael Haydn
+Classical Music: Who wrote the Skater's Waltz *Waldtoufel
+Classical Music: Domenico Scarlatti's works are often identified with "L" and a number. Whatdoes "L" stand for *Longo
+Classical Music: Who wrote most of Mozart's Symphony No. 37, K. 444 *Michael Haydn
 Classical Music: Although Mussorgsky wrote Pictures at an Exhibition, whose orchestration of it is usually heard *Ravel
 Classical Music: What is the only left handed instrument in the orchestra *French horn
 Classical Music: As a choir boy, Haydn was considered a practical joker. On one occasion, he... *Cut off the pigtails of another singer
 Classical Music: Haydn's wife was not exactly a music lover. Her insensitivity really showed when she... *Used Haydn's manuscript for hair curlers
 Classical Music: Who was Chopin's lover *George Sand
 Classical Music: In his Dance of the Sugar Plum Fairies (1892), Tchaikovsky made use of what newly invented instrument *Celesta
-Classical Music: Haydn's works are often identified by an "H" and a number. What does the "H" stand for   *Hoboken
+Classical Music: Haydn's works are often identified by an "H" and a number. What does the "H" stand for *Hoboken
 Classical Music: The works of Mozart are usually identified by "K" and a number. What does "K" stand for *Kochel
 Classical Music: The works of Schubert are usually identified by "D" and a number. What does "D" stand for *Deutsch
-Classical Music: Each movement of Vaughan William's Sinfonia Antarctica contains quotes from the journals of which explorer   *Scott
-Classical Music: Who did Herbert Von Karajan replace as conductor of the Berlin Philharmonic   *Furtwangler
-Classical Music: What is the Heiligenstadt Testament   *Beethoven's letter of personal despair
+Classical Music: Each movement of Vaughan William's Sinfonia Antarctica contains quotes from the journals of which explorer *Scott
+Classical Music: Who did Herbert Von Karajan replace as conductor of the Berlin Philharmonic *Furtwangler
+Classical Music: What is the Heiligenstadt Testament *Beethoven's letter of personal despair
 Classical Music: Mozart, Haydn and Beethoven are sometimes collectively refered to as... *Composers of the First Viennese School
 Classical Music: Who wrote the Devil's Trill Sonata *Tartini
 Classical Music: What group was Mozart a member of *Freemasons
-Classical Music: Which work does not belong in this group   *Der Freischutz
+Classical Music: Which work does not belong in this group *Der Freischutz

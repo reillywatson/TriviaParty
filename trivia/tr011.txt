@@ -416,7 +416,7 @@ Animal Trivia: Atlantic ---------- are able to leap 15 feet high.*salmon
 Animal Trivia: Lemon sharks grow a new set of teeth every two weeks. They grow more than 24,000 new ---------- every year.*teeth
 Animal Trivia: Elephants perform greeting ceremonies when a member of the group returns after a long time away. The welcoming animals spin around, flap their ears, and ----------*trumpet
 Animal Trivia: Australia's ---------- is the world's most dangerous jellyfish. Its toxin is more potent than cobra venom and can kill a person in minutes*box jelly
-Animal Trivia:  are the only truly social cat species, and usually every female in a pride, ranging from 5 to 30 individuals, is closely related.*lions
+Animal Trivia: are the only truly social cat species, and usually every female in a pride, ranging from 5 to 30 individuals, is closely related.*lions
 Animal Trivia: Elephants, lions, and camels roamed ---------- 12,000 years ago.*alaska
 Animal Trivia: Baby beavers are called kits or ----------*kittens
 Animal Trivia: ---------- chinchillas were brought from the Andes Mountains in South America in the 1930's. All chinchillas presently in North America are descended from these ---------- chinchillas.*eleven*11
@@ -643,7 +643,7 @@ Animal Trivia: The Cairn terrier is great at catching ----------*rats
 Animal Trivia: Pandas spend about 12 hours a day eating ----------*bamboo
 Animal Trivia: In Milwaukee during the 1900s, 12,500 horses in the city left an estimated 133 tons of ---------- and urine on the streets per year.*manure
 Animal Trivia: The white elephant is the sacred animal of ----------*thailand
-Animal Trivia: The largest order of mammals, with about 1,700 species, is ----------. Bats are second with about  950 species.*rodents
+Animal Trivia: The largest order of mammals, with about 1,700 species, is ----------. Bats are second with about 950 species.*rodents
 Animal Trivia: The calories burned daily by the sled dogs running in Alaska's annual Iditarod race average 10,000. The 1,149-mile race commemorates the 1925 "Race for Life" when 20 volunteer mushers relayed medicine from Anchorage to Nome to battle a children's ----------*diphtheria epidemic
 Animal Trivia: Parrots, most famous of all talking birds, rarely acquire a vocabulary of more than twenty words. However, Tymhoney Greys and African Greys have been known to carry vocabularies in excess of ----------**one hundred words*100 words
 Animal Trivia: In one year, hens in America lay enough eggs to encircle the globe a ----------*one hundred times*100 times
@@ -699,7 +699,7 @@ Quotations: "--------- as if everything depended on God, and work as if everythi
 Quotations: "Choose your friends by their character and your socks by their color. Choosing your socks by their ---------- makes no sense, and choosing your friends by their color is unthinkable."- Anon.*character
 Quotations: "---------------, if false, is of no importance, and if true, of infinite importance. The only thing it cannot be is moderately important."- Clive Staples Lewis (1898-1963)*christianity
 Quotations: "Christmas is over and Business is Business."- Franklin Pierce Adams*business
-Quotations: "-------------.  Millions of people being lonesome together."- Henry David Thoreau*city life
+Quotations: "-------------. Millions of people being lonesome together."- Henry David Thoreau*city life
 Quotations: "-------------- has taught us to eat with a fork, but even now if nobody is around, we use our fingers."- Will Rogers*civilization
 Quotations: "Civilization is unbearable, but it is less unbearable at the top."- Timothy Leary*civilization
 Quotations: "------------- music is the kind we keep thinking will turn into a tune."- Kin Hubbard (1869 - 1930)*classical
@@ -1041,7 +1041,7 @@ Useless Facts: Babies are born without*knee caps
 Useless Facts: Babies knee caps don't appear until the child reaches ________ years of age*2 - 6
 Useless Facts: Nutmeg is extremely _______ if injected intravenously*poisonous
 Useless Facts: Michael Jordan makes more money from _______ annually than all of the factory workers in Malaysia combined*nike
-Useless Facts: One of the reasons marijuana is illegal today is because cottongrowers in  the 30s lobbied against _____ farmers - they saw it as competition*hemp
+Useless Facts: One of the reasons marijuana is illegal today is because cottongrowers in the 30s lobbied against _____ farmers - they saw it as competition*hemp
 Useless Facts: Only one person in _________ will live to be 116 or older*two billion
 Useless Facts: If you yelled for 8 years, 7 months and 6 days, you would have produced enough sound energy to heat*one cup of coffee
 Useless Facts: If you fart consistently for 6 years and 9 months, enough gas is produced to create the energy of an*atomic bomb
@@ -1298,38 +1298,38 @@ Geography: The Jökulsárgljúfur National Park (the name means "glacial river cany
 Geography: The King Ranch in -------- is bigger than the state of Rhode Island. It comprises 1.25 million acres and was the first ranch in the world to be completely fenced in. At one time, its borders were guarded by armed patrol.*texas
 Geography: Though part of the British Isles, the --------------- is administered according to its own laws by the Court of Tynwald. The island is not bound by British law unless it chooses to be.*isle of man
 Geography: The land area of the country of ---------- is slightly smaller than Alabama.*greece
-Algebra: Define the value of X:   x + 3 = 5*2
-Algebra: Define the value of X:   x - 6 = 9*15
-Algebra: Define the value of X:   -32 = x + 3*-35
-Algebra: Define the value of X:   29 - x = 13*16
-Algebra: Define the value of X:   46 = 47 - x*1
-Algebra: Define the value of X:   12 = -x + 1*-11
-Algebra: Define the value of X:   4x = 16*4
-Algebra: Define the value of X:   2x = 10*5
-Algebra: Define the value of X:   10x = 130*13
-Algebra: Define the value of X:   14 = -2x*-7
-Algebra: Define the value of X:   -3 + 2x = 11*7
-Algebra: Define the value of X:   4x + 6 = -10*-4
-Algebra: Define the value of X:   x + 9 = 18 - 2x*3
-Algebra: Define the value of X:   2x + 6 = 4x - 2*4
-Algebra: Define the value of X:   15 + 5x = 0*-3
-Algebra: Define the value of X:   17x - 12 = 114 + 3x*9
-Algebra: Define the value of X:   2x - 10 = 10 - 3x*4
-Algebra: Define the value of X:   12x + 0 = 144*12
-Algebra: Define the value of X:   -10x - 19 = 19 - 8x*-19
-Algebra: Define the value of X:   6x - 2 + 2x = -2 + 4x + 8*2
-Algebra: Define the value of X:   -6 + 2x + 3x = 29*7
-Algebra: Define the value of X:   100x + -89x = 121*11
-Algebra: Define the value of X:   10x+5+0= 2x - 3x + 60*5
-Algebra: Define the value of X:   0x + 7 + 5x = 2x + 30 + 40*21
-Algebra: Define the value of X:   -11+10x+11-33=x+2x+100*19
-Algebra: Define the value of X:   10 - 20x-10=15x-5x+90*9
-Algebra: Define the value of X:   5x+9+5x=30+7x- -15+ + 15*17
-Algebra: Define the value of X:   99 + 5x = 2000 - 5x - 911*99
-Algebra: Define the value of X:   10x + 3x = 100 + 69*13
+Algebra: Define the value of X: x + 3 = 5*2
+Algebra: Define the value of X: x - 6 = 9*15
+Algebra: Define the value of X: -32 = x + 3*-35
+Algebra: Define the value of X: 29 - x = 13*16
+Algebra: Define the value of X: 46 = 47 - x*1
+Algebra: Define the value of X: 12 = -x + 1*-11
+Algebra: Define the value of X: 4x = 16*4
+Algebra: Define the value of X: 2x = 10*5
+Algebra: Define the value of X: 10x = 130*13
+Algebra: Define the value of X: 14 = -2x*-7
+Algebra: Define the value of X: -3 + 2x = 11*7
+Algebra: Define the value of X: 4x + 6 = -10*-4
+Algebra: Define the value of X: x + 9 = 18 - 2x*3
+Algebra: Define the value of X: 2x + 6 = 4x - 2*4
+Algebra: Define the value of X: 15 + 5x = 0*-3
+Algebra: Define the value of X: 17x - 12 = 114 + 3x*9
+Algebra: Define the value of X: 2x - 10 = 10 - 3x*4
+Algebra: Define the value of X: 12x + 0 = 144*12
+Algebra: Define the value of X: -10x - 19 = 19 - 8x*-19
+Algebra: Define the value of X: 6x - 2 + 2x = -2 + 4x + 8*2
+Algebra: Define the value of X: -6 + 2x + 3x = 29*7
+Algebra: Define the value of X: 100x + -89x = 121*11
+Algebra: Define the value of X: 10x+5+0= 2x - 3x + 60*5
+Algebra: Define the value of X: 0x + 7 + 5x = 2x + 30 + 40*21
+Algebra: Define the value of X: -11+10x+11-33=x+2x+100*19
+Algebra: Define the value of X: 10 - 20x-10=15x-5x+90*9
+Algebra: Define the value of X: 5x+9+5x=30+7x- -15+ + 15*17
+Algebra: Define the value of X: 99 + 5x = 2000 - 5x - 911*99
+Algebra: Define the value of X: 10x + 3x = 100 + 69*13
 Algebra: Solve it: 3x + 2x*5x
 Algebra: Solve it: 7y - 2y + 3y*8y
-Algebra: Solve it: 14a x 3a - 8a  ÷ 2*17
+Algebra: Solve it: 14a x 3a - 8a ÷ 2*17
 The grass on the prairie can be eaten up by 27 cattle in 6 weeks. If there are 23 cattle, the grass can be eaten up in 9 weeks. If there are 21 cattle, how many weeks would it take for the grass to be eaten*12 weeks
 Sue went to the store and bought $5.25 worth of sodas and $2.80 worth of bread. What will be the subtotal of her bill*$8.05
 Brian wanted to help contribute to a charity fund. A sponser told him for every mile he runs, they will donate $20.00 to the charity. If Brian runs 5 miles, how much will his sponser donate to the charity*$100
@@ -1785,7 +1785,7 @@ Who is known as the father of genetics*gregor mendel
 Who is known as the father of geometry*euclid
 Who is known as the 'father of the atomic bomb'*robert oppenheimer
 Who is known in England as the tatty detective*columbo
-Who is likely to have a faster pulse   a man or a woman*a woman
+Who is likely to have a faster pulse a man or a woman*a woman
 Who is on a U S $20 bill*andrew jackson
 Who is on a U S $5,000 bill*james madison
 Who is on a U S $50 bill*ulysses s grant
@@ -1805,19 +1805,19 @@ Who is the ghost that walks*phantom
 Who is the greatest boxer ever*muhammid ali*cassius clay
 Who is the greatest*me
 Who is the Greek counterpart of Hercules*heracles
-Who is the Greek god of shepherds &  flocks*pan
+Who is the Greek god of shepherds & flocks*pan
 Who is the Greek messenger god*hermes
 Who is the historical figure most often portrayed in movies*napoleon bonaparte
 Who is the Jolly Green Giant's helper*little green sprout
 Who is the leader of Iraq*saddam hussein
 Who is the leader of the Inkatha freedom party*mangosuthu buthelezi
-Who is the Norse god of fertility, sun, &  rain*frey
+Who is the Norse god of fertility, sun, & rain*frey
 Who is the Norse god of lightning*odin
 Who is the Norse god of mischief*loki
-Who is the Norse god of thunder &  war*thor
-Who is the only American author to win both the Pulitzer &  Nobel prizes*john steinbeck
+Who is the Norse god of thunder & war*thor
+Who is the only American author to win both the Pulitzer & Nobel prizes*john steinbeck
 Who is the only author to have a book in every dewey decimal category*isaac asimov
-Who is the only Greek god in greek mythology with a mortal mother &  an immortal father*dionysus
+Who is the only Greek god in greek mythology with a mortal mother & an immortal father*dionysus
 Who is the only host country not to win gold at its own summer olympics*canada
 Who is the patron saint of England*st george
 Who is the patron saint of Ireland*st patrick

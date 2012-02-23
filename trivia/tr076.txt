@@ -8,7 +8,7 @@ In 1973 ---------- Seles tennis star (French Open-1990), born.*monica
 In 1975 Laos People's ---------- Republic founded (National Day).*democratic
 In 1982 1st permanent artificial ---------- successfully implanted (U of Utah) in retired dentist Barney Clark; lived 112 days with the Jarvic-7 heart.*heart
 In 1986 Desi ---------- actor (Ricky Ricardo-I Love Lucy), dies at 69.*arnaz
-In 1988 "Naked Gun" premieres, a movie based on TV's "----------  Squad".*police
+In 1988 "Naked Gun" premieres, a movie based on TV's "---------- Squad".*police
 In 1990 1st parlimentary election in newly reunified---------- .*germany
 In 1368 Charles VI [the Well-Beloved], king of ---------- (1380-1422), born.*france
 In 1586 Sir Thomas Herriot introduces ---------- to England, from Colombia.*potatoes
@@ -104,7 +104,7 @@ In 1791 New York City traffic regulation creates the first ---------- -way stree
 In 1843 "A Christmas Carol" by Charles ---------- published in London.*dickens
 In 1875 Violent bread riots at---------- .*montreal
 In 1903 At 10:35AM, for 12 seconds, first sustained motorized aircraft flight (36 meters) by ---------- Brothers at Kitty Hawk, NC.*wright
-In 1908 Willard Frank Libby, invented carbon-14 "----------  clock", born.*atomic
+In 1908 Willard Frank Libby, invented carbon-14 "---------- clock", born.*atomic
 In 1920 Japan receives League of Nations mandate over ---------- islands.*pacific
 In 1959 First movie opening ---------- in major cities "On The Beach".*simultaneously
 In 1979 Budweiser ---------- car reaches 1190 kph (record for wheeled vehicle).*rocket
@@ -286,7 +286,7 @@ In 1983 After being expelled from---------- , former Nazi Gestapo official Klaus
 In 1840 ---------- Day*new zealand
 In 1861 English Admiral Robert ---------- issues storm warnings for ships putting out to sea, creating the first "weather forecast."*fitzroy
 In 1895 George Herman '---------- ' Ruth, born.*babe
-In 1900 Spanish-----------  War ends.*american
+In 1900 Spanish----------- War ends.*american
 In 1911 Ronald---------- , 40th President (1981-1989), born.*reagan
 In 1919 Zsa Zsa ---------- (in Budapest), actress, ex-con, born.*gabor
 In 1940 Tom---------- , journalist, born.*brokaw
@@ -299,7 +299,7 @@ In 1827 Ballet introduced to the U.S. at ---------- Theatre, New York City.*bowe
 In 1882 Last bare knuckle champion John L. ---------- KOs Paddy Ryan in Miss.*sullivan
 In 1944 The assault on ---------- begins.*anzio
 In 1962 Garth---------- , C&W singer, born.*brooks
-In 1977 Soyuz ----------  is launched.*24
+In 1977 Soyuz ---------- is launched.*24
 In 1587 Mary Queen of ---------- executed.*scots
 In 1828 Jules ---------- (in France), author who pioneered what later became science fiction, born.*verne
 In 1883 Louis ---------- begins experiments that invent the fountain pen.*waterman
@@ -482,14 +482,14 @@ In 1980 USA beats ---------- and wins the Olympic Gold Medal (4-2).*finland
 In 1986 Voyager 2, first ---------- flyby.*uranus
 In 1989 Funeral for Japan's Emperor ---------- costs his government $80-billion dollars, attracts all major world leaders.*hirohito
 In 1989 United Airlines 747 jet rips open in flight from ---------- to New Zealand, 9 passengers sucked out of plane, many injuries.*honolulu
-In 1838 A London pedestrian walks 20 miles backward and 20 miles forward in ----------  hours.*eight*8
+In 1838 A London pedestrian walks 20 miles backward and 20 miles forward in ---------- hours.*eight*8
 In 1841---------- , painter, born.*renoir
 In 1873 Enrico ---------- (in Italy), singer, born.*caruso
 In 1933 First aircraft carrier "---------- " launched.*ranger
 In 1943 George---------- , singer (Beatles), born.*harrison
 In 1972 Paul ---------- releases "Give Ireland back to the Irish" single.*mccartney
-In 1977 Soyuz ----------  returns to Earth.*twenty four*24
-In 1979 Soyuz ----------  is launched.*thirty two*32
+In 1977 Soyuz ---------- returns to Earth.*twenty four*24
+In 1979 Soyuz ---------- is launched.*thirty two*32
 In 1802 Victor---------- , French author, born.*hugo
 In 1815 Napoleon escapes from ---------- to begin second conquest of France.*elba
 In 1846 William "---------- " Cody (near Davenport, Iowa), frontiersman, born.*buffalo bill
@@ -515,7 +515,7 @@ In 1807 Henry Wadsworth ---------- (in Portland, Maine), poet, born.*longfellow
 In 1844 ---------- Republic gains it's independence.*dominican
 In 1883 Oscar ---------- patents first practical cigar-rolling machine.*hammerstein
 In 1902 John---------- , writer, born.*steinbeck
-In 1922 U.S. Supreme Court unanimously upheld the ----------  Amendment (woman's right to vote).*19th
+In 1922 U.S. Supreme Court unanimously upheld the ---------- Amendment (woman's right to vote).*19th
 In 1930 Joanne ---------- (in Thomasville, GA), actress, wife of Paul Newman, born.*woodward
 In 1932 Elizabeth ---------- (in London, England), actress, had many husbands, born.*taylor
 In 1933 Reichstag building in ---------- was set afire, Nazis blame Communists.*berlin
@@ -651,86 +651,86 @@ Sydney 2000 Olympics: This countries medal tally was: 0 Gold, 0 Silver, 1 Bronze
 Sydney 2000 Olympics: This countries medal tally was: 0 Gold, 0 Silver, 1 Bronze, 1 in Total*iceland
 Sydney 2000 Olympics: This countries medal tally was: 0 Gold, 0 Silver, 1 Bronze, 1 in Total*israel
 Sydney 2000 Olympics: This countries medal tally was: 0 Gold, 0 Silver, 1 Bronze, 1 in Total*kyrgyzstan
-Atlanta 1996 Olympics: This countries medal tally was: 42  Gold, 31  Silver, 25  Bronze, 98 in Total*united states of america
-Atlanta 1996 Olympics: This countries medal tally was: 19  Gold, 17  Silver, 27  Bronze, 63 in Total*germany
-Atlanta 1996 Olympics: This countries medal tally was: 25  Gold, 20  Silver, 14  Bronze, 59 in Total*russia
-Atlanta 1996 Olympics: This countries medal tally was: 14  Gold, 20  Silver, 12  Bronze, 46 in Total*china
-Atlanta 1996 Olympics: This countries medal tally was: 7  Gold, 9  Silver, 21  Bronze, 37 in Total*australia
-Atlanta 1996 Olympics: This countries medal tally was: 13  Gold, 10  Silver, 12  Bronze, 35 in Total*italy
-Atlanta 1996 Olympics: This countries medal tally was: 14  Gold, 6  Silver, 14  Bronze, 34 in Total*france
-Atlanta 1996 Olympics: This countries medal tally was: 7  Gold, 15  Silver, 5  Bronze, 27 in Total*south korea
-Atlanta 1996 Olympics: This countries medal tally was: 9  Gold, 8  Silver, 8  Bronze, 25 in Total*cuba
-Atlanta 1996 Olympics: This countries medal tally was: 9  Gold, 2  Silver, 13  Bronze, 24 in Total*ukraine
-Atlanta 1996 Olympics: This countries medal tally was: 3  Gold, 11  Silver, 7  Bronze, 21 in Total*canada
-Atlanta 1996 Olympics: This countries medal tally was: 7  Gold, 3  Silver, 10  Bronze, 20 in Total*hungary
-Atlanta 1996 Olympics: This countries medal tally was: 4  Gold, 6  Silver, 9  Bronze, 19 in Total*romania
-Atlanta 1996 Olympics: This countries medal tally was: 4  Gold, 3  Silver, 10  Bronze, 17 in Total*the netherlands
-Atlanta 1996 Olympics: This countries medal tally was: 3  Gold, 3  Silver, 9  Bronze, 15 in Total*brazil
-Atlanta 1996 Olympics: This countries medal tally was: 1  Gold, 6  Silver, 8  Bronze, 15 in Total*belarus
-Atlanta 1996 Olympics: This countries medal tally was: 6  Gold, 5  Silver, 3  Bronze, 14 in Total*poland
-Atlanta 1996 Olympics: This countries medal tally was: 4  Gold, 4  Silver, 6  Bronze, 14 in Total*spain
-Atlanta 1996 Olympics: This countries medal tally was: 3  Gold, 6  Silver, 5  Bronze, 14 in Total*bulgaria
-Atlanta 1996 Olympics: This countries medal tally was: 3  Gold, 6  Silver, 5  Bronze, 14 in Total*japan
-Atlanta 1996 Olympics: This countries medal tally was: 1  Gold, 8  Silver, 5  Bronze, 14 in Total*great britain
-Atlanta 1996 Olympics: This countries medal tally was: 3  Gold, 4  Silver, 4  Bronze, 11 in Total*kazakhstan
-Atlanta 1996 Olympics: This countries medal tally was: 4  Gold, 3  Silver, 2  Bronze, 9 in Total*czech republic
-Atlanta 1996 Olympics: This countries medal tally was: 4  Gold, 4  Silver, 0  Bronze, 8 in Total*greece
-Atlanta 1996 Olympics: This countries medal tally was: 2  Gold, 4  Silver, 2  Bronze, 8 in Total*sweden
-Atlanta 1996 Olympics: This countries medal tally was: 1  Gold, 4  Silver, 3  Bronze, 8 in Total*kenya
-Atlanta 1996 Olympics: This countries medal tally was: 4  Gold, 1  Silver, 1  Bronze, 6 in Total*denmark
-Atlanta 1996 Olympics: This countries medal tally was: 4  Gold, 1  Silver, 1  Bronze, 6 in Total*turkey
-Atlanta 1996 Olympics: This countries medal tally was: 3  Gold, 3  Silver, 0  Bronze, 6 in Total*switzerland
-Atlanta 1996 Olympics: This countries medal tally was: 3  Gold, 2  Silver, 1  Bronze, 6 in Total*new zealand
-Atlanta 1996 Olympics: This countries medal tally was: 2  Gold, 2  Silver, 2  Bronze, 6 in Total*belgium
-Atlanta 1996 Olympics: This countries medal tally was: 2  Gold, 2  Silver, 2  Bronze, 6 in Total*norway
-Atlanta 1996 Olympics: This countries medal tally was: 2  Gold, 1  Silver, 3  Bronze, 6 in Total*nigeria
-Atlanta 1996 Olympics: This countries medal tally was: 1  Gold, 3  Silver, 2  Bronze, 6 in Total*jamaica
-Atlanta 1996 Olympics: This countries medal tally was: 3  Gold, 1  Silver, 1  Bronze, 5 in Total*south africa
-Atlanta 1996 Olympics: This countries medal tally was: 2  Gold, 1  Silver, 2  Bronze, 5 in Total*north korea
-Atlanta 1996 Olympics: This countries medal tally was: 3  Gold, 0  Silver, 1  Bronze, 4 in Total*ireland
-Atlanta 1996 Olympics: This countries medal tally was: 1  Gold, 2  Silver, 1  Bronze, 4 in Total*finland
-Atlanta 1996 Olympics: This countries medal tally was: 2  Gold, 0  Silver, 1  Bronze, 3 in Total*algeria
-Atlanta 1996 Olympics: This countries medal tally was: 2  Gold, 0  Silver, 1  Bronze, 3 in Total*ethiopia
-Atlanta 1996 Olympics: This countries medal tally was: 1  Gold, 1  Silver, 1  Bronze, 3 in Total*indonesia
-Atlanta 1996 Olympics: This countries medal tally was: 1  Gold, 1  Silver, 1  Bronze, 3 in Total*iran
-Atlanta 1996 Olympics: This countries medal tally was: 1  Gold, 1  Silver, 1  Bronze, 3 in Total*slovakia
-Atlanta 1996 Olympics: This countries medal tally was: 0  Gold, 2  Silver, 1  Bronze, 3 in Total*argentina
-Atlanta 1996 Olympics: This countries medal tally was: 0  Gold, 1  Silver, 2  Bronze, 3 in Total*austria
-Atlanta 1996 Olympics: This countries medal tally was: 1  Gold, 1  Silver, 0  Bronze, 2 in Total*armenia
-Atlanta 1996 Olympics: This countries medal tally was: 1  Gold, 1  Silver, 0  Bronze, 2 in Total*croatia
-Atlanta 1996 Olympics: This countries medal tally was: 1  Gold, 0  Silver, 1  Bronze, 2 in Total*portugal
-Atlanta 1996 Olympics: This countries medal tally was: 1  Gold, 0  Silver, 1  Bronze, 2 in Total*thailand
-Atlanta 1996 Olympics: This countries medal tally was: 0  Gold, 2  Silver, 0  Bronze, 2 in Total*namibia
-Atlanta 1996 Olympics: This countries medal tally was: 0  Gold, 2  Silver, 0  Bronze, 2 in Total*slovenia
-Atlanta 1996 Olympics: This countries medal tally was: 0  Gold, 1  Silver, 1  Bronze, 2 in Total*malaysia
-Atlanta 1996 Olympics: This countries medal tally was: 0  Gold, 1  Silver, 1  Bronze, 2 in Total*moldova
-Atlanta 1996 Olympics: This countries medal tally was: 0  Gold, 1  Silver, 1  Bronze, 2 in Total*uzbekistan
-Atlanta 1996 Olympics: This countries medal tally was: 0  Gold, 1  Silver, 1  Bronze, 2 in Total*yugoslavia
-Atlanta 1996 Olympics: This countries medal tally was: 0  Gold, 0  Silver, 2  Bronze, 2 in Total*georgia
-Atlanta 1996 Olympics: This countries medal tally was: 0  Gold, 0  Silver, 2  Bronze, 2 in Total*morocco
-Atlanta 1996 Olympics: This countries medal tally was: 0  Gold, 0  Silver, 2  Bronze, 2 in Total*trinidad and tobago
-Atlanta 1996 Olympics: This countries medal tally was: 1  Gold, 0  Silver, 0  Bronze, 1 in Total*burundi
-Atlanta 1996 Olympics: This countries medal tally was: 1  Gold, 0  Silver, 0  Bronze, 1 in Total*costa rica
-Atlanta 1996 Olympics: This countries medal tally was: 1  Gold, 0  Silver, 0  Bronze, 1 in Total*ecuador
-Atlanta 1996 Olympics: This countries medal tally was: 1  Gold, 0  Silver, 0  Bronze, 1 in Total*hong kong, china
-Atlanta 1996 Olympics: This countries medal tally was: 1  Gold, 0  Silver, 0  Bronze, 1 in Total*syria
-Atlanta 1996 Olympics: This countries medal tally was: 0  Gold, 1  Silver, 0  Bronze, 1 in Total*azerbaijan
-Atlanta 1996 Olympics: This countries medal tally was: 0  Gold, 1  Silver, 0  Bronze, 1 in Total*bahamas
-Atlanta 1996 Olympics: This countries medal tally was: 0  Gold, 1  Silver, 0  Bronze, 1 in Total*latvia
-Atlanta 1996 Olympics: This countries medal tally was: 0  Gold, 1  Silver, 0  Bronze, 1 in Total*philippines
-Atlanta 1996 Olympics: This countries medal tally was: 0  Gold, 1  Silver, 0  Bronze, 1 in Total*tonga
-Atlanta 1996 Olympics: This countries medal tally was: 0  Gold, 1  Silver, 0  Bronze, 1 in Total*chinese taipei
-Atlanta 1996 Olympics: This countries medal tally was: 0  Gold, 1  Silver, 0  Bronze, 1 in Total*zambia
-Atlanta 1996 Olympics: This countries medal tally was: 0  Gold, 0  Silver, 1  Bronze, 1 in Total*india
-Atlanta 1996 Olympics: This countries medal tally was: 0  Gold, 0  Silver, 1  Bronze, 1 in Total*israel
-Atlanta 1996 Olympics: This countries medal tally was: 0  Gold, 0  Silver, 1  Bronze, 1 in Total*lithuania
-Atlanta 1996 Olympics: This countries medal tally was: 0  Gold, 0  Silver, 1  Bronze, 1 in Total*mexico
-Atlanta 1996 Olympics: This countries medal tally was: 0  Gold, 0  Silver, 1  Bronze, 1 in Total*mongolia
-Atlanta 1996 Olympics: This countries medal tally was: 0  Gold, 0  Silver, 1  Bronze, 1 in Total*mozambique
-Atlanta 1996 Olympics: This countries medal tally was: 0  Gold, 0  Silver, 1  Bronze, 1 in Total*puerto rico
-Atlanta 1996 Olympics: This countries medal tally was: 0  Gold, 0  Silver, 1  Bronze, 1 in Total*tunisia
-Atlanta 1996 Olympics: This countries medal tally was: 0  Gold, 0  Silver, 1  Bronze, 1 in Total*uganda
-Barcelona 1992 Olympics: This countries medal tally was: 44  Gold, 37  Silver, 29  Bronze, 110 in Total*unified team 1992
+Atlanta 1996 Olympics: This countries medal tally was: 42 Gold, 31 Silver, 25 Bronze, 98 in Total*united states of america
+Atlanta 1996 Olympics: This countries medal tally was: 19 Gold, 17 Silver, 27 Bronze, 63 in Total*germany
+Atlanta 1996 Olympics: This countries medal tally was: 25 Gold, 20 Silver, 14 Bronze, 59 in Total*russia
+Atlanta 1996 Olympics: This countries medal tally was: 14 Gold, 20 Silver, 12 Bronze, 46 in Total*china
+Atlanta 1996 Olympics: This countries medal tally was: 7 Gold, 9 Silver, 21 Bronze, 37 in Total*australia
+Atlanta 1996 Olympics: This countries medal tally was: 13 Gold, 10 Silver, 12 Bronze, 35 in Total*italy
+Atlanta 1996 Olympics: This countries medal tally was: 14 Gold, 6 Silver, 14 Bronze, 34 in Total*france
+Atlanta 1996 Olympics: This countries medal tally was: 7 Gold, 15 Silver, 5 Bronze, 27 in Total*south korea
+Atlanta 1996 Olympics: This countries medal tally was: 9 Gold, 8 Silver, 8 Bronze, 25 in Total*cuba
+Atlanta 1996 Olympics: This countries medal tally was: 9 Gold, 2 Silver, 13 Bronze, 24 in Total*ukraine
+Atlanta 1996 Olympics: This countries medal tally was: 3 Gold, 11 Silver, 7 Bronze, 21 in Total*canada
+Atlanta 1996 Olympics: This countries medal tally was: 7 Gold, 3 Silver, 10 Bronze, 20 in Total*hungary
+Atlanta 1996 Olympics: This countries medal tally was: 4 Gold, 6 Silver, 9 Bronze, 19 in Total*romania
+Atlanta 1996 Olympics: This countries medal tally was: 4 Gold, 3 Silver, 10 Bronze, 17 in Total*the netherlands
+Atlanta 1996 Olympics: This countries medal tally was: 3 Gold, 3 Silver, 9 Bronze, 15 in Total*brazil
+Atlanta 1996 Olympics: This countries medal tally was: 1 Gold, 6 Silver, 8 Bronze, 15 in Total*belarus
+Atlanta 1996 Olympics: This countries medal tally was: 6 Gold, 5 Silver, 3 Bronze, 14 in Total*poland
+Atlanta 1996 Olympics: This countries medal tally was: 4 Gold, 4 Silver, 6 Bronze, 14 in Total*spain
+Atlanta 1996 Olympics: This countries medal tally was: 3 Gold, 6 Silver, 5 Bronze, 14 in Total*bulgaria
+Atlanta 1996 Olympics: This countries medal tally was: 3 Gold, 6 Silver, 5 Bronze, 14 in Total*japan
+Atlanta 1996 Olympics: This countries medal tally was: 1 Gold, 8 Silver, 5 Bronze, 14 in Total*great britain
+Atlanta 1996 Olympics: This countries medal tally was: 3 Gold, 4 Silver, 4 Bronze, 11 in Total*kazakhstan
+Atlanta 1996 Olympics: This countries medal tally was: 4 Gold, 3 Silver, 2 Bronze, 9 in Total*czech republic
+Atlanta 1996 Olympics: This countries medal tally was: 4 Gold, 4 Silver, 0 Bronze, 8 in Total*greece
+Atlanta 1996 Olympics: This countries medal tally was: 2 Gold, 4 Silver, 2 Bronze, 8 in Total*sweden
+Atlanta 1996 Olympics: This countries medal tally was: 1 Gold, 4 Silver, 3 Bronze, 8 in Total*kenya
+Atlanta 1996 Olympics: This countries medal tally was: 4 Gold, 1 Silver, 1 Bronze, 6 in Total*denmark
+Atlanta 1996 Olympics: This countries medal tally was: 4 Gold, 1 Silver, 1 Bronze, 6 in Total*turkey
+Atlanta 1996 Olympics: This countries medal tally was: 3 Gold, 3 Silver, 0 Bronze, 6 in Total*switzerland
+Atlanta 1996 Olympics: This countries medal tally was: 3 Gold, 2 Silver, 1 Bronze, 6 in Total*new zealand
+Atlanta 1996 Olympics: This countries medal tally was: 2 Gold, 2 Silver, 2 Bronze, 6 in Total*belgium
+Atlanta 1996 Olympics: This countries medal tally was: 2 Gold, 2 Silver, 2 Bronze, 6 in Total*norway
+Atlanta 1996 Olympics: This countries medal tally was: 2 Gold, 1 Silver, 3 Bronze, 6 in Total*nigeria
+Atlanta 1996 Olympics: This countries medal tally was: 1 Gold, 3 Silver, 2 Bronze, 6 in Total*jamaica
+Atlanta 1996 Olympics: This countries medal tally was: 3 Gold, 1 Silver, 1 Bronze, 5 in Total*south africa
+Atlanta 1996 Olympics: This countries medal tally was: 2 Gold, 1 Silver, 2 Bronze, 5 in Total*north korea
+Atlanta 1996 Olympics: This countries medal tally was: 3 Gold, 0 Silver, 1 Bronze, 4 in Total*ireland
+Atlanta 1996 Olympics: This countries medal tally was: 1 Gold, 2 Silver, 1 Bronze, 4 in Total*finland
+Atlanta 1996 Olympics: This countries medal tally was: 2 Gold, 0 Silver, 1 Bronze, 3 in Total*algeria
+Atlanta 1996 Olympics: This countries medal tally was: 2 Gold, 0 Silver, 1 Bronze, 3 in Total*ethiopia
+Atlanta 1996 Olympics: This countries medal tally was: 1 Gold, 1 Silver, 1 Bronze, 3 in Total*indonesia
+Atlanta 1996 Olympics: This countries medal tally was: 1 Gold, 1 Silver, 1 Bronze, 3 in Total*iran
+Atlanta 1996 Olympics: This countries medal tally was: 1 Gold, 1 Silver, 1 Bronze, 3 in Total*slovakia
+Atlanta 1996 Olympics: This countries medal tally was: 0 Gold, 2 Silver, 1 Bronze, 3 in Total*argentina
+Atlanta 1996 Olympics: This countries medal tally was: 0 Gold, 1 Silver, 2 Bronze, 3 in Total*austria
+Atlanta 1996 Olympics: This countries medal tally was: 1 Gold, 1 Silver, 0 Bronze, 2 in Total*armenia
+Atlanta 1996 Olympics: This countries medal tally was: 1 Gold, 1 Silver, 0 Bronze, 2 in Total*croatia
+Atlanta 1996 Olympics: This countries medal tally was: 1 Gold, 0 Silver, 1 Bronze, 2 in Total*portugal
+Atlanta 1996 Olympics: This countries medal tally was: 1 Gold, 0 Silver, 1 Bronze, 2 in Total*thailand
+Atlanta 1996 Olympics: This countries medal tally was: 0 Gold, 2 Silver, 0 Bronze, 2 in Total*namibia
+Atlanta 1996 Olympics: This countries medal tally was: 0 Gold, 2 Silver, 0 Bronze, 2 in Total*slovenia
+Atlanta 1996 Olympics: This countries medal tally was: 0 Gold, 1 Silver, 1 Bronze, 2 in Total*malaysia
+Atlanta 1996 Olympics: This countries medal tally was: 0 Gold, 1 Silver, 1 Bronze, 2 in Total*moldova
+Atlanta 1996 Olympics: This countries medal tally was: 0 Gold, 1 Silver, 1 Bronze, 2 in Total*uzbekistan
+Atlanta 1996 Olympics: This countries medal tally was: 0 Gold, 1 Silver, 1 Bronze, 2 in Total*yugoslavia
+Atlanta 1996 Olympics: This countries medal tally was: 0 Gold, 0 Silver, 2 Bronze, 2 in Total*georgia
+Atlanta 1996 Olympics: This countries medal tally was: 0 Gold, 0 Silver, 2 Bronze, 2 in Total*morocco
+Atlanta 1996 Olympics: This countries medal tally was: 0 Gold, 0 Silver, 2 Bronze, 2 in Total*trinidad and tobago
+Atlanta 1996 Olympics: This countries medal tally was: 1 Gold, 0 Silver, 0 Bronze, 1 in Total*burundi
+Atlanta 1996 Olympics: This countries medal tally was: 1 Gold, 0 Silver, 0 Bronze, 1 in Total*costa rica
+Atlanta 1996 Olympics: This countries medal tally was: 1 Gold, 0 Silver, 0 Bronze, 1 in Total*ecuador
+Atlanta 1996 Olympics: This countries medal tally was: 1 Gold, 0 Silver, 0 Bronze, 1 in Total*hong kong, china
+Atlanta 1996 Olympics: This countries medal tally was: 1 Gold, 0 Silver, 0 Bronze, 1 in Total*syria
+Atlanta 1996 Olympics: This countries medal tally was: 0 Gold, 1 Silver, 0 Bronze, 1 in Total*azerbaijan
+Atlanta 1996 Olympics: This countries medal tally was: 0 Gold, 1 Silver, 0 Bronze, 1 in Total*bahamas
+Atlanta 1996 Olympics: This countries medal tally was: 0 Gold, 1 Silver, 0 Bronze, 1 in Total*latvia
+Atlanta 1996 Olympics: This countries medal tally was: 0 Gold, 1 Silver, 0 Bronze, 1 in Total*philippines
+Atlanta 1996 Olympics: This countries medal tally was: 0 Gold, 1 Silver, 0 Bronze, 1 in Total*tonga
+Atlanta 1996 Olympics: This countries medal tally was: 0 Gold, 1 Silver, 0 Bronze, 1 in Total*chinese taipei
+Atlanta 1996 Olympics: This countries medal tally was: 0 Gold, 1 Silver, 0 Bronze, 1 in Total*zambia
+Atlanta 1996 Olympics: This countries medal tally was: 0 Gold, 0 Silver, 1 Bronze, 1 in Total*india
+Atlanta 1996 Olympics: This countries medal tally was: 0 Gold, 0 Silver, 1 Bronze, 1 in Total*israel
+Atlanta 1996 Olympics: This countries medal tally was: 0 Gold, 0 Silver, 1 Bronze, 1 in Total*lithuania
+Atlanta 1996 Olympics: This countries medal tally was: 0 Gold, 0 Silver, 1 Bronze, 1 in Total*mexico
+Atlanta 1996 Olympics: This countries medal tally was: 0 Gold, 0 Silver, 1 Bronze, 1 in Total*mongolia
+Atlanta 1996 Olympics: This countries medal tally was: 0 Gold, 0 Silver, 1 Bronze, 1 in Total*mozambique
+Atlanta 1996 Olympics: This countries medal tally was: 0 Gold, 0 Silver, 1 Bronze, 1 in Total*puerto rico
+Atlanta 1996 Olympics: This countries medal tally was: 0 Gold, 0 Silver, 1 Bronze, 1 in Total*tunisia
+Atlanta 1996 Olympics: This countries medal tally was: 0 Gold, 0 Silver, 1 Bronze, 1 in Total*uganda
+Barcelona 1992 Olympics: This countries medal tally was: 44 Gold, 37 Silver, 29 Bronze, 110 in Total*unified team 1992
 Which instrument did the Jazz musician Dizzy Gillespie play*trumpet
 Which English bowler achieved his test career best when he took 7 wickets for 46 runs against South Africa in December 1999*andrew caddick
 Ailurophobia is the fear of what*cats
@@ -989,7 +989,7 @@ Music : Category: Covers: Whitney Houston's megahit "I will always love you" was
 Music : Category: Dancers Choreographers: American actor and dancer starred in Over the Top and The Bandwagon.*fred astaire
 Music : Category: Dancers Choreographers: American prima ballerina with the Ballet Russe de Monte Carlo & NYC ballet.*maria tallchief
 Music : Category: Dancers Choreographers: British choreographer of Sadler's Wells (now Royal) Ballet.*sir frederick ashton
-Music : Category: Dancers Choreographers: Cuban dancer & choreogrpaher soloed withe American Ballet Theater and  Broadway*alicia alonso
+Music : Category: Dancers Choreographers: Cuban dancer & choreogrpaher soloed withe American Ballet Theater and Broadway*alicia alonso
 Music : Category: Dancers Choreographers: Founder of the Dance Theater of Harlem, first black classical dance company.*arthur mitchell
 Music : Category: Dancers Choreographers: French creator of modern classical ballet, he created Sleeping Beauty.*marius petipa
 Music : Category: Dancers Choreographers: Greatest ballerina of her generation, she is noted for her role in Dying Swan*anna pavlova

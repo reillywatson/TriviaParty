@@ -375,7 +375,7 @@ MUSIC: Which band did Jet Black belong to*The Stranglers
 MUSIC: "Knock on Wood" - name the artist*Ami Stewart
 MUSIC: What Bee Gee song did Steps do a cover version of*Tragedy
 MUSIC: Who got to number 2 in Jan 1967 with "Matthew and Son"*Cat Stevens
-MUSIC: "Young Hearts Run Free"  was a hit in 1976 for whom*Candi Staton
+MUSIC: "Young Hearts Run Free" was a hit in 1976 for whom*Candi Staton
 MUSIC: Which Beatle got to number 2 with "Backoff Boogaloo"*Ringo Starr
 MUSIC: "I Got You" was a hit for which New Zealand group*Split Enz
 MUSIC: "Two Pints of Lager and a Packet of Crisps" - name the group*Splodgenessabounds
@@ -384,7 +384,7 @@ MUSIC: With what song did Spandau Ballet first enter the charts in Nov 1980*To C
 MUSIC: Who sang "I Put a Spell on You" in june 1998*Sonique
 MUSIC: Name the two bands that Jimmy Sommerville sang with*Bronski Beat & The Communards
 MUSIC: Which Scottish singer was part of the 70's band Slik*Midge Ure
-SPORT: Which French footballer was elected European footballer of the year on three successive years   1983-85*Michel Platini
+SPORT: Which French footballer was elected European footballer of the year on three successive years 1983-85*Michel Platini
 SPORT: French motor racing driver who won the world championship 1985,86 and 89*Alain Prost
 SPORT: English National Hunt Jockey, champion jockey 1982 and 1986-1992*Peter Scudamore
 SPORT: Yugoslavian tennis player stabbed by a spectator in 1993 during the Hamburg Open*Monica Seles
@@ -416,13 +416,13 @@ SPORT: Location of the summer Olympic Games in 1988*Seoul,South Korea
 SPORT: Location of the summer Olympic Games in 1992*Barcelona,Spain
 SPORT: Location of the summer Olympic Games in 1996*Atlanta,USA
 SPORT: Location of the summer Olympic Games in 2000*Sydney,Australia
-SCIENCE: French physicist and mathematician,developed  the rule for determining the direction of the magnetic field associated with an electric current*Andre Marie Ampere
+SCIENCE: French physicist and mathematician,developed the rule for determining the direction of the magnetic field associated with an electric current*Andre Marie Ampere
 HISTORY: Ugandan politician,president 1971-79*Idi Amin
 SPORT: 2002, who is the current chief executive of the Football Association*Adam Crozier
 SPORT: Which country did England defeat in a penalty shoot out at Euro 96*Spain
 SPORT: In 1998,which athlete broke the world record for the mens 10,000 metres twice in 13 days*Haile Gebrselaisse
 SPORT: Which BA are cricket fans following England*Barmy Army
-SPORT: Which tournament played at Sawgrass,often called "the fifth  major" provides the biggest prize in American golf*Players Championship
+SPORT: Which tournament played at Sawgrass,often called "the fifth major" provides the biggest prize in American golf*Players Championship
 SPORT: At which football ground would you find the Rous and Rookery stands*Watford
 SPORT: Which former Gloucestershire and England fast bowler was nicknamed Syd*David lawrence
 SPORT: Which former Conservative Party deputy Chairman became president of the World Professional Billiards and Snooker Association in 1997*Lord Archer
@@ -431,11 +431,11 @@ SPORT: What is the name of Manchester Uniteds training ground*Carrington
 SPORT: In 1997 Graham Souness managed which Italian club for three months*Torino
 SPORT: Who was the first batsman to score a century in a cricket World Cup Final,doing so in 1975*Clive Lloyd
 SPORT: Name the first English club to play 4000 league(Football League and Nationwide League) matches*Notts County
-SPORT: Who   in 1998, jusst 22 seconds after coming on as substitute, scored Chelseas winning goal in the European Cup Winners Cup Final in Stockholm*Gianfranco Zola
-SPORT: Which team won  seven Formula One constructors championships between 1984 - 1991*McLaren
-Who was 1964,s  First African-American Best Actor Oscar*Sydney Poitier 
+SPORT: Who in 1998, jusst 22 seconds after coming on as substitute, scored Chelseas winning goal in the European Cup Winners Cup Final in Stockholm*Gianfranco Zola
+SPORT: Which team won seven Formula One constructors championships between 1984 - 1991*McLaren
+Who was 1964,s First African-American Best Actor Oscar*Sydney Poitier 
 When was Butch Cassidy Born*1866
-Who was 1964,s  First African-American Best Actor Oscar*Sydney Poitier 
+Who was 1964,s First African-American Best Actor Oscar*Sydney Poitier 
 When was Butch Cassidy Born*1866
 The Death of a Traveling Salesman, was published in 1936. Who was the author*Eudora Welty 
 Adobe announces Acrobat to ship in June what year*1993
@@ -443,8 +443,8 @@ Adobe announces Acrobat to ship in June what year*1993
 What were the words that changed the world from Martin Luther King Jr*I have a dream
 In 1793, George Washington laid the cornerstone for the most important government building in the United States*White House
 The ___________burned the White House during the War of 1812*British 
-When was the  the Lewis and Clark Expedition*1804
-American History: Where might you find  the Independence Rock*Casper, Wyoming
+When was the the Lewis and Clark Expedition*1804
+American History: Where might you find the Independence Rock*Casper, Wyoming
 Designed about 1860 by George Meacham, this was the first public botanic garden in the United States*Boston Public Garden
 What female fought hard to end slavery in the years before the Civil War*Susan B Anthony 
 Built in 1866__________is one of only two American-owned square-rigged sailing ships still afloat on the Pacific Ocean*Balclutha
@@ -458,7 +458,7 @@ General Knowledge: Pyrotechnics pertains to what*The Art of Fire
 American Geography: What is the capital of New Mexico*Albuquerque 
 American Histroy :Drafted by Thomas Jefferson between June 11 and June 28, 1776*Declaration of Independence
 Authors: What was Eric Segal's novel*Love Story
-Misc Trivia : Quoted from  President Bill Clinton*I did not have sex with that woman
+Misc Trivia : Quoted from President Bill Clinton*I did not have sex with that woman
 History Who is the first woman to cross the Atlantic Ocean by air and cross the Atlantic alone*Amelia Earhart 
 Science: What science is concerned with matter and energy*Physics
 Misc trivia: This dinosaur's name means "fused lizard". The armor covering its body consisted of bony pieces that had fused or grown together. It was one of the largest of the armored dinosaurs*Ankylosaurus
@@ -504,7 +504,7 @@ SPORT: Which golf commentator won the Whyte and Mackay PGA championships in 1957
 LITERATURE: Who is the heroine of Shakespeares As you like it*Rosalind
 MUSIC: Which jazz clarinetist recorded Mozarts Clarinet concerto with the Boston Symphony Orchestra*Benny Goodman
 SCIENCE: What is the name for loss of hair*alopecia
-BIBLE: Who allegedly ordered  the slaughter of all the children in Bethlehem*King Herod
+BIBLE: Who allegedly ordered the slaughter of all the children in Bethlehem*King Herod
 GEOGRAPHY: Which country has the slowest population growth rate*West Germany
 BIBLE: Who were Isaacs two sons*Jacob and Esau
 SPORT: Name given in golf to a putt short enough to be conceded*a gimmie
@@ -533,7 +533,7 @@ LITERATURE:Who could not "write a serious romance under any other motive than to
 SPORT: Who was the first West Indian Cricketer to be knighted*Sir Learie Constantine
 TV: What type of car did Emma Peel drive in The Avengers*Lotus Elan
 GENERAL KNOWLEDGE: In Britain how many llbs are there in a hundredweight*112
-HISTORY: Where was the "Battle above the clouds" fought in  1863*Lookout mountain
+HISTORY: Where was the "Battle above the clouds" fought in 1863*Lookout mountain
 HISTORY: on which lake was Donald Campbell killed*Coniston Water
 HISTORY : Who was killed in Bluebird on Coniston water*Donald Campbell
 HISTORY: Name of Donald Campbells boat in which he was killed*Bluebird
@@ -578,7 +578,7 @@ SPORT:What is the maximum score in archery under the present scoring system for 
 SPORT:In which year was the Football Association fromed*1863
 SPORT:In which year was FIFA formed*1904
 SPORT:In which year was the football world cup first held*1930
-SPORT:What was the predessor to the FIFA World Cup  trophy called*Jules Rimet Trophy
+SPORT:What was the predessor to the FIFA World Cup trophy called*Jules Rimet Trophy
 SPORT:Name of the UEFA Cup trophy*Henry Delauney Trophy
 SPORT:Instituted in 1955, what is the original name of the UEFA cup*Inter-cities Fair Cup
 SPORT:Renamed in 1960, what was the UEFA cup tournaments second name*European Fairs Cup
@@ -703,12 +703,12 @@ LITERATURE:Name the principal horse in George Orwells Animal Farm*Boxer
 SPORT:Which cricketer played in 78 test matches and also played football for Arsenal*Denis Compton
 GEOGRAPHY:What is Canadas national anthem called*O Canada
 LITERATURE:Who wrote The Day of the Jackal*Frederick Forsyth
-SPORT:which Italian  team were killed in a plane crash in 1949*Torino
+SPORT:which Italian team were killed in a plane crash in 1949*Torino
 FILM:Which was the first film to be made in cinemascope*the robe
 GENERAL KNOWLEDGE:Who was the architect of the Queens House at Greenwich*Inigo Jones
 MUSIC:Whose 10th hit was "I feel like Buddy Holly"*Alvin Stardust
 GENERAL KNOWLEDGE:What were the names of the three wise men*Melchior,Balthasar,Kaspar
-SPORT:Which is the Canon Football Leagues oldest  club, founded in 1862*Notts County
+SPORT:Which is the Canon Football Leagues oldest club, founded in 1862*Notts County
 ART:Who said"I do not seek , I find"*Picasso
 MUSIC:In which Puccini opera does the poet Rodolfo appear*La Boheme
 SCIENCE:The earth takes less than 24 hours of mean solar time to spin once on its axis, how much less*3 minutes 56 seconds
@@ -731,7 +731,7 @@ HISTORY:The fleas of which animal carried the Black Death*The black rat
 FOOD:What are gazpacho and vichyssoise*chilled soups
 HISTORY:How did Jane Seymour,wife of Henry viii die*septicaemia
 GENERAL KNOWLEDGE:Which is the only european country where the wife does not traditionally take the husbands name on marriage*spain
-MUSIC:Who wrote the Sonata give  the name Les Adieux*Beethoven
+MUSIC:Who wrote the Sonata give the name Les Adieux*Beethoven
 GENERAL KNOWLEDGE:The gear which enables the drive wheels of a car to turn a corner while on the same axle*differential gear
 GEOGRAPHY:Which city does Tempelhof airport serve*Berlin
 GENERAL KNOWLEDGE:Name of the greek goddess of retribution*Nemesis
@@ -763,12 +763,12 @@ GENERAL KNOWLEDGE:From which Asian kingdom do the Gurkhas originate*Nepal
 GENERAL KNOWLEDGE:Who grew the famous White garden at Sissinghurst*Vita Sackville West
 GENERAL KNOWLEDGE:St Vincent of Saragossa is the patron saint of what*vineyards
 ARTS:Which Van gogh painting sold for £44.38m in May 1990*Portrait of Dr Gachet
-SPORT:Which American man broke the world record for 100 metres  in his first race in Europe in 1994*Leroy Burrell
+SPORT:Which American man broke the world record for 100 metres in his first race in Europe in 1994*Leroy Burrell
 SPORT:Which is the only capital city to host the winter olympics*Oslo
 KAOS:Sport, British golfers to have won post war Open championships*Fred Daly*Max Faulkner*Henry Cotton*Tony Jacklin*Sandy Lyle*Nick Faldo*Paul Lawrie
 SPORT:Which div one football club used to be called Heaton Norris Rovers*Stockport
 SPORT:Which welsh boxer was called"The ghost with a hammer in his hand"*Jimmy Wilde
-SPORT:Why was Linford Christie disqualified from the Olympic  100 metres final in 1996*two false start
+SPORT:Why was Linford Christie disqualified from the Olympic 100 metres final in 1996*two false start
 GENERL KNOWLEDGE:Occuring every 20 years*vicennial
 GENERAL KNOWLEDGE:Nest of wasps*Vespiary
 GENERAL KNOWLEDGE:Killing ones wife*Uxoricide
@@ -780,13 +780,13 @@ PLANTS:Edible subterranean fungus*truffle
 GENERAL KNOWLEDGE:Venerated by rastafarians as a God*Emperor Haile Selassie
 GEOGRAPHY:Hot dusty wind in Argentina*Zonda
 GENERAL KNOWLEDGE:Roman Catholic ecclesiatics skull cap*zuchetto
-GENERAL KNOWLEDGE:Chess - obligation to  move even when it must be disadvantageous*zug zwang
+GENERAL KNOWLEDGE:Chess - obligation to move even when it must be disadvantageous*zug zwang
 MUSIC:simple flat many stringed instrument*zither
 ANIMALS:Humped ox of India, East asia and africa*Zebu
 WHICH YEAR:Hong Kong returned to China*1997
 WHICH YEAR:India gains independence*1947
 WHICH YEAR:Buckingham Palace*1633
-WHICH YEAR:Charge  of the Light Brigade*1854
+WHICH YEAR:Charge of the Light Brigade*1854
 HISTORY:Who led the Charge of the Light Brigade*Lord Cardigan
 WHICH YEAR:Concorde entered commercial service*1976
 WHICH YEAR:The dissolution of the monasteries*1536
@@ -802,7 +802,7 @@ WHICH YEAR:Battle of Bannockburn*1314
 WHICH YEAR:Harrods opens*1849
 WHICH YEAR:Battle of Blenheim*1704
 WHICH YEAR:Charles darwin publishes Origin of the Species*1859
-WHICH YEAR:Greenwich Mean time  adopted*1859
+WHICH YEAR:Greenwich Mean time adopted*1859
 WHICH YEAR:Boston Tea Party*1773
 WHICH YEAR:Emmeline Pankhurst launches the suffragette movement*1905
 WHICH YEAR:Great Fire of London*1666
@@ -829,9 +829,9 @@ SPORT:Which sport do the French call Jeu a treize*Rugby League
 SPORT:What CR lost in the 1879 FA Cup Final but won in the following year*Claoham Rovers
 SPORT:For which club was Marco van asten playing when he was European Footballer of the year 1988,1989 & 1992*A C Milan
 SPORT:Which former featherweight champion was nicknamed The Clones Cyclone*Barry McGuigan
-SPORT:Which former British male tennis  player is now a presenter on GMTV*Andrew Castle
+SPORT:Which former British male tennis player is now a presenter on GMTV*Andrew Castle
 SPORT:March 2002, which cricketer has been voted Trinidad & Tobagos sportsman of the year for the fourth time*Brian Lara
-KAOS:Which  five teams have defeated Arsenal in F A Cup Finals*Huddersfield Town*Sheffield United*Liverpool*Manchester United**Sheffield Wednesday
+KAOS:Which five teams have defeated Arsenal in F A Cup Finals*Huddersfield Town*Sheffield United*Liverpool*Manchester United**Sheffield Wednesday
 SPORT:Which club lost successive FA Cup Finals in 1998 & 1999*Newcastle United
 SPORT:Which club did Arsenal defeat in both the FA Cup and the Football League Cup in 1993*Sheffield Wednesday
 SPORT:Which city has staged the most European Cup football finals*London

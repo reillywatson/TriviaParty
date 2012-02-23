@@ -839,7 +839,7 @@ Name that film: 1960 Crime/Adventure, Frank Sinatra, Dean Martin, Sammy Davis Jr
 Name that film: 2002 Action/Sci-fi, Tobey Maguire, Willem Dafoe, Kirsten Dunst, James Franco, Cliff Robertson*Spider-Man
 Name that film: 2002 Comedy, Mike Myers, Beyonce Knowles, Michael Caine, Seth Green, Verne Troyer, Michael York*Austin Powers in Goldmember
 Name that film: 2002 Comedy/Romance, Adam Sandler, Winona Ryder, John Turturro, Steve Buscemi, Conchata Ferrell*Mr. Deeds
-Name that film: 2002  Action/Fantasy/Sci-Fi/Thriller/Crime/Drama/Mystery, Tom Cruise, Colin Farrell, Samantha Morton, Max von Sydow, Lois Smith*Minority Report
+Name that film: 2002 Action/Fantasy/Sci-Fi/Thriller/Crime/Drama/Mystery, Tom Cruise, Colin Farrell, Samantha Morton, Max von Sydow, Lois Smith*Minority Report
 Name that film: 1965 Music/Family, Julie Andrews, Christopher Plummer, Eleanor Parker, Heather Menzies, Angela Cartwright*The Sound of Music
 Name that film: 2002 Drama/Sci-fi/Fantasy, Mel Gibson, Joaquin Phoenix, Cherry Jones, Rory Culkin, M. Night Shyamalan*Signs
 Name that film: 1996 Comedy/Drama/Romance, Tom Cruise, Cuba Gooding Jr., Renee Zellweger, Kelly Preston, Jerry O'Connell*Jerry Maguire
@@ -855,7 +855,7 @@ Name that film: 1993 Comedy/Romance, Tom Hanks, Meg Ryan, Bill Pullman, Ross Mal
 Name that film: 1993 Drama/Romance, Robert Redford, Demi Moore, Woody Harrelson, Oliver Platt, Billy Bob Thornton*Indecent Proposal
 Name that film: 1993 Adventure/Action/Thriller, Sylvester Stallone, John Lithgow, Janine Turner, Michael Rooker*Cliffhanger
 Name that film: 1993 Action/War, Liam Neeson, Ben Kingsley, Ralph Fiennes, Caroline Goodall, Jonathan Sagall*Schindler's List
-Name that film: 1993  Horror/Sci-Fi/Adventure/Thriller/Action, Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough, Wayne Knight*Jurassic Park
+Name that film: 1993 Horror/Sci-Fi/Adventure/Thriller/Action, Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough, Wayne Knight*Jurassic Park
 Name that film: 1993 Comedy/Family/Drama, Robin Williams, Sally Field, Pierce Brosnan, Harvey Fierstein, Polly Holliday*Mrs. Doubtfire
 Name that film: 1992 Comedy/Crime, Whoopi Goldberg, Maggie Smith, Kathy Najimy, Harvey Keitel, Wendy Makkena*Sister Act
 Name that film: 1992 Mystery/Crime/Thriller, Michael Douglas, Sharon Stone, George Dzundza, Jeanne Tripplehorn, Wayne Knight*Basic Instinct
@@ -900,12 +900,12 @@ Name that film: 1980 Comedy, Robery Hays, Julie Hagerty, Lloyd Bridges, Leslie N
 Name that film: 1980 Comedy, Jane Fonda, Lily Tomlin, Dolly Parton, Dabney Coleman, Elizabeth Wilson*Nine to Five
 Name that film: 1978 Comedy/Musical/Romance, John Travolta, Olivia Newton-John, Stockard Channing, Jeff Conaway, Didi Conn*Grease
 Name that film: 1978 Comedy, John Belushi, Tim Matheson, John Vernon, Verna Bloom, Tom Hulce, Mary Louise Weller*Animal House
-Name that film: 1978  Action/Fantasy/Family/Adventure/Sci-Fi, Marlon Brando, Gene Hackman, Christopher Reeve, Ned Beatty , Jackie Cooper, Margot Kidder*Superman
+Name that film: 1978 Action/Fantasy/Family/Adventure/Sci-Fi, Marlon Brando, Gene Hackman, Christopher Reeve, Ned Beatty , Jackie Cooper, Margot Kidder*Superman
 Name that film: 1977 Drama/Musical/Comedy/Romance, John Travolta, Karen Lynn Gorney, Barry Miller, Joseph Cali, Paul Pape, Donna Pescow*Saturday Night Fever
 Name that film: 1977 Comedy/Action, Burt Reynolds, Sally Field, Jerry Reed, Mike Henry, Paul Williams, Pat McCormick*Smokey and the Bandit
 Name that film: 1977 Comedy/Romance, Woody Allen, Diane Keaton, Tony Roberts, Carol Kane, Paul Simon, Shelley Duvall*Annie Hall
 Name that film: 1976 Action/Drama, Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers, Burgess Meredith*Rocky
-Name that film: 1975  Comedy/Horror/Musical/Sci-Fi, Tim Curry, Susan Sarandon, Barry Bostwick, Richard O'Brien, Meat Loaf*The Rocky Horror Picture Show
+Name that film: 1975 Comedy/Horror/Musical/Sci-Fi, Tim Curry, Susan Sarandon, Barry Bostwick, Richard O'Brien, Meat Loaf*The Rocky Horror Picture Show
 Name that film: 1974 Comedy/Western, Cleavon Little, Gene Wilder, Slim Pickens, Alex Karras, Mel Brooks, Harvey Korman, Madeline Kahn*Blazing Saddles
 Name that film: 1974 Comedy/Horror, Gene Wilder, Peter Boyle, Marty Feldman, Madeline Kahn, Cloris Leachman, Teri Garr*Young Frankenstein
 Name that film: 1974 Action/Thriller/Drama, Steve McQueen, Paul Newman, William Holden, Faye Dunaway, O.J. Simpson, Robert Wagner*The Towering Inferno
@@ -916,7 +916,7 @@ Name that film: 1977 Action, Robert Shaw, Bruce Dern, Marthe Keller*Black Sunday
 Name that film: 1998 Romance/Comedy, Gwyneth Paltrow, Geoffrey Rush, Tom Wilkinson, Joseph Fiennes*Shakespeare in Love
 Name that film: 1999 Drama/Thriller, Matt Damon, Gwyneth Paltrow, Jude Law, Cate Blanchett*The Talented Mr. Ripley
 Name that film: 1997 Drama, Robin Williams, Matt Damon, Ben Affleck, Minnie Driver*Good Will Hunting
-Name that film: 1998 Action/Drama,  Tom Hanks, Edward Burns, Tom Sizemore, Matt Damon*Saving Private Ryan
+Name that film: 1998 Action/Drama, Tom Hanks, Edward Burns, Tom Sizemore, Matt Damon*Saving Private Ryan
 Name that film: 2000 Adventure/Drama, Tom Hanks, Helen Hunt, Nick Searcy, Chris Noth*Cast Away
 Name that film: 1997 Romance/Drama, Jack Nicholson, Helen Hunt, Greg Kinnear, Cuba Gooding Jr.*As Good As It Gets
 Name that film: 2000 Drama, Robert De Niro, Cuba Gooding Jr., Charlize Theron, Aunjanue Ellis*Men of Honor 

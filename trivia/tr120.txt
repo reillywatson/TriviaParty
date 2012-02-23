@@ -803,7 +803,7 @@ Name the artist/band: Respectable*mel & kim
 Name the artist/band: Love In The First Degree*bananarama
 Name the artist/band: Everything I Own*boy george
 Name the artist/band: Wonderful Life*black
-Name the artist/band: (Something  Inside) So Strong*labi siffre
+Name the artist/band: (Something Inside) So Strong*labi siffre
 Name the artist/band: China In Your Hand*t'pau
 Name the artist/band: Alone*heart
 Name the artist/band: Is This Love*whitesnake
@@ -825,21 +825,21 @@ Name the artist/band: Sun Is Shining*bob marley vs funkstar de luxe
 Name the artist/band: Not Over You Yet*diana ross
 Name the artist/band: When The Heartache Is Over*tina turner
 Name the artist/band: Canned Heat*jamiroquai
-Music Term: - Equivalent of four quarter notes (in 4  /  4 time, 4 beats)*whole note
+Music Term: - Equivalent of four quarter notes (in 4 / 4 time, 4 beats)*whole note
 Music Term: - (I) The interval consisting of two semitones (e.g. C to D)*whole tone
-Music Term:  (Ger.) - Cradle song*wiegenlied
-Music Term:  (Ger.) - Heavy, weighty*wuchtig
-Music Term:  (Ger.) - Tender*zart
-Music Term:  (Ger.) - tenderness*Zarthcit
-Music Term:  (Ger.) - tenderly*Zartlich
-Music Term:  (Sp.) - Spanish traditional stage entertainment with satirical spoken dialogue*zaruela
-Music Term:  (Ger.) - Tempo*zeitmass
-Music Term:  (Ger.) - Rather*ziemlich
-Music Term:  (Ger.) - Rather slow*ziemlich langsam
-Music Term:  (It.) - In the style of gypsy music*zingarese*alla
-Music Term:  (It., 'limp') - Term describes music with a prominent Scotch snap or syncopation*zoppa
-Music Term:  (Ger.) - Holding back, slowing down*zuruckhaltend
-Music Term:  (Ger.) - An interlude or episode (e.g. in a fugue or rondo)*zwischenspiel
+Music Term: (Ger.) - Cradle song*wiegenlied
+Music Term: (Ger.) - Heavy, weighty*wuchtig
+Music Term: (Ger.) - Tender*zart
+Music Term: (Ger.) - tenderness*Zarthcit
+Music Term: (Ger.) - tenderly*Zartlich
+Music Term: (Sp.) - Spanish traditional stage entertainment with satirical spoken dialogue*zaruela
+Music Term: (Ger.) - Tempo*zeitmass
+Music Term: (Ger.) - Rather*ziemlich
+Music Term: (Ger.) - Rather slow*ziemlich langsam
+Music Term: (It.) - In the style of gypsy music*zingarese*alla
+Music Term: (It., 'limp') - Term describes music with a prominent Scotch snap or syncopation*zoppa
+Music Term: (Ger.) - Holding back, slowing down*zuruckhaltend
+Music Term: (Ger.) - An interlude or episode (e.g. in a fugue or rondo)*zwischenspiel
 Name the artist/band: Where The Streets Have No Name*u2
 Name the artist/band: Heaven Is A Place On Earth*belinda carlisle
 Name the artist/band: La Bamba*los lobos
@@ -859,7 +859,7 @@ Name the artist/band: Respectable*mel & kim
 Name the artist/band: Love In The First Degree*bananarama
 Name the artist/band: Everything I Own*boy george
 Name the artist/band: Wonderful Life*black
-Name the artist/band: (Something  Inside) So Strong*labi siffre
+Name the artist/band: (Something Inside) So Strong*labi siffre
 Name the artist/band: China In Your Hand*t'pau
 Name the artist/band: Alone*heart
 Name the artist/band: Is This Love*whitesnake

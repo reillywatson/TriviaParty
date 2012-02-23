@@ -339,7 +339,7 @@ GENERAL KNOWLEDGE: Which small french car first designed in 1939 is affectionate
 SPORT: In cricket where is a yorker pitched to land*on or just inside the crease
 FOOD: Which fortified wine is particularly associated with the River Douro*port
 GENERAL KNOWLEDGE According to the nursery rhyme, how many miles is it to Babylon*three score and ten
-GENERAL KNOWLEDGE: In which group of islands in Britain were the Churchill Barriers constructed during wwii to ptrotect the  British fleet anchored there*the orkneys
+GENERAL KNOWLEDGE: In which group of islands in Britain were the Churchill Barriers constructed during wwii to ptrotect the British fleet anchored there*the orkneys
 GENERAL KNOWLEDGE: Which cartoonist created George and Gaye Gambol who appeared in the Daily Express from 1951 to 1994*barry appleby
 GENERAL KNOWLEDGE: Which pair of 19th century showmen ran The Greatest Show on Earth*phineas barnum and james bailey
 TV: Who was the narrator for the 1999 BBC1 series of Walking with Dinosaurs*kenneth branagh
@@ -496,7 +496,7 @@ TV: What was Coronation Stret originally going tobe called until it was realised
 SCIENCE: Which Scottish chemist and physicist invented the vacuum flask*james dewar
 GENERAL KNOWLEDGE: Before he carved the heads at Mount Rushmore, who had the sculptor been asked to carve into Stone Mountain in Georgia*robert lee*stonewall jackson*jefferson davis
 GENERAL KNOWLEDGE: Who carved the heads at Mount Rushmore*Gutzon Borglum
-GENERAL KNOWLEDGE: Name of the indigenous  people of Jamaica*arawaks
+GENERAL KNOWLEDGE: Name of the indigenous people of Jamaica*arawaks
 GENERAL KNOWLEDGE: Which Derbyshire born aeronautical engineer designed the R100 airship,the bouncing bomb and the first swing wing aircraft*Sir barnes neville wallis
 GENERAL KNOWLEDGE: hans Lippershay -1608, Galileo - 1610, Isaac Newton - 1668 and William Herschel 178 all designed different types of what*telescope
 GENERAL KNOWLEDGE: Who was the first engineer to introduce steam to an engine with a piston*thomas newcomen
@@ -528,14 +528,14 @@ SPORT: In 1983-4 who was the first British footballer to win the european Golden
 SPORT: Which was the first country to win the World Cup 3 times*brazil
 SPORT: In 1905 which inside forward and goal scorer was transferred from Middlesbrough to Sunderland for a fee of £1000 which provoked the FA to limit transfer fees to £350*alf common
 SPORT: Which footballer was the first for whom an english club paid a £1 million transfer fee*trevor francis
-SPORT: When Alf Ramsey became the manager of the english team in 1963 of which league  club did he manage*ipswich town
+SPORT: When Alf Ramsey became the manager of the english team in 1963 of which league club did he manage*ipswich town
 SPORT: What is the name of Huddersfield Town FC former stadium before the Mcalpine stadium opened in 1994*leeds road
-SPORT: 1956, which Manchester City goalie unknowingly completed the FA Cup Final against Birmingham City  with a broken neck*bert trautman
-SPORT: In 1981 which  football club manager was quoted in The Sunday Times saying Football is not a matter of life and death, its much more important than that*bill shankly
+SPORT: 1956, which Manchester City goalie unknowingly completed the FA Cup Final against Birmingham City with a broken neck*bert trautman
+SPORT: In 1981 which football club manager was quoted in The Sunday Times saying Football is not a matter of life and death, its much more important than that*bill shankly
 SPORT: What is the name of the theme tune to BBCs match of the Day*offside
 SPORT: What was added to football pitches in 1936-7*the arc in the penalty area
 SPORT: What was the name of the London Inn at which the Football Association was founded on 26 Oct 1863*the freemasons tavern
-SPORT: What is the location of the  Football Associaiton in London*16 lancaster gate
+SPORT: What is the location of the Football Associaiton in London*16 lancaster gate
 GENERAL KNOWLEDGE: The motto of which newspaper is All the news that is fit to print*the new york times
 GENERAL KNOWLEDGE: Which British aircraft designer created the hawker Hurricane in 1935*sir sydney camm
 PLANT: A variety of which plant is known as Stinking corpse Lily*rafflesia
@@ -574,7 +574,7 @@ TV: In the 1971 BBC tv programme The Wombles, what was the name of the cook*mada
 HISTORY: What king did Col Qaddafi depose in 1969*king idris
 GENERAL KNOWLEDGE: What is the crime of embracery*contempt of court
 GENERAL KNOWLEDGE: What is the french word used for a type of enamelling in which a pattern is marked on to a surface by thin metal strips and coloured with enamels*cloisonne
-SCIENCE: From which American Nobel prize winners Lectures on  Physics was the book Six easy pieces taken*richard feynmann
+SCIENCE: From which American Nobel prize winners Lectures on Physics was the book Six easy pieces taken*richard feynmann
 GEOGRAPHY: From which Irish province were the MacCarthys hereditary kings*munster
 FOOD: From what is mock turtle soup made*calfs head
 GENERAL KNOWLEDGE: Franklin D Roosevelt, what does the D stand for*delano
@@ -618,7 +618,7 @@ Is talcum powder animal, mineral or vegetable*mineral
 Who was Jane Torvill's ice-skating partner*christopher dean
 Which rock star is known as The Groover From Vancouver*bryan adams
 Which cross was the symbolof the Free French during World War 2*cross of lorraine
-Which sport has a lane 60ft long from the foul line to the centre of the head pin*Ten Pin bowling                                                                                        
+Which sport has a lane 60ft long from the foul line to the centre of the head pin*Ten Pin bowling 
 Which is the third highest mountain in the world*Kangchenjunga
 Which country's football team won the 1978 World cup*Argentina
 Who was the last Prime Minister of Northern Ireland before the stormont Parliament was suspended in 1972*Brian Faulkner
@@ -629,7 +629,7 @@ What nationality was the artist Goya*Spanish
 What is a kinkajou*An animal
 Which is the largest county in Ireland*Cork
 Which of these is not one of the Corrs-Andrea,Colleen,Sharon*Colleen
-Who played the 'Man With No Name` in the  film A Fistful of Dollars*Clint Eastwood
+Who played the 'Man With No Name` in the film A Fistful of Dollars*Clint Eastwood
 What are the only two poisonous lizards in the world*Gila Monster*The Beaded Lizard
 In which village does Postman Pat live*Greendale
 What was the name of the eagle that famously escaped from London Zoo in 1965*Goldie
@@ -681,7 +681,7 @@ In 1870 Napoleon III captured at----------*sedan
 In 1875 ---------- Rice Burroughs, novelist (Tarzan, John Carter Of Mars Saga), born*edgar
 In 1914 ---------- , Russia changes name to Petrograd*st petersburg
 In 1914 St Petersburg, Russia changes name to----------*petrograd
-In 1922  atVancouver BC, actress Lily Munster in the Munsters, born*yvonne de carlo
+In 1922 atVancouver BC, actress Lily Munster in the Munsters, born*yvonne de carlo
 In 1923 heavyweight champion boxer (1952-56), born**rocky marciano
 In 1928 ---------- becomes a kingdom, with Zogu I as king*albania
 In 1939 Physical Review publishes 1st paper to deal with----------*black holes
@@ -916,7 +916,7 @@ FILM: Which Spielberg movie featured the characters Sargeant Tree,Sitarski and W
 FILM: Which film director, much admired by Spielberg,played the roles of a scientist in Close Encounters of the Third Kind*francois truffant
 FILM: Which of The Color Purples co producers also wrote the music for the film*quincy jones
 FILM: Who played the part of Elliotts sister Gertie in ET, The Extra-terrestrial*drew barrymore
-FILM: During the shooting of Schidlers List which other film  was Spielberg editing from his hotel via satellite link*jurassic park
+FILM: During the shooting of Schidlers List which other film was Spielberg editing from his hotel via satellite link*jurassic park
 FILM: Which film brought Spielberg his second Oscar for direction*saving private ryan
 FILM: How was Spielberg creditted in in the 1994 movie The Flintstones*steven spielrock presents
 FILM: Which famous actress contributed some of the vocal effects for ETs voice*debra winger
@@ -932,7 +932,7 @@ FILM: Although Speilberg directed Raiders of the Lost Arc, he did not have the f
 FILM: To what was Spielberg referring when he said - this is the best drink of water after the longest drought of my life*his oscar for schindlers list
 THE BODY: Which hormone regulates blood sugar level*insulin
 THE BODY: where would you find carpal bones and tarsal bones respectively*hands and feet
-THE BODY: Caries is an extremely common disease, by which name is it better  known*tooth decay
+THE BODY: Caries is an extremely common disease, by which name is it better known*tooth decay
 THE BODY: In which organ are the hepatic arteries*the liver
 THE BODY: What is th econdition called when an internal organ protrudes through the wall of the cavity in which it is normally contained*hernia
 THE BODY: Where in the body is the cochlea*the inner ear

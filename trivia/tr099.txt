@@ -633,7 +633,7 @@ TV/ Movies: 1985 - Demi Moore - Starred In This Movie:*st. elmo's fire
 TV/ Movies: 1984 - Demi Moore - Starred In This Movie:*blame it on rio
 TV/ Movies: 1982 - Demi Moore - Starred In This Movie:*young doctors in love
 TV/ Movies: 1982 - Demi Moore - Starred In This Movie:*parasite
-TV/ Movies: 1981  - Demi Moore - Starred In This Movie:*choices
+TV/ Movies: 1981 - Demi Moore - Starred In This Movie:*choices
 TV/ Movies: 2000 - Bruce Willis - Starred In This Movie:*the whole nine yards
 TV/ Movies: 1999 - Bruce Willis - Starred In This Movie:*the story of us
 TV/ Movies: 1999 - Bruce Willis - Starred In This Movie:*breakfast of champions
@@ -667,7 +667,7 @@ TV/ Movies: 1988 - Bruce Willis - Starred In This Movie:*sunset
 TV/ Movies: 1987 - Bruce Willis - Starred In This Movie:*blind date
 TV/ Movies: 1985 - Bruce Willis - Starred In This Movie:*moonlighting
 TV/ Movies: 1982 - Bruce Willis - Starred In This Movie:*the verdict
-TV/ Movies: 1980  - Bruce Willis - Starred In This Movie:*the first deadly sin
+TV/ Movies: 1980 - Bruce Willis - Starred In This Movie:*the first deadly sin
 TV/ Movies: 1999 - Meryl Streep - Starred In This Movie:*music of the heart
 TV/ Movies: 1998 - Meryl Streep - Starred In This Movie:*dancing at lughnasa
 TV/ Movies: 1998 - Meryl Streep - Starred In This Movie:*one true thing
@@ -695,7 +695,7 @@ TV/ Movies: 1979 - Meryl Streep - Starred In This Movie:*kramer vs. kramer
 TV/ Movies: 1979 - Meryl Streep - Starred In This Movie:*manhattan
 TV/ Movies: 1978 - Meryl Streep - Starred In This Movie:*the deer hunter
 TV/ Movies: 1977 - Meryl Streep - Starred In This Movie:*the deadliest season
-TV/ Movies: 1977  - Meryl Streep - Starred In This Movie:*julia
+TV/ Movies: 1977 - Meryl Streep - Starred In This Movie:*julia
 TV/ Movies: 1998 - Dustin Hoffman - Starred In This Movie:*sphere
 TV/ Movies: 1997 - Dustin Hoffman - Starred In This Movie:*mad city
 TV/ Movies: 1997 - Dustin Hoffman - Starred In This Movie:*wag the dog
@@ -754,7 +754,7 @@ TV/ Movies: 1983 - Robin Williams - Starred In This Movie:*the survivors
 TV/ Movies: 1982 - Robin Williams - Starred In This Movie:*the world according to garp
 TV/ Movies: 1980 - Robin Williams - Starred In This Movie:*children of babylon
 TV/ Movies: 1980 - Robin Williams - Starred In This Movie:*popeye
-TV/ Movies: 1977  - Robin Williams - Starred In This Movie:*can i do it . . . 'till i need glasses
+TV/ Movies: 1977 - Robin Williams - Starred In This Movie:*can i do it . . . 'till i need glasses
 TV/ Movies: 1994 - Elizabeth Taylor - Starred In This Movie:*the flintstones
 TV/ Movies: 1989 - Elizabeth Taylor - Starred In This Movie:*sweet bird of youth
 TV/ Movies: 1988 - Elizabeth Taylor - Starred In This Movie:*young toscanini
@@ -834,7 +834,7 @@ TV/ Movies: 1983 - Sigourney Weaver - Starred In This Movie:*the year of living 
 TV/ Movies: 1981 - Sigourney Weaver - Starred In This Movie:*eyewitness
 TV/ Movies: 1979 - Sigourney Weaver - Starred In This Movie:*alien
 TV/ Movies: 1978 - Sigourney Weaver - Starred In This Movie:*madman
-TV/ Movies: 1977  - Sigourney Weaver - Starred In This Movie:*annie hall
+TV/ Movies: 1977 - Sigourney Weaver - Starred In This Movie:*annie hall
 TV/ Movies: 1997 - Winona Ryder - Starred In This Movie:*alien resurrection
 TV/ Movies: 1996 - Winona Ryder - Starred In This Movie:*boys
 TV/ Movies: 1996 - Winona Ryder - Starred In This Movie:*looking for richard
@@ -873,7 +873,7 @@ TV/ Movies: 1960 - Elvis Presley - Starred In This Movie:*g.i. blues
 TV/ Movies: 1958 - Elvis Presley - Starred In This Movie:*king creole
 TV/ Movies: 1957 - Elvis Presley - Starred In This Movie:*jailhouse rock
 TV/ Movies: 1957 - Elvis Presley - Starred In This Movie:*loving you
-TV/ Movies: 1956  - Elvis Presley - Starred In This Movie:*love me tender
+TV/ Movies: 1956 - Elvis Presley - Starred In This Movie:*love me tender
 TV/ Movies: 2000 - George Clooney - Starred In This Movie:*the perfect storm
 TV/ Movies: 1999 - George Clooney - Starred In This Movie:*three kings
 TV/ Movies: 1998 - George Clooney - Starred In This Movie:*the thin red line
@@ -887,7 +887,7 @@ TV/ Movies: 1990 - George Clooney - Starred In This Movie:*red surf
 TV/ Movies: 1990 - George Clooney - Starred In This Movie:*sunset beat
 TV/ Movies: 1988 - George Clooney - Starred In This Movie:*return of the killer tomatoes
 TV/ Movies: 1987 - George Clooney - Starred In This Movie:*return to horror high
-TV/ Movies: 1982  - George Clooney - Starred In This Movie:*and they're off
+TV/ Movies: 1982 - George Clooney - Starred In This Movie:*and they're off
 TV/ Movies: 1999 - Arnold Schwarzenegger - Starred In This Movie:*end of days
 TV/ Movies: 1997 - Arnold Schwarzenegger - Starred In This Movie:*batman & robin
 TV/ Movies: 1996 - Arnold Schwarzenegger - Starred In This Movie:*eraser
@@ -989,12 +989,12 @@ TV/ Movies: 1990 - Julia Roberts - Starred In This Movie:*pretty woman
 TV/ Movies: 1989 - Julia Roberts - Starred In This Movie:*steel magnolias
 TV/ Movies: 1989 - Julia Roberts - Starred In This Movie:*blood red
 TV/ Movies: 1988 - Julia Roberts - Starred In This Movie:*satisfaction
-TV/ Movies:  What is the name of Paul & Jamies dog in "Mad About You"*murray
-TV/ Movies:  What is the registry number of the Enterprise in the original Star Trek*ncc 1701
-TV/ Movies:  What is Winnie The Pooh's real name*edward bear
-TV/ Movies:  What movie has Steve Martin noting, "it's not the size of a nose that matters, it's what's in it"*roxanne
-TV/ Movies:  What musical was named after a U S city*oklahoma
-TV/ Movies:  What network features programming just for children*nickelodeon
-TV/ Movies:  What night club did Ricky work at on 'I  Love Lucy'*the tropicana
-TV/ Movies:  What pre tv radio show turned film caused people to commit suicide when it was first aired*war of the worlds
-TV/ Movies:  What role did Herve Villechaize portray in Fantasy Island*tatoo
+TV/ Movies: What is the name of Paul & Jamies dog in "Mad About You"*murray
+TV/ Movies: What is the registry number of the Enterprise in the original Star Trek*ncc 1701
+TV/ Movies: What is Winnie The Pooh's real name*edward bear
+TV/ Movies: What movie has Steve Martin noting, "it's not the size of a nose that matters, it's what's in it"*roxanne
+TV/ Movies: What musical was named after a U S city*oklahoma
+TV/ Movies: What network features programming just for children*nickelodeon
+TV/ Movies: What night club did Ricky work at on 'I Love Lucy'*the tropicana
+TV/ Movies: What pre tv radio show turned film caused people to commit suicide when it was first aired*war of the worlds
+TV/ Movies: What role did Herve Villechaize portray in Fantasy Island*tatoo

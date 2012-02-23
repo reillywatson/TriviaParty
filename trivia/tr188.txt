@@ -3398,7 +3398,7 @@ TV / Movies: Category: TV Pets: What breed of dog was Lassie?*collie
 TV / Movies: Category: TV Themes: Believe it or not, it's just me*Greatest American Hero
 TV / Movies: Category: TV Themes: But those dreams have remained and they've turned around...*Welcome Back Kotter
 TV / Movies: Category: TV Themes: I've been down this road, walking the line that's painted by pride...*Ally McBeal
-TV / Movies: Category: TV Themes: These days are ours...*Happy Days  
+TV / Movies: Category: TV Themes: These days are ours...*Happy Days 
 TV / Movies: Category: TV: 1960's series followed the exploits of Kelly Robinson and Alexander Scott.*i spy
 TV / Movies: Category: TV: McHale's rank in McHale's Navy.*lieutenant commander
 TV / Movies: Category: TV: Name of the character on "Have Gun, Will Travel".*paladin
@@ -4470,7 +4470,7 @@ TV / Movies: 1985 - Demi Moore - Starred In This Movie: *St. Elmo's Fire
 TV / Movies: 1984 - Demi Moore - Starred In This Movie: *Blame It on Rio
 TV / Movies: 1982 - Demi Moore - Starred In This Movie: *Young Doctors in Love
 TV / Movies: 1982 - Demi Moore - Starred In This Movie: *Parasite
-TV / Movies: 1981  - Demi Moore - Starred In This Movie: *Choices
+TV / Movies: 1981 - Demi Moore - Starred In This Movie: *Choices
 TV / Movies: 2000 - Bruce Willis - Starred In This Movie: *The Whole Nine Yards
 TV / Movies: 1999 - Bruce Willis - Starred In This Movie: *The Story of Us
 TV / Movies: 1999 - Bruce Willis - Starred In This Movie: *Breakfast of Champions
@@ -4504,7 +4504,7 @@ TV / Movies: 1988 - Bruce Willis - Starred In This Movie: *Sunset
 TV / Movies: 1987 - Bruce Willis - Starred In This Movie: *Blind Date
 TV / Movies: 1985 - Bruce Willis - Starred In This Movie: *Moonlighting
 TV / Movies: 1982 - Bruce Willis - Starred In This Movie: *The Verdict
-TV / Movies: 1980  - Bruce Willis - Starred In This Movie: *The First Deadly Sin
+TV / Movies: 1980 - Bruce Willis - Starred In This Movie: *The First Deadly Sin
 TV / Movies: 1999 - Meryl Streep - Starred In This Movie: *Music of the Heart
 TV / Movies: 1998 - Meryl Streep - Starred In This Movie: *Dancing at Lughnasa
 TV / Movies: 1998 - Meryl Streep - Starred In This Movie: *One True Thing
@@ -4532,7 +4532,7 @@ TV / Movies: 1979 - Meryl Streep - Starred In This Movie: *Kramer vs. Kramer
 TV / Movies: 1979 - Meryl Streep - Starred In This Movie: *Manhattan
 TV / Movies: 1978 - Meryl Streep - Starred In This Movie: *The Deer Hunter
 TV / Movies: 1977 - Meryl Streep - Starred In This Movie: *The Deadliest Season
-TV / Movies: 1977  - Meryl Streep - Starred In This Movie: *Julia
+TV / Movies: 1977 - Meryl Streep - Starred In This Movie: *Julia
 TV / Movies: 1998 - Dustin Hoffman - Starred In This Movie: *Sphere
 TV / Movies: 1997 - Dustin Hoffman - Starred In This Movie: *Mad City
 TV / Movies: 1997 - Dustin Hoffman - Starred In This Movie: *Wag the Dog
@@ -4591,7 +4591,7 @@ TV / Movies: 1983 - Robin Williams - Starred In This Movie: *The Survivors
 TV / Movies: 1982 - Robin Williams - Starred In This Movie: *The World According to Garp
 TV / Movies: 1980 - Robin Williams - Starred In This Movie: *Children of Babylon
 TV / Movies: 1980 - Robin Williams - Starred In This Movie: *Popeye
-TV / Movies: 1977  - Robin Williams - Starred In This Movie: *Can I Do It . . . 'Till I Need Glasses
+TV / Movies: 1977 - Robin Williams - Starred In This Movie: *Can I Do It . . . 'Till I Need Glasses
 TV / Movies: 1994 - Elizabeth Taylor - Starred In This Movie: *The Flintstones
 TV / Movies: 1989 - Elizabeth Taylor - Starred In This Movie: *Sweet Bird of Youth
 TV / Movies: 1988 - Elizabeth Taylor - Starred In This Movie: *Young Toscanini
@@ -4671,7 +4671,7 @@ TV / Movies: 1983 - Sigourney Weaver - Starred In This Movie: *The Year of Livin
 TV / Movies: 1981 - Sigourney Weaver - Starred In This Movie: *Eyewitness
 TV / Movies: 1979 - Sigourney Weaver - Starred In This Movie: *Alien
 TV / Movies: 1978 - Sigourney Weaver - Starred In This Movie: *Madman
-TV / Movies: 1977  - Sigourney Weaver - Starred In This Movie: *Annie Hall
+TV / Movies: 1977 - Sigourney Weaver - Starred In This Movie: *Annie Hall
 TV / Movies: 1997 - Winona Ryder - Starred In This Movie: *Alien Resurrection
 TV / Movies: 1996 - Winona Ryder - Starred In This Movie: *Boys
 TV / Movies: 1996 - Winona Ryder - Starred In This Movie: *Looking for Richard
@@ -4710,7 +4710,7 @@ TV / Movies: 1960 - Elvis Presley - Starred In This Movie: *G.I. Blues
 TV / Movies: 1958 - Elvis Presley - Starred In This Movie: *King Creole
 TV / Movies: 1957 - Elvis Presley - Starred In This Movie: *Jailhouse Rock
 TV / Movies: 1957 - Elvis Presley - Starred In This Movie: *Loving You
-TV / Movies: 1956  - Elvis Presley - Starred In This Movie: *Love Me Tender
+TV / Movies: 1956 - Elvis Presley - Starred In This Movie: *Love Me Tender
 TV / Movies: 2000 - George Clooney - Starred In This Movie: *The Perfect Storm
 TV / Movies: 1999 - George Clooney - Starred In This Movie: *Three Kings
 TV / Movies: 1998 - George Clooney - Starred In This Movie: *The Thin Red Line
@@ -4724,7 +4724,7 @@ TV / Movies: 1990 - George Clooney - Starred In This Movie: *Red Surf
 TV / Movies: 1990 - George Clooney - Starred In This Movie: *Sunset Beat
 TV / Movies: 1988 - George Clooney - Starred In This Movie: *Return of the Killer Tomatoes
 TV / Movies: 1987 - George Clooney - Starred In This Movie: *Return to Horror High
-TV / Movies: 1982  - George Clooney - Starred In This Movie: *And They're Off
+TV / Movies: 1982 - George Clooney - Starred In This Movie: *And They're Off
 TV / Movies: 1999 - Arnold Schwarzenegger - Starred In This Movie: *End of Days
 TV / Movies: 1997 - Arnold Schwarzenegger - Starred In This Movie: *Batman & Robin
 TV / Movies: 1996 - Arnold Schwarzenegger - Starred In This Movie: *Eraser

@@ -21,7 +21,7 @@ In 1714 Treaty of Baden-French retain---------- , Austria gets right bank of Rhi
 In 1714 Treaty of Baden-French retain Alsace, ---------- gets right bank of Rhine.*austria
 In 1714 Treaty of Baden-French retain Alsace, Austria gets right bank of---------- .*rhine
 In 1726 ---------- -Andre Philidor, France, chess champion/musician, born.*francois
-In 1726 Francois-----------  Philidor, France, chess champion/musician, born.*andre
+In 1726 Francois----------- Philidor, France, chess champion/musician, born.*andre
 In 1726 Francois-Andre---------- , France, chess champion/musician, born.*philidor
 In 1726 Francois-Andre Philidor, France, ---------- champion/musician, born.*chess
 In 1822 ---------- declares independence from Portugal (National Day).*brazil
@@ -176,7 +176,7 @@ In 1957 Siobhan Fahey rocker (---------- ), born.*bananarama
 In 1967 ---------- votes 12,138 to 44 to remain British.*gibraltar
 In 1967 Gibraltar votes ---------- to 44 to remain British.*12,138
 In 1974 ---------- -Bissau gains independence from Portugal.*guinea
-In 1974 Guinea-----------  gains independence from Portugal.*bissau
+In 1974 Guinea----------- gains independence from Portugal.*bissau
 In 1974 Guinea-Bissau gains independence from---------- .*portugal
 In 1989 ---------- begin their flight to the west (via Hungary and Czech).*east germans
 In 1989 East Germans begin their flight to the west (via ---------- and Czech).*hungary
@@ -315,7 +315,7 @@ In 1941 Oscar ---------- Sanchez, president of Costa Rica (1986- ) (Nobel 1987),
 In 1941 Oscar Arias---------- , president of Costa Rica (1986- ) (Nobel 1987), born.*sanchez
 In 1941 Oscar Arias Sanchez, president of ---------- (1986- ) (Nobel 1987), born.*costa rica
 In 1959 Soviet ---------- becomes first human-made object to crash on moon.*lunik 2
-In 1961 "----------  Where are You?" premieres.*car 54
+In 1961 "---------- Where are You?" premieres.*car 54
 In 1963 "---------- " premieres.*the outer limits
 In 1965 ---------- release "Yesterday."*beatles
 In 1965 Beatles release "---------- ."*yesterday
@@ -539,7 +539,7 @@ In 1949 ---------- (Leslie Hornby) (in England), model, actor (Blues Brothers), 
 In 1949 Twiggy (---------- Hornby) (in England), model, actor (Blues Brothers), born.*leslie
 In 1949 Twiggy (Leslie---------- ) (in England), model, actor (Blues Brothers), born.*hornby
 In 1970 "---------- " premiers.*mary tyler moore show
-In 1983 St Christopher-----------  gains independence from Britain (Nat'l Day).*nevis
+In 1983 St Christopher----------- gains independence from Britain (Nat'l Day).*nevis
 In 1519 ---------- starts first successful circumnavigation of the world.*magellan
 In 1833 ---------- Teodoro Moneta, Italian journalist (Nobel Peace Prize 1907) BORN*ernesto
 In 1833 Ernesto ---------- Moneta, Italian journalist (Nobel Peace Prize 1907) BORN*teodoro
@@ -688,7 +688,7 @@ In 1960 First atomic aircraft carrier, the "USS ---------- ", is launched.*enter
 In 1964 "---------- " premier.*the munsters
 In 1970 First Automated return of lunar sample by---------- .*luna 1
 In 1974 ---------- -Bissau gains independence from Portugal.*guinea
-In 1974 Guinea-----------  gains independence from Portugal.*bissau
+In 1974 Guinea----------- gains independence from Portugal.*bissau
 In 1513 ---------- Nuez de Balboa is the first European to see the Pacific Ocean.*vasco
 In 1513 Vasco ---------- de Balboa is the first European to see the Pacific Ocean.*nuez
 In 1513 Vasco Nuez ---------- is the first European to see the Pacific Ocean.*de balboa
@@ -700,7 +700,7 @@ In 1683 ---------- Phillippe Rameau, French composer (baptized), born.*jean
 In 1683 Jean ---------- Rameau, French composer (baptized), born.*phillippe
 In 1683 Jean Phillippe---------- , French composer (baptized), born.*rameau
 In 1725 ---------- -Joseph Cugnot, designed and built first automobile, born.*nicolas
-In 1725 Nicolas-----------  Cugnot, designed and built first automobile, born.*joseph
+In 1725 Nicolas----------- Cugnot, designed and built first automobile, born.*joseph
 In 1725 Nicolas-Joseph---------- , designed and built first automobile, born.*cugnot
 In 1903 ---------- Rothko, painter, born.*mark
 In 1903 Mark---------- , painter, born.*rothko
@@ -739,12 +739,12 @@ In 1897 Paul VI, ---------- Roman Catholic pope (1963-78), born.*262nd
 In 1898 ---------- Gershwin, (in Brooklyn, NY), composer (Rhapsody in Blue), born.*george
 In 1898 George---------- , (in Brooklyn, NY), composer (Rhapsody in Blue), born.*gershwin
 In 1918 ---------- -Argonne offensive against the Germans began during WWI.*meuse
-In 1918 Meuse-----------  offensive against the Germans began during WWI.*argonne
+In 1918 Meuse----------- offensive against the Germans began during WWI.*argonne
 In 1941 ---------- Iglesias, singer, born.*julio
 In 1941 Julio---------- , singer, born.*iglesias
 I1948 ---------- Newton-John (in Cambridge, England), singer, born.*olivia
 I1948 Olivia ---------- -John (in Cambridge, England), singer, born.*newton
-I1948 Olivia Newton-----------  (in Cambridge, England), singer, born.*john
+I1948 Olivia Newton----------- (in Cambridge, England), singer, born.*john
 In 1948 ---------- Remek, first Czechoslovakian space traveler (Soyuz 28), born.*vladimir
 In 1948 Vladimir---------- , first Czechoslovakian space traveler (Soyuz 28), born.*remek
 In 1957 Musical "---------- ", opened on Broadway.*west side story
@@ -764,7 +764,7 @@ In 1540 Society of Jesus (Jesuits) founded by Ignatius---------- .*loyola
 In 1601---------- , king of France (1610-43), born.*louis xiii
 In 1657---------- , regent of Russia (1682-89), born.*sophia
 In 1657 Sophia, regent of ---------- (1682-89), born.*russia
-In 1783 ----------  de Iturbide, emperor of Mexico (1822-23), born.*agustin i
+In 1783 ---------- de Iturbide, emperor of Mexico (1822-23), born.*agustin i
 In 1783 Agustin I de---------- , emperor of Mexico (1822-23), born.*iturbide
 In 1783 Agustin I de Iturbide, emperor of ---------- (1822-23), born.*mexico
 In 1825 ---------- transportation is born with first track in England.*railroad

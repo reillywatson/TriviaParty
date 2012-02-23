@@ -83,7 +83,7 @@ General Knowledge: How many feet are in a nautical mile *6080
 General Knowledge: How many herrings are in a Warp *Four
 General Knowledge: How many muscles are in a human *639
 General Knowledge: How many seconds are in a day *86400
-General Knowledge: How was "Abu Yusuf Ya'qub ibn Is-haq ubn as-Sabbah ibn 'omran ibn Ismail al-Kindi" better known  *The philosopher of the Arabs
+General Knowledge: How was "Abu Yusuf Ya'qub ibn Is-haq ubn as-Sabbah ibn 'omran ibn Ismail al-Kindi" better known *The philosopher of the Arabs
 General Knowledge: In a period of 400 years how many times does the 1st of January fall on a Sunday *58
 General Knowledge: In the Gregorian calendar after 10,000 years by how many days will the calendar be wrong by *Three
 General Knowledge: In the kama-sutra the art of which game is recommened for women to study *chess

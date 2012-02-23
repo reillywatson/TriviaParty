@@ -510,7 +510,7 @@ Animal Trivia: Atlantic ---------- are able to leap 15 feet high.*salmon
 Animal Trivia: Lemon sharks grow a new set of teeth every two weeks. They grow more than 24,000 new ---------- every year.*teeth
 Animal Trivia: Elephants perform greeting ceremonies when a member of the group returns after a long time away. The welcoming animals spin around, flap their ears, and ----------*trumpet
 Animal Trivia: Australia's ---------- is the world's most dangerous jellyfish. Its toxin is more potent than cobra venom and can kill a person in minutes*box jelly
-Animal Trivia:  are the only truly social cat species, and usually every female in a pride, ranging from 5 to 30 individuals, is closely related.*lions
+Animal Trivia: are the only truly social cat species, and usually every female in a pride, ranging from 5 to 30 individuals, is closely related.*lions
 Animal Trivia: Elephants, lions, and camels roamed ---------- 12,000 years ago.*alaska
 Animal Trivia: Baby beavers are called kits or ----------*kittens
 Animal Trivia: ---------- chinchillas were brought from the Andes Mountains in South America in the 1930's. All chinchillas presently in North America are descended from these ---------- chinchillas.*eleven*11
@@ -736,7 +736,7 @@ Animal Trivia: The Cairn terrier is great at catching ----------*rats
 Animal Trivia: Pandas spend about 12 hours a day eating ----------*bamboo
 Animal Trivia: In Milwaukee during the 1900s, 12,500 horses in the city left an estimated 133 tons of ---------- and urine on the streets per year.*manure
 Animal Trivia: The white elephant is the sacred animal of ----------*thailand
-Animal Trivia: The largest order of mammals, with about 1,700 species, is ----------. Bats are second with about  950 species.*rodents
+Animal Trivia: The largest order of mammals, with about 1,700 species, is ----------. Bats are second with about 950 species.*rodents
 Animal Trivia: The calories burned daily by the sled dogs running in Alaska's annual Iditarod race average 10,000. The 1,149-mile race commemorates the 1925 "Race for Life" when 20 volunteer mushers relayed medicine from Anchorage to Nome to battle a children's ----------*diphtheria epidemic
 Animal Trivia: Parrots, most famous of all talking birds, rarely acquire a vocabulary of more than twenty words. However, Tymhoney Greys and African Greys have been known to carry vocabularies in excess of ----------**one hundred words*100 words
 Animal Trivia: In one year, hens in America lay enough eggs to encircle the globe a ----------*one hundred times*100 times
@@ -792,7 +792,7 @@ Quotations: "--------- as if everything depended on God, and work as if everythi
 Quotations: "Choose your friends by their character and your socks by their color. Choosing your socks by their ---------- makes no sense, and choosing your friends by their color is unthinkable."- Anon.*character
 Quotations: "---------------, if false, is of no importance, and if true, of infinite importance. The only thing it cannot be is moderately important."- Clive Staples Lewis (1898-1963)*christianity
 Quotations: "Christmas is over and Business is Business."- Franklin Pierce Adams*business
-Quotations: "-------------.  Millions of people being lonesome together."- Henry David Thoreau*city life
+Quotations: "-------------. Millions of people being lonesome together."- Henry David Thoreau*city life
 Quotations: "-------------- has taught us to eat with a fork, but even now if nobody is around, we use our fingers."- Will Rogers*civilization
 Quotations: "Civilization is unbearable, but it is less unbearable at the top."- Timothy Leary*civilization
 Quotations: "------------- music is the kind we keep thinking will turn into a tune."- Kin Hubbard (1869 - 1930)*classical

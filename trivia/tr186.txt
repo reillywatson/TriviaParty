@@ -33,7 +33,7 @@ TV/ Movies: 1977 - Tommy Lee Jones - starred in this movie: *eliza's horoscope
 TV/ Movies: 1977 - Tommy Lee Jones - starred in this movie: *rolling thunder
 TV/ Movies: 1976 - Tommy Lee Jones - starred in this movie: *jackson county jail
 TV/ Movies: 1973 - Tommy Lee Jones - starred in this movie: *life study
-TV/ Movies: 1970  - Tommy Lee Jones - starred in this movie: *love story
+TV/ Movies: 1970 - Tommy Lee Jones - starred in this movie: *love story
 TV/ Movies: 1997 - Sylvester Stallone - starred in this movie: *cop land
 TV/ Movies: 1996 - Sylvester Stallone - starred in this movie: *daylight
 TV/ Movies: 1995 - Sylvester Stallone - starred in this movie: *judge dredd
@@ -115,7 +115,7 @@ TV/ Movies: 1971 - Robert De Niro - starred in this movie: *sam's song
 TV/ Movies: 1970 - Robert De Niro - starred in this movie: *bloody mama
 TV/ Movies: 1970 - Robert De Niro - starred in this movie: *hi mom!
 TV/ Movies: 1969 - Robert De Niro - starred in this movie: *the wedding party
-TV/ Movies: 1968 - Robert De Niro  - starred in this movie: *greetings
+TV/ Movies: 1968 - Robert De Niro - starred in this movie: *greetings
 TV/ Movies: 1999 - Billy Crystal - starred in this movie: *get bruce
 TV/ Movies: 1999 - Billy Crystal - starred in this movie: *analyze this
 TV/ Movies: 1998 - Billy Crystal - starred in this movie: *my giant
@@ -310,7 +310,7 @@ TV/ Movies: 1992 - Russell Crowe - starred in this movie: *romper stomper
 TV/ Movies: 1991 - Russell Crowe - starred in this movie: *prisoners of the sun
 TV/ Movies: 1991 - Russell Crowe - starred in this movie: *proof
 TV/ Movies: 1991 - Russell Crowe - starred in this movie: *hammers over the anvil
-TV/ Movies: 1990 - Russell Crowe  - starred in this movie: *the crossing
+TV/ Movies: 1990 - Russell Crowe - starred in this movie: *the crossing
 TV/ Movies: 1998 - Jennifer Lopez - starred in this movie: *out of sight
 TV/ Movies: 1998 - Jennifer Lopez - starred in this movie: *antz
 TV/ Movies: 1997 - Jennifer Lopez - starred in this movie: *blood and wine
@@ -319,7 +319,7 @@ TV/ Movies: 1997 - Jennifer Lopez - starred in this movie: *anaconda
 TV/ Movies: 1996 - Jennifer Lopez - starred in this movie: *jack
 TV/ Movies: 1995 - Jennifer Lopez - starred in this movie: *my family
 TV/ Movies: 1995 - Jennifer Lopez - starred in this movie: *money train
-TV/ Movies: 1986  - Jennifer Lopez - starred in this movie: *my little girl
+TV/ Movies: 1986 - Jennifer Lopez - starred in this movie: *my little girl
 TV/ Movies: 2000 - Angelina Jolie - starred in this movie: *gone in 60 seconds
 TV/ Movies: 1999 - Angelina Jolie - starred in this movie: *pushing tin
 TV/ Movies: 1998 - Angelina Jolie - starred in this movie: *playing by heart
@@ -1317,10 +1317,10 @@ TV/ Movies: Category: X Files: Who plays Fox Mulder*david duchovny
 TV/ Movies: Chevy Chase got his start on this show.*saturday night live
 TV/ Movies: Child who received a miniature Oscar as Outstanding Child Actress of 1944*margaret obrien
 TV/ Movies: Cliff Robertson played a retarded man who became a genius in this movie.*charly
-TV/ Movies: Clive Barker: By what nickname is John Furie Zacharias better known as  (Imajica)*gentle
+TV/ Movies: Clive Barker: By what nickname is John Furie Zacharias better known as (Imajica)*gentle
 TV/ Movies: Clive Barker: One of the stories from The Inhuman Conditions details a revolution of what *hands
-TV/ Movies: Clive Barker: Who kills Fletcher (Who fired the gun)  (The Great & Secret Show)*tesla bombeck
-TV/ Movies: Clive Barker: Who was the Maestro in the fourth dominion during the reconstruction  (Imajica)*tick raw
+TV/ Movies: Clive Barker: Who kills Fletcher (Who fired the gun) (The Great & Secret Show)*tesla bombeck
+TV/ Movies: Clive Barker: Who was the Maestro in the fourth dominion during the reconstruction (Imajica)*tick raw
 TV/ Movies: Cocky young man kidnaps long lost autistic brother for inheritance money*rain man
 TV/ Movies: Color of barney*purple
 TV/ Movies: Comedy dealing with African prince searching for a bride in Queens, New York*coming to america
@@ -1383,265 +1383,265 @@ TV/ Movies: Doctor Who: The rights for a new series of Dr.Who are held by what S
 TV/ Movies: Doctor Who: Very famous painting which is an important plot element in "City of Death"*the mona lisa
 TV/ Movies: Doctor Who: What would you immediately notice if you stepped inside the TARDIS*bigger on the inside
 TV / Movie: What U.S. state is the setting for I Dream of Jeannie*florida
-TV/ Movies:  "Cheers" took place in this city.*boston
-TV/ Movies:  "I hate meeses to pieces" is the motto of this cat*jinks
-TV/ Movies:  Academy awards: oldest man to win an Oscar, for 'The Sunshine Boys'*george burns
-TV/ Movies:  Academy awards: who won consecutive best actress awards for 'Guess Who's Coming To Dinner' & 'The Lion In Winter'*katherine hepburn
-TV/ Movies:  Actor: ______ Ford*harrison
-TV/ Movies:  Actor: ________ Hackman.*gene
-TV/ Movies:  Actors In Film : Chattahoochie; Romeo Is Bleeding; Rosencrantz And Guildenstern Are Dead*gary oldman
-TV/ Movies:  Actors In Film : Pulp Fiction; The Fisher King; So I Married An Axe Murderer*amanda plummer
-TV/ Movies:  Actors In Film : Reservoir Dogs; Bad Lieutenant; Thelma & Louise*harvey keitel
-TV/ Movies:  Actors In Film : Sneakers; Passion Fish; Dances With Wolves*mary mcdonnell
-TV/ Movies:  Actors In Film : The Silence Of The Lambs; Backdraft; Urban Cowboy*scott glenn
-TV/ Movies:  Among the regulars on this show were Vicky Lawrence, Harvey Korman, & Lyle Waggoner*the carol burnett show
-TV/ Movies:  B Movies: 1981 comedy had Richard Pryor bussing a load of disturbed children*bustin loose
-TV/ Movies:  B Movies: Glenn Ford starred in this 1955 classic about a NYC school teacher*blackboard jungle
-TV/ Movies:  B Movies: Guys hate it when their girlfriends wanna watch this 1988 Midler tearjerker*beaches
-TV/ Movies:  B Movies: Kristy Swanson, Don Sutherland, & Luke Perry slay the Undead*buffy the vampire slayer
-TV/ Movies:  B Movies: Never have sex with anyone that owns an icepick*basic instinct
-TV/ Movies:  B Movies: Paul Newman plays Louisiana governor Earl Long*blaze
-TV/ Movies:  B Movies: Robert Redford plays a warden in this 1980 prison drama*brubaker
-TV/ Movies:  B Movies: Say his name 3 times....*beetlejuice
-TV/ Movies:  B Movies: Song: "and I said, what about _ _ _, & you said I think I remember the film*breakfast at tiffanys
-TV/ Movies:  B Movies: Tom Hanks may want to forget he did this 1984 T&A comedy*bachelor party
-TV/ Movies:  Back To The Future: If future events are altered, photos and writing from the future become _*changed
-TV/ Movies:  Back To The Future: In BTTF 3 Doc Brown finds true love in this woman (full name)*clara clayton
-TV/ Movies:  Back To The Future: In BTTF 1, Marty outruns his enemies with a skateboard. In BTTF 2, he uses _'*hoverboard
-TV/ Movies:  Back To The Future: Terrorists almost kill Doc Brown in BTTF 1 because he stole their what*plutonium
-TV/ Movies:  Back To The Future: Which movie (1,2, or 3) does Marty come face to face with his own son*two*2
-TV/ Movies:  Barbara Bel Geddes won a Emmy in 1980 as outstanding lead actress in what drama series*dallas
-TV/ Movies:  Bart Simpsons sister's name*lisa
-TV/ Movies:  Bewitched: Darren & Samantha _______ (surname)*stevens
-TV/ Movies:  Casper the friendly ghost frolicked with which witch*wendy
-TV/ Movies:  Classic: Marshall Dillion's wanna be girlfriend was named what*miss kitty
-TV/ Movies:  Classic: This 1960's series starred Mia Farrow & Ryan O'neal*peyton place
-TV/ Movies:  Classic: Weekly series about a fire department rescue crew*emergency
-TV/ Movies:  Classic: What's My _____*line
-TV/ Movies:  Classic: Where was Gomer Pyle based*camp pendleton
-TV/ Movies:  Darth Vader was the villian in the movie, '____ wars'.*star
-TV/ Movies:  Defining Roles: Batman [the movie]--> Batman*michael keaton
-TV/ Movies:  Defining Roles: M.A.S.H. [the TV show]--> Benjamin Franklin "Hawkeye" Pierce*alan alda
-TV/ Movies:  Defining Roles: Star Wars--> Princess Leia*carrie fisher
-TV/ Movies:  Defining Roles: The King & I--> The King of Siam*yul brynner
-TV/ Movies:  Defining Roles: The Maltese Falcon--> Sam Spade*humphrey bogart
-TV/ Movies:  Directors: Casablanca, Yankee Doodle Dandy, Captain Blood*michael curtiz
-TV/ Movies:  Directors: Dodeskada, The Seven Samurai, Rashomon*akira kurosawa
-TV/ Movies:  Directors: Easy Rider, The Hot Spot, River's Edge*dennis hopper
-TV/ Movies:  Directors: Glen or Glenda, Plan Nine From Outer Space*ed wood jr
-TV/ Movies:  Directors: How Green Was My Valley, The Searchers, The Man Who Shot Liberty Valance*john ford
-TV/ Movies:  Directors: Misery, A Few Good Men, North, This Is Spinal Tap*rob reiner
-TV/ Movies:  Directors: The Abyss, The Terminator, True Lies*james cameron
-TV/ Movies:  Directors: The Decline and Fall of Western Civilization, Wayne's World*penelope spheeris
-TV/ Movies:  Directors: The Heartbreak Kid, Ishtar*elaine may
-TV/ Movies:  Doreen Tracy, Cheryl Holdridge & Cubby O'brien were known on tv as what*mouseketeers
-TV/ Movies:  Ed Asner won an emmy for his role in this series in 1977*roots
-TV/ Movies:  Elvis Presley's real parents appeared in what movie*king creole
-TV/ Movies:  Emmy awards: Helen Hunt has 4 best comedy actress honors, but she still has not caught whom*mary tyler moore
-TV/ Movies:  Entertainment : 1984 murder in the military movie produced and directed by Norman Jewison*a soldiers story
-TV/ Movies:  Entertainment : In Blazing Saddles, the most common name in Rock Ridge*johnson
-TV/ Movies:  Entertainment : Mustached comedian who portrayed Frankie in North to Alaska*ernie kovacs
-TV/ Movies:  Entertainment : Name of the computer in Wargames*wopr
-TV/ Movies:  Entertainment : The McKenzie Brothers SCTV talk show*the great white north
-TV/ Movies:  Famous Directors: Directed "Fury"*fritz lang
-TV/ Movies:  Famous Directors: Directed "Gas, Food, Lodging"*allison anders
-TV/ Movies:  Famous Directors: Directed "Platoon"*oliver stone
-TV/ Movies:  Famous Directors: Directed "Silence of the Lambs"*jonathan demme
-TV/ Movies:  Famous Directors: Directed "Terms of Endearment"*james l brooks
-TV/ Movies:  Film Roles: Dr. Phibes*vincent price
-TV/ Movies:  Film Roles: Inspector Clouseau*peter sellers
-TV/ Movies:  Film Roles: Sherlock Holmes*basil rathbone
-TV/ Movies:  Film Roles: The Bandit*burt reynolds
-TV/ Movies:  Film Roles: The Great Santini*robert duvall
-TV/ Movies:  Film Top Cops: Actress who was Arnold's partner in Kindergarten Cop*pamela reed
-TV/ Movies:  Film Top Cops: Clever spoof series from the makers of _Airplane!_*the naked gun
-TV/ Movies:  Film Top Cops: Connery played a salty cop aiding Eliot Ness in...*the untouchables
-TV/ Movies:  Film Top Cops: Dreyfus & Estevez were on a...*stakeout
-TV/ Movies:  Film Top Cops: Tom Hanks had a canine partner in...*turner hooch
-TV/ Movies:  First name of private eye Mannix.*joe
-TV/ Movies:  Get Smart: KAOS POW camp Gitche Gomee Noo-Nee Wah-wah is located in this state.*new jersey
-TV/ Movies:  Get Smart: Said "Jawohl, Siegfried."*shtarker
-TV/ Movies:  Get Smart: Smart's beautiful partner, later his wife.*99
-TV/ Movies:  Get Smart: This actor plays Smart and also provides the voice of Inspector Gadget.*don adams
-TV/ Movies:  Get Smart: This agent is stationed in a mailbox, couch, airport locker, trash can, etc.*13
-TV/ Movies:  He is the voice of Charlie on Charlie's Angels*john forsythe
-TV/ Movies:  He played Han Solo in the 'Star Wars' series*harrison ford
-TV/ Movies:  He played the evil villain of "Dallas" (Actor's name).*larry hagman
-TV/ Movies:  He stared in Magnum P.I.*tom selleck
-TV/ Movies:  He wrote & directed 'Clockwork Orange'*stanley kubrick
-TV/ Movies:  Hollywood: Barbra Streisand played Fanny Brice this many times in the movies.*2
-TV/ Movies:  Hollywood: First member of the original Saturday Night Live to leave the show.*chevy chase
-TV/ Movies:  Hollywood: He uttered the immortal lines, "I never drink--wine".*bela lugosi
-TV/ Movies:  Hollywood: He was a circus acrobat before acting.*burt lancaster
-TV/ Movies:  Hollywood: His last film was The Killers in 1964 before moving on to bigger things.*reagan
-TV/ Movies:  Hollywood: Novelist who played Disney's TV hero Texas John Slaughter.*tom tryon
-TV/ Movies:  Hollywood: Singer made his debut in The Jazz Singer.*neil diamond
-TV/ Movies:  Hollywood: Star Trek star who played an extraterrestrial in Zombies of the Stratosphere.*nimoy
-TV/ Movies:  Hollywood: The "King of the Miniseries" after doing Shogun and the Thorn Birds*richard chamberlain
-TV/ Movies:  Hollywood: This tough guy starred in the porno "A Party at Kitty's and Studs"*sylvester stallone
-TV/ Movies:  How many children do the Brady's have*six*6
-TV/ Movies:  How many episodes were there in the original Star Trek series*seventy five*75
-TV/ Movies:  How many 'Southpark' episodes have there been that Kenny didn't get killed*one*1
-TV/ Movies:  In "Family Affair", what was Buffy's dolls name*mrs beasley
-TV/ Movies:  In 1957 which actress recorded 'Tammy' from one of her films*debbie reynolds
-TV/ Movies:  In 'Southpark', what is Chef obsessed with*sex
-TV/ Movies:  In the film '101 Dalmatians', what animal is Sergeant Tibbs*cat
-TV/ Movies:  In the film 'Hackers', how old was 'Zero_kool' when he was first arrested*eleven*11
-TV/ Movies:  In the film 'Star Trek First Contact', when Picard shows Lilly she is orbiting earth, Australia & Papua New Guinea are clearly visible, but which country is missing*new zealand
-TV/ Movies:  In the first part of 'Hard To Kill', what did Steven Seagal use to kill the mobster*credit card
-TV/ Movies:  In the Lone Ranger, what was the name of Tonto's horse*scout
-TV/ Movies:  In the original version of 'Romeo & Juliet', who played Juliet*olivia hussey
-TV/ Movies:  In the recent Superman series, who played Lois Lane*teri hatcher
-TV/ Movies:  In 'The Shining' what was the child's imaginary friend's name (the one who told him things that were going to happen)*tony
-TV/ Movies:  In the soapie 'One Life To Live' who was Vicky's alter ego*nicky
-TV/ Movies:  In the theme song from 'The Flintstones', what is the line after 'Let's ride with the family down the street'*through the courtesy of fred's two feet
-TV/ Movies:  In the U K comedy series "The Benny Hill Show" what were the singers & dancers called*hill's angels
-TV/ Movies:  In 'The Wizard Of Oz', what was Dorothy's dog's name*toto
-TV/ Movies:  In 'The Wizard Of Oz', where did Dorothy live*kansas
-TV/ Movies:  in 'The Wizard Of Oz', which character sang 'come out, come out, wherever you are*glinda
-TV/ Movies:  In this series Christopher Connely and Jodie Foster played father and daughter.*paper moon
-TV/ Movies:  In what 1967 film did Gene Hackman earn his first Oscar nomination*bonnie & clyde
-TV/ Movies:  In what city does Fat Albert live*philadelphia
-TV/ Movies:  In what film did Rick Moranis make his big screen debut*strange brew
-TV/ Movies:  In what film were audiences treated to a flushing toilet for the first time*psycho
-TV/ Movies:  Independent Films: 1989 black comedy starring Winona Ryder and featuring Shannen Doherty*heathers
-TV/ Movies:  Independent Films: Co-star of "Saving Private Ryan" who also directed "The Brothers McMullen"*edward burns
-TV/ Movies:  Independent Films: David Lynch's 1976 film filled with bizarre ideas and nightmare imagery*eraserhead
-TV/ Movies:  Independent Films: Incredibly overweight Ricki Lake starred in this 1988 John Waters film*hairspray
-TV/ Movies:  Independent Films: Infamous $7,000 film the director financed as a medical guinea pig*el mariachi
-TV/ Movies:  James Bond: Actress who played May Day in A View to a Kill*grace jones
-TV/ Movies:  James Bond: The last name of the villian in "Moonraker" was ____.*drax
-TV/ Movies:  James Bond: This group sang the title theme for "View to a Kill".*duran duran
-TV/ Movies:  James Bond: Who sang the theme for "You Only Live Twice"*nancy sinatra
-TV/ Movies:  James Bond: Who will star as James Bond in the next 007 movie (1994)*pierce brosnan
-TV/ Movies:  John Boy was a character in this series*the waltons
-TV/ Movies:  Monty Python: He went on to direct "Time Bandits" and "Brazil"*terry gilliam
-TV/ Movies:  Monty Python: The deformed knight had this many heads.*3
-TV/ Movies:  Monty Python: The first knight to cross the bridge*lancelot
-TV/ Movies:  Monty Python: The shape of the earth*banana
-TV/ Movies:  Monty Python: This bird was dead, not just "stunned" or "pining for the fjords"*parrot
-TV/ Movies:  Movie Actors: He starred in The Silence of the Lambs and Howard's End*anthony hopkins
-TV/ Movies:  Movie Actors: He won an Oscar for Dr. Jekyll and Mr. Hyde*frederick march
-TV/ Movies:  Movie Actors: Radio star who won a 1986 Oscar for Cocoon*don ameche
-TV/ Movies:  Movie Actors: The heartthrob in Dirty Dancing and Ghost*patrick swayze
-TV/ Movies:  Movie Actors: The leading man in Mrs. Miniver and Madame Curie*walter pidgeon
-TV/ Movies:  Movie Bombs: A giant lizard terrorizes the Texas countryside; killed by a flaming car*giant gila monster
-TV/ Movies:  Movie Bombs: A soldier is hit with radiation and grows 50 feet tall*the amazing colossal man
-TV/ Movies:  Movie Bombs: A vacationing family is ensnared by a Satanic cult (truly evil!)*manos the hands of fate
-TV/ Movies:  Movie Bombs: Bela Lugosi had top billing even though he died before filming on this began*plan 9 from outer space
-TV/ Movies:  Movie Bombs: The best-known X-rated animated film*fritz the cat
-TV/ Movies:  Movie Tag Lines: Frozen in the 60's...thawing spring '97, baby! Debonair. Defiant. Defrosted.*austin powers
-TV/ Movies:  Movie Tag Lines: In space, no one can hear you scream.*alien
-TV/ Movies:  Movie Tag Lines: It's nothing personal.*terminator 2
-TV/ Movies:  Movie Tag Lines: Makes Ben Hur look like an Epic*monty python and the holy grail
-TV/ Movies:  Movie Tag Lines: With love comes risk. With obsession comes...*damage
-TV/ Movies:  Movie That Features: Al Pacino, Steven Bauer, Michelle Pfeiffer, and Mary E. Mastrantonio*scarface
-TV/ Movies:  Movie That Features: Emma Thompson as "Beatrice"*much ado about nothing
-TV/ Movies:  Movie That Features: Matthew Modine, Mercedes Ruehl, Dean Stockwell, and Michelle Pfeiffer*married to the mob
-TV/ Movies:  Movie That Features: Mike Meyers as an English secret agent and an evil misbehaving world tyrant.*austin powers
-TV/ Movies:  Movie That Features: Tom Berenger, Willem DaFoe, Charlie Sheen, and Francesco Quinn*platoon
-TV/ Movies:  Movie titles: The ____ Worker (1962)*miracle
-TV/ Movies:  Movie titles: The Three Faces Of ___*eve
-TV/ Movies:  Movies: Anthony Perkins served aboard this type of vessel in "On the Beach."*submarine
-TV/ Movies:  Movies: Bing Crosby received this type of Oscar for his role as Father Chuck O'Malley.*plaster
-TV/ Movies:  Movies: Famous swinging character has been played by Pierce, Henry, and Barker.*tarzan
-TV/ Movies:  Movies: Largest grossing film of 1993.*jurassic park
-TV/ Movies:  Movies: The hospital in which the Doctor Kildare series was set.*blair general
-TV/ Movies:  Movies: This actress said, "What are you gonna do Arrest me"*sharon stone
-TV/ Movies:  Movies: This American played the lecherous Komarovsky in "Doctor Zhivago."*rod steiger
-TV/ Movies:  Movies: This disney film introduced the song "Zip-a-dee-do-dah"*song of the south
-TV/ Movies:  Movies: Western in which Gable said, "Why don't you jump in and get wet all over"*honky tonk
-TV/ Movies:  Muppet Mania: Kermit wrote a guide to this decade*90s
-TV/ Movies:  Muppet Mania: The name of the Elephant friend of Big Bird on 'Sesame Street'*mr snuffleupagus
-TV/ Movies:  Muppet Mania: this is a bear's natural habitat (The Muppet movie)*studebaker
-TV/ Movies:  Muppet Mania: This muppet was a piano playing dog*rowlf
-TV/ Movies:  Muppet Mania: What is the name of Dr. Teeth's band*the electric mayhem
-TV/ Movies:  Name one of the 2 girls that shared the flat with Robin in "Man About The House"*jo*chrissy
-TV/ Movies:  Name the 3 daughters in "The Brady Bunch" (oldest to youngest)*marcia, jan & cindy
-TV/ Movies:  Name the 3 sons in "The Brady Bunch" (oldest to youngest)*greg, peter & bobby
-TV/ Movies:  Name the boat in the Love Boat*pacific princess
-TV/ Movies:  Name the male actor in "Moonlighting"*bruce willis
-TV/ Movies:  Name the male actor in "Remington Steele"*pierce brosnan
-TV/ Movies:  Name the movie about life after death set in Chicago that revolved around several medical students with a death wish.*flatliners
-TV/ Movies:  Name the top rated show of the 1977 78 season*laverne & shirley
-TV/ Movies:  On 'Southpark' what usually happens to Kenny*he gets killed
-TV/ Movies:  On the show 'Greenacres' what was 'Arnold Ziffel'*pig
-TV/ Movies:  On what show was Ralph Malph*happy days
-TV/ Movies:  On what show was 'The Ponderosa'*bonanza
-TV/ Movies:  On which show did Gene Gene the dancing machine appear*the gong show
-TV/ Movies:  On which show is there a butler named Lurch*the adams family
-TV/ Movies:  Other than mistress, how was Kristin related to J.R. Ewing*sister in law
-TV/ Movies:  Rocky Horror: How many minutes long is the movie version*100
-TV/ Movies:  Rocky Horror: What is the name of the head transvestite*frank n. furter
-TV/ Movies:  Rocky Horror: What was Janet's last name*weiss
-TV/ Movies:  Rocky Horror: Where does Frank come from (full name)*transexual transylvania
-TV/ Movies:  Ron Howard's directed his first film in 1977. What was it called*grand theft auto
-TV/ Movies:  She has been nominated for best actress 12 times, winning only once (for 'Sophie's Choice')*meryl streep
-TV/ Movies:  She played "Police Woman"*dickinson
-TV/ Movies:  Simpsons Cartoon : Before Maggie's conception, Homer quit the Power Plant to work here.*barneys bowlarama
-TV/ Movies:  Simpsons Cartoon : Homer works the night shift at this place to pay for Lisa's pony.*kwik-e-mart
-TV/ Movies:  Simpsons Cartoon : How old are Bart and Lisa (# & #)*ten and eight
-TV/ Movies:  Simpsons Cartoon : She is the voice of Lisa.*yeardley smith
-TV/ Movies:  Simpsons Cartoon : This "Kramer vs. Kramer" star played Reverend Lovejoy's daughter Jessica.*meryl streep
-TV/ Movies:  Simpsons: How much did it cost Milhouse to buy Bart's soul*$5
-TV/ Movies:  Simpsons: How much does Homer charge for eternal happiness in his telemarketing scam*$1
-TV/ Movies:  Simpsons: In the episode when Ned's house is destroyed, what does Bart reply to him after Ned says something mean to him*i am shocked & appalled*i am shocked
-TV/ Movies:  Simpsons: In the opening credits, how many cars do the Simpsons have*two*2
-TV/ Movies:  Simpsons: In which movie was Moe in*little rascals
-TV/ Movies:  Simpsons: Milhouse was the movie sidekick of what comic book hero*radioactive man
-TV/ Movies:  Simpsons: What concert does Homer take Bart & Lisa too*lollapalooza
-TV/ Movies:  Simpsons: Who is the principal of the school Bart & Lisa attend*seymore skinner
-TV/ Movies:  Simpsons: Who shot Mr. Burns*maggie
-TV/ Movies:  Southpark: Who are floating above the South Park sign, during the opening credits*terrance & phillip
-TV/ Movies:  Starfleet Commander Riker (Next Generation) plays what musical instrument*trombone
-TV/ Movies:  Starwars   Who is c3 po's sidekick*r2d2
-TV/ Movies:  The ______ Of Oz*wizard
-TV/ Movies:  The actor who played Captain Sisko in 'Star Trek Deep Space Nine', played ____ the 1970's series 'Spencer For Hire'*hawk
-TV/ Movies:  The story about a king who prematurely divides his kingdom between his daughters is portrayed in which film*king lear
-TV/ Movies:  The Swiss Family _______*robinson
-TV/ Movies:  This 1983 series was cancelled and then renewed as a result of audience demand.*cagney and lacey
-TV/ Movies:  This actor was a member of the sitcom, 'Night Court' & also narrated the gruesome 'Texas Chain Saw Massacre'*john larroquette
-TV/ Movies:  This comedy drama focused on a family with eight children*eight is enough
-TV/ Movies:  This comedy series won the best actor & best supporting actress Emmies in 1981 82*mash
-TV/ Movies:  This muppet wears dark glasses & plays the saxophone*zoot
-TV/ Movies:  This series was originally going to be called Oil*dynasty
-TV/ Movies:  This show had two cousins named Luke & Bo*the dukes of hazzard
-TV/ Movies:  Tramp was the name of what animal on the show My Three Sons*dog
-TV/ Movies:  Trapper John, M.D. Was a spinoff from what show*mash
-TV/ Movies:  Vinnie Barbarino, Boom Boom, Epstein, Horshack & Arnold are from what group*the sweathogs
-TV/ Movies:  What 1960s show's original cast included Alan Reed, Jean Vander Pyl, Mel Blanc & Bea Benaderet*flintstones
-TV/ Movies:  What 1977 movie featured a dog named Verdell*as good as it gets
-TV/ Movies:  What accessories did Wonder Woman use to deflect bullets*golden bracelets
-TV/ Movies:  What actress had made a million dollars by the age of 10*shirley temple
-TV/ Movies:  What actress played Sean Connery's daughter in "The Presidio"*meg ryan
-TV/ Movies:  What actress starred in "I.Q"*meg ryan
-TV/ Movies:  What American show centred on the Cleaver family*leave it to beaver
-TV/ Movies:  What are the names of Daisy Duck's nieces*april may june
-TV/ Movies:  What are the names of Donald Duck's nephews*huey dewey & louey
-TV/ Movies:  What bar did Archie Bunker buy*kelseys bar
-TV/ Movies:  What boat had been wrecked resulting in the crew being marooned on Gilligans Island*minnow
-TV/ Movies:  What car company sponsored, but opted not to run ads during a 195 minute broadcast of Schindler's List*ford motor Company*ford
-TV/ Movies:  What car was used in 'Back To The Future'*de lorean
-TV/ Movies:  What cartoon couple chose Las Venus for their second honeymoon*george & jane jetson
-TV/ Movies:  What character did George Burns play in 'Oh, God'*god
-TV/ Movies:  What character did Kate Jackson play in "Charlies Angels"*sabrina
-TV/ Movies:  What character had a horse named Cochise*joe cartwright
-TV/ Movies:  What city is home to Donald Duck*duckburg
-TV/ Movies:  What country was the setting for 'The King & I'*siam
-TV/ Movies:  What did Al Bundy do for a living in "Married With Children"*shoe salesman
-TV/ Movies:  What Disney character shares his name with a planet*pluto
-TV/ Movies:  What famous actor is listed only as 'Stud' in the credits for the 1970 film, 'Myra Breckinridge'*tom selleck
-TV/ Movies:  What famous animal character called 'Skull Island' home*king kong
-TV/ Movies:  What film featured a cat named Mr. Bigglesworth*austin powers
-TV/ Movies:  What film found Bruce Willis at 'Flotsam Paradise'*fifth element
-TV/ Movies:  What film is generally considered the worst film ever made*attack of the killer tomatoes
-TV/ Movies:  What film starred Drew Barrymore, Mary Louise Parker, & Matthew McConaughney*boys on the side
-TV/ Movies:  What is Batman's aircraft called*batplane
-TV/ Movies:  What is Batman's car called*batmobile
-TV/ Movies:  What is Donald Duck's middle name*fauntleroy
-TV/ Movies:  What is E.T. famous for saying*e.t. phone home*e t phone home
-TV/ Movies:  What is Mickey Mouse's dog's name*pluto
-TV/ Movies:  What is the first word uttered in the movie Citizen Kane*rosebud
+TV/ Movies: "Cheers" took place in this city.*boston
+TV/ Movies: "I hate meeses to pieces" is the motto of this cat*jinks
+TV/ Movies: Academy awards: oldest man to win an Oscar, for 'The Sunshine Boys'*george burns
+TV/ Movies: Academy awards: who won consecutive best actress awards for 'Guess Who's Coming To Dinner' & 'The Lion In Winter'*katherine hepburn
+TV/ Movies: Actor: ______ Ford*harrison
+TV/ Movies: Actor: ________ Hackman.*gene
+TV/ Movies: Actors In Film : Chattahoochie; Romeo Is Bleeding; Rosencrantz And Guildenstern Are Dead*gary oldman
+TV/ Movies: Actors In Film : Pulp Fiction; The Fisher King; So I Married An Axe Murderer*amanda plummer
+TV/ Movies: Actors In Film : Reservoir Dogs; Bad Lieutenant; Thelma & Louise*harvey keitel
+TV/ Movies: Actors In Film : Sneakers; Passion Fish; Dances With Wolves*mary mcdonnell
+TV/ Movies: Actors In Film : The Silence Of The Lambs; Backdraft; Urban Cowboy*scott glenn
+TV/ Movies: Among the regulars on this show were Vicky Lawrence, Harvey Korman, & Lyle Waggoner*the carol burnett show
+TV/ Movies: B Movies: 1981 comedy had Richard Pryor bussing a load of disturbed children*bustin loose
+TV/ Movies: B Movies: Glenn Ford starred in this 1955 classic about a NYC school teacher*blackboard jungle
+TV/ Movies: B Movies: Guys hate it when their girlfriends wanna watch this 1988 Midler tearjerker*beaches
+TV/ Movies: B Movies: Kristy Swanson, Don Sutherland, & Luke Perry slay the Undead*buffy the vampire slayer
+TV/ Movies: B Movies: Never have sex with anyone that owns an icepick*basic instinct
+TV/ Movies: B Movies: Paul Newman plays Louisiana governor Earl Long*blaze
+TV/ Movies: B Movies: Robert Redford plays a warden in this 1980 prison drama*brubaker
+TV/ Movies: B Movies: Say his name 3 times....*beetlejuice
+TV/ Movies: B Movies: Song: "and I said, what about _ _ _, & you said I think I remember the film*breakfast at tiffanys
+TV/ Movies: B Movies: Tom Hanks may want to forget he did this 1984 T&A comedy*bachelor party
+TV/ Movies: Back To The Future: If future events are altered, photos and writing from the future become _*changed
+TV/ Movies: Back To The Future: In BTTF 3 Doc Brown finds true love in this woman (full name)*clara clayton
+TV/ Movies: Back To The Future: In BTTF 1, Marty outruns his enemies with a skateboard. In BTTF 2, he uses _'*hoverboard
+TV/ Movies: Back To The Future: Terrorists almost kill Doc Brown in BTTF 1 because he stole their what*plutonium
+TV/ Movies: Back To The Future: Which movie (1,2, or 3) does Marty come face to face with his own son*two*2
+TV/ Movies: Barbara Bel Geddes won a Emmy in 1980 as outstanding lead actress in what drama series*dallas
+TV/ Movies: Bart Simpsons sister's name*lisa
+TV/ Movies: Bewitched: Darren & Samantha _______ (surname)*stevens
+TV/ Movies: Casper the friendly ghost frolicked with which witch*wendy
+TV/ Movies: Classic: Marshall Dillion's wanna be girlfriend was named what*miss kitty
+TV/ Movies: Classic: This 1960's series starred Mia Farrow & Ryan O'neal*peyton place
+TV/ Movies: Classic: Weekly series about a fire department rescue crew*emergency
+TV/ Movies: Classic: What's My _____*line
+TV/ Movies: Classic: Where was Gomer Pyle based*camp pendleton
+TV/ Movies: Darth Vader was the villian in the movie, '____ wars'.*star
+TV/ Movies: Defining Roles: Batman [the movie]--> Batman*michael keaton
+TV/ Movies: Defining Roles: M.A.S.H. [the TV show]--> Benjamin Franklin "Hawkeye" Pierce*alan alda
+TV/ Movies: Defining Roles: Star Wars--> Princess Leia*carrie fisher
+TV/ Movies: Defining Roles: The King & I--> The King of Siam*yul brynner
+TV/ Movies: Defining Roles: The Maltese Falcon--> Sam Spade*humphrey bogart
+TV/ Movies: Directors: Casablanca, Yankee Doodle Dandy, Captain Blood*michael curtiz
+TV/ Movies: Directors: Dodeskada, The Seven Samurai, Rashomon*akira kurosawa
+TV/ Movies: Directors: Easy Rider, The Hot Spot, River's Edge*dennis hopper
+TV/ Movies: Directors: Glen or Glenda, Plan Nine From Outer Space*ed wood jr
+TV/ Movies: Directors: How Green Was My Valley, The Searchers, The Man Who Shot Liberty Valance*john ford
+TV/ Movies: Directors: Misery, A Few Good Men, North, This Is Spinal Tap*rob reiner
+TV/ Movies: Directors: The Abyss, The Terminator, True Lies*james cameron
+TV/ Movies: Directors: The Decline and Fall of Western Civilization, Wayne's World*penelope spheeris
+TV/ Movies: Directors: The Heartbreak Kid, Ishtar*elaine may
+TV/ Movies: Doreen Tracy, Cheryl Holdridge & Cubby O'brien were known on tv as what*mouseketeers
+TV/ Movies: Ed Asner won an emmy for his role in this series in 1977*roots
+TV/ Movies: Elvis Presley's real parents appeared in what movie*king creole
+TV/ Movies: Emmy awards: Helen Hunt has 4 best comedy actress honors, but she still has not caught whom*mary tyler moore
+TV/ Movies: Entertainment : 1984 murder in the military movie produced and directed by Norman Jewison*a soldiers story
+TV/ Movies: Entertainment : In Blazing Saddles, the most common name in Rock Ridge*johnson
+TV/ Movies: Entertainment : Mustached comedian who portrayed Frankie in North to Alaska*ernie kovacs
+TV/ Movies: Entertainment : Name of the computer in Wargames*wopr
+TV/ Movies: Entertainment : The McKenzie Brothers SCTV talk show*the great white north
+TV/ Movies: Famous Directors: Directed "Fury"*fritz lang
+TV/ Movies: Famous Directors: Directed "Gas, Food, Lodging"*allison anders
+TV/ Movies: Famous Directors: Directed "Platoon"*oliver stone
+TV/ Movies: Famous Directors: Directed "Silence of the Lambs"*jonathan demme
+TV/ Movies: Famous Directors: Directed "Terms of Endearment"*james l brooks
+TV/ Movies: Film Roles: Dr. Phibes*vincent price
+TV/ Movies: Film Roles: Inspector Clouseau*peter sellers
+TV/ Movies: Film Roles: Sherlock Holmes*basil rathbone
+TV/ Movies: Film Roles: The Bandit*burt reynolds
+TV/ Movies: Film Roles: The Great Santini*robert duvall
+TV/ Movies: Film Top Cops: Actress who was Arnold's partner in Kindergarten Cop*pamela reed
+TV/ Movies: Film Top Cops: Clever spoof series from the makers of _Airplane!_*the naked gun
+TV/ Movies: Film Top Cops: Connery played a salty cop aiding Eliot Ness in...*the untouchables
+TV/ Movies: Film Top Cops: Dreyfus & Estevez were on a...*stakeout
+TV/ Movies: Film Top Cops: Tom Hanks had a canine partner in...*turner hooch
+TV/ Movies: First name of private eye Mannix.*joe
+TV/ Movies: Get Smart: KAOS POW camp Gitche Gomee Noo-Nee Wah-wah is located in this state.*new jersey
+TV/ Movies: Get Smart: Said "Jawohl, Siegfried."*shtarker
+TV/ Movies: Get Smart: Smart's beautiful partner, later his wife.*99
+TV/ Movies: Get Smart: This actor plays Smart and also provides the voice of Inspector Gadget.*don adams
+TV/ Movies: Get Smart: This agent is stationed in a mailbox, couch, airport locker, trash can, etc.*13
+TV/ Movies: He is the voice of Charlie on Charlie's Angels*john forsythe
+TV/ Movies: He played Han Solo in the 'Star Wars' series*harrison ford
+TV/ Movies: He played the evil villain of "Dallas" (Actor's name).*larry hagman
+TV/ Movies: He stared in Magnum P.I.*tom selleck
+TV/ Movies: He wrote & directed 'Clockwork Orange'*stanley kubrick
+TV/ Movies: Hollywood: Barbra Streisand played Fanny Brice this many times in the movies.*2
+TV/ Movies: Hollywood: First member of the original Saturday Night Live to leave the show.*chevy chase
+TV/ Movies: Hollywood: He uttered the immortal lines, "I never drink--wine".*bela lugosi
+TV/ Movies: Hollywood: He was a circus acrobat before acting.*burt lancaster
+TV/ Movies: Hollywood: His last film was The Killers in 1964 before moving on to bigger things.*reagan
+TV/ Movies: Hollywood: Novelist who played Disney's TV hero Texas John Slaughter.*tom tryon
+TV/ Movies: Hollywood: Singer made his debut in The Jazz Singer.*neil diamond
+TV/ Movies: Hollywood: Star Trek star who played an extraterrestrial in Zombies of the Stratosphere.*nimoy
+TV/ Movies: Hollywood: The "King of the Miniseries" after doing Shogun and the Thorn Birds*richard chamberlain
+TV/ Movies: Hollywood: This tough guy starred in the porno "A Party at Kitty's and Studs"*sylvester stallone
+TV/ Movies: How many children do the Brady's have*six*6
+TV/ Movies: How many episodes were there in the original Star Trek series*seventy five*75
+TV/ Movies: How many 'Southpark' episodes have there been that Kenny didn't get killed*one*1
+TV/ Movies: In "Family Affair", what was Buffy's dolls name*mrs beasley
+TV/ Movies: In 1957 which actress recorded 'Tammy' from one of her films*debbie reynolds
+TV/ Movies: In 'Southpark', what is Chef obsessed with*sex
+TV/ Movies: In the film '101 Dalmatians', what animal is Sergeant Tibbs*cat
+TV/ Movies: In the film 'Hackers', how old was 'Zero_kool' when he was first arrested*eleven*11
+TV/ Movies: In the film 'Star Trek First Contact', when Picard shows Lilly she is orbiting earth, Australia & Papua New Guinea are clearly visible, but which country is missing*new zealand
+TV/ Movies: In the first part of 'Hard To Kill', what did Steven Seagal use to kill the mobster*credit card
+TV/ Movies: In the Lone Ranger, what was the name of Tonto's horse*scout
+TV/ Movies: In the original version of 'Romeo & Juliet', who played Juliet*olivia hussey
+TV/ Movies: In the recent Superman series, who played Lois Lane*teri hatcher
+TV/ Movies: In 'The Shining' what was the child's imaginary friend's name (the one who told him things that were going to happen)*tony
+TV/ Movies: In the soapie 'One Life To Live' who was Vicky's alter ego*nicky
+TV/ Movies: In the theme song from 'The Flintstones', what is the line after 'Let's ride with the family down the street'*through the courtesy of fred's two feet
+TV/ Movies: In the U K comedy series "The Benny Hill Show" what were the singers & dancers called*hill's angels
+TV/ Movies: In 'The Wizard Of Oz', what was Dorothy's dog's name*toto
+TV/ Movies: In 'The Wizard Of Oz', where did Dorothy live*kansas
+TV/ Movies: in 'The Wizard Of Oz', which character sang 'come out, come out, wherever you are*glinda
+TV/ Movies: In this series Christopher Connely and Jodie Foster played father and daughter.*paper moon
+TV/ Movies: In what 1967 film did Gene Hackman earn his first Oscar nomination*bonnie & clyde
+TV/ Movies: In what city does Fat Albert live*philadelphia
+TV/ Movies: In what film did Rick Moranis make his big screen debut*strange brew
+TV/ Movies: In what film were audiences treated to a flushing toilet for the first time*psycho
+TV/ Movies: Independent Films: 1989 black comedy starring Winona Ryder and featuring Shannen Doherty*heathers
+TV/ Movies: Independent Films: Co-star of "Saving Private Ryan" who also directed "The Brothers McMullen"*edward burns
+TV/ Movies: Independent Films: David Lynch's 1976 film filled with bizarre ideas and nightmare imagery*eraserhead
+TV/ Movies: Independent Films: Incredibly overweight Ricki Lake starred in this 1988 John Waters film*hairspray
+TV/ Movies: Independent Films: Infamous $7,000 film the director financed as a medical guinea pig*el mariachi
+TV/ Movies: James Bond: Actress who played May Day in A View to a Kill*grace jones
+TV/ Movies: James Bond: The last name of the villian in "Moonraker" was ____.*drax
+TV/ Movies: James Bond: This group sang the title theme for "View to a Kill".*duran duran
+TV/ Movies: James Bond: Who sang the theme for "You Only Live Twice"*nancy sinatra
+TV/ Movies: James Bond: Who will star as James Bond in the next 007 movie (1994)*pierce brosnan
+TV/ Movies: John Boy was a character in this series*the waltons
+TV/ Movies: Monty Python: He went on to direct "Time Bandits" and "Brazil"*terry gilliam
+TV/ Movies: Monty Python: The deformed knight had this many heads.*3
+TV/ Movies: Monty Python: The first knight to cross the bridge*lancelot
+TV/ Movies: Monty Python: The shape of the earth*banana
+TV/ Movies: Monty Python: This bird was dead, not just "stunned" or "pining for the fjords"*parrot
+TV/ Movies: Movie Actors: He starred in The Silence of the Lambs and Howard's End*anthony hopkins
+TV/ Movies: Movie Actors: He won an Oscar for Dr. Jekyll and Mr. Hyde*frederick march
+TV/ Movies: Movie Actors: Radio star who won a 1986 Oscar for Cocoon*don ameche
+TV/ Movies: Movie Actors: The heartthrob in Dirty Dancing and Ghost*patrick swayze
+TV/ Movies: Movie Actors: The leading man in Mrs. Miniver and Madame Curie*walter pidgeon
+TV/ Movies: Movie Bombs: A giant lizard terrorizes the Texas countryside; killed by a flaming car*giant gila monster
+TV/ Movies: Movie Bombs: A soldier is hit with radiation and grows 50 feet tall*the amazing colossal man
+TV/ Movies: Movie Bombs: A vacationing family is ensnared by a Satanic cult (truly evil!)*manos the hands of fate
+TV/ Movies: Movie Bombs: Bela Lugosi had top billing even though he died before filming on this began*plan 9 from outer space
+TV/ Movies: Movie Bombs: The best-known X-rated animated film*fritz the cat
+TV/ Movies: Movie Tag Lines: Frozen in the 60's...thawing spring '97, baby! Debonair. Defiant. Defrosted.*austin powers
+TV/ Movies: Movie Tag Lines: In space, no one can hear you scream.*alien
+TV/ Movies: Movie Tag Lines: It's nothing personal.*terminator 2
+TV/ Movies: Movie Tag Lines: Makes Ben Hur look like an Epic*monty python and the holy grail
+TV/ Movies: Movie Tag Lines: With love comes risk. With obsession comes...*damage
+TV/ Movies: Movie That Features: Al Pacino, Steven Bauer, Michelle Pfeiffer, and Mary E. Mastrantonio*scarface
+TV/ Movies: Movie That Features: Emma Thompson as "Beatrice"*much ado about nothing
+TV/ Movies: Movie That Features: Matthew Modine, Mercedes Ruehl, Dean Stockwell, and Michelle Pfeiffer*married to the mob
+TV/ Movies: Movie That Features: Mike Meyers as an English secret agent and an evil misbehaving world tyrant.*austin powers
+TV/ Movies: Movie That Features: Tom Berenger, Willem DaFoe, Charlie Sheen, and Francesco Quinn*platoon
+TV/ Movies: Movie titles: The ____ Worker (1962)*miracle
+TV/ Movies: Movie titles: The Three Faces Of ___*eve
+TV/ Movies: Movies: Anthony Perkins served aboard this type of vessel in "On the Beach."*submarine
+TV/ Movies: Movies: Bing Crosby received this type of Oscar for his role as Father Chuck O'Malley.*plaster
+TV/ Movies: Movies: Famous swinging character has been played by Pierce, Henry, and Barker.*tarzan
+TV/ Movies: Movies: Largest grossing film of 1993.*jurassic park
+TV/ Movies: Movies: The hospital in which the Doctor Kildare series was set.*blair general
+TV/ Movies: Movies: This actress said, "What are you gonna do Arrest me"*sharon stone
+TV/ Movies: Movies: This American played the lecherous Komarovsky in "Doctor Zhivago."*rod steiger
+TV/ Movies: Movies: This disney film introduced the song "Zip-a-dee-do-dah"*song of the south
+TV/ Movies: Movies: Western in which Gable said, "Why don't you jump in and get wet all over"*honky tonk
+TV/ Movies: Muppet Mania: Kermit wrote a guide to this decade*90s
+TV/ Movies: Muppet Mania: The name of the Elephant friend of Big Bird on 'Sesame Street'*mr snuffleupagus
+TV/ Movies: Muppet Mania: this is a bear's natural habitat (The Muppet movie)*studebaker
+TV/ Movies: Muppet Mania: This muppet was a piano playing dog*rowlf
+TV/ Movies: Muppet Mania: What is the name of Dr. Teeth's band*the electric mayhem
+TV/ Movies: Name one of the 2 girls that shared the flat with Robin in "Man About The House"*jo*chrissy
+TV/ Movies: Name the 3 daughters in "The Brady Bunch" (oldest to youngest)*marcia, jan & cindy
+TV/ Movies: Name the 3 sons in "The Brady Bunch" (oldest to youngest)*greg, peter & bobby
+TV/ Movies: Name the boat in the Love Boat*pacific princess
+TV/ Movies: Name the male actor in "Moonlighting"*bruce willis
+TV/ Movies: Name the male actor in "Remington Steele"*pierce brosnan
+TV/ Movies: Name the movie about life after death set in Chicago that revolved around several medical students with a death wish.*flatliners
+TV/ Movies: Name the top rated show of the 1977 78 season*laverne & shirley
+TV/ Movies: On 'Southpark' what usually happens to Kenny*he gets killed
+TV/ Movies: On the show 'Greenacres' what was 'Arnold Ziffel'*pig
+TV/ Movies: On what show was Ralph Malph*happy days
+TV/ Movies: On what show was 'The Ponderosa'*bonanza
+TV/ Movies: On which show did Gene Gene the dancing machine appear*the gong show
+TV/ Movies: On which show is there a butler named Lurch*the adams family
+TV/ Movies: Other than mistress, how was Kristin related to J.R. Ewing*sister in law
+TV/ Movies: Rocky Horror: How many minutes long is the movie version*100
+TV/ Movies: Rocky Horror: What is the name of the head transvestite*frank n. furter
+TV/ Movies: Rocky Horror: What was Janet's last name*weiss
+TV/ Movies: Rocky Horror: Where does Frank come from (full name)*transexual transylvania
+TV/ Movies: Ron Howard's directed his first film in 1977. What was it called*grand theft auto
+TV/ Movies: She has been nominated for best actress 12 times, winning only once (for 'Sophie's Choice')*meryl streep
+TV/ Movies: She played "Police Woman"*dickinson
+TV/ Movies: Simpsons Cartoon : Before Maggie's conception, Homer quit the Power Plant to work here.*barneys bowlarama
+TV/ Movies: Simpsons Cartoon : Homer works the night shift at this place to pay for Lisa's pony.*kwik-e-mart
+TV/ Movies: Simpsons Cartoon : How old are Bart and Lisa (# & #)*ten and eight
+TV/ Movies: Simpsons Cartoon : She is the voice of Lisa.*yeardley smith
+TV/ Movies: Simpsons Cartoon : This "Kramer vs. Kramer" star played Reverend Lovejoy's daughter Jessica.*meryl streep
+TV/ Movies: Simpsons: How much did it cost Milhouse to buy Bart's soul*$5
+TV/ Movies: Simpsons: How much does Homer charge for eternal happiness in his telemarketing scam*$1
+TV/ Movies: Simpsons: In the episode when Ned's house is destroyed, what does Bart reply to him after Ned says something mean to him*i am shocked & appalled*i am shocked
+TV/ Movies: Simpsons: In the opening credits, how many cars do the Simpsons have*two*2
+TV/ Movies: Simpsons: In which movie was Moe in*little rascals
+TV/ Movies: Simpsons: Milhouse was the movie sidekick of what comic book hero*radioactive man
+TV/ Movies: Simpsons: What concert does Homer take Bart & Lisa too*lollapalooza
+TV/ Movies: Simpsons: Who is the principal of the school Bart & Lisa attend*seymore skinner
+TV/ Movies: Simpsons: Who shot Mr. Burns*maggie
+TV/ Movies: Southpark: Who are floating above the South Park sign, during the opening credits*terrance & phillip
+TV/ Movies: Starfleet Commander Riker (Next Generation) plays what musical instrument*trombone
+TV/ Movies: Starwars Who is c3 po's sidekick*r2d2
+TV/ Movies: The ______ Of Oz*wizard
+TV/ Movies: The actor who played Captain Sisko in 'Star Trek Deep Space Nine', played ____ the 1970's series 'Spencer For Hire'*hawk
+TV/ Movies: The story about a king who prematurely divides his kingdom between his daughters is portrayed in which film*king lear
+TV/ Movies: The Swiss Family _______*robinson
+TV/ Movies: This 1983 series was cancelled and then renewed as a result of audience demand.*cagney and lacey
+TV/ Movies: This actor was a member of the sitcom, 'Night Court' & also narrated the gruesome 'Texas Chain Saw Massacre'*john larroquette
+TV/ Movies: This comedy drama focused on a family with eight children*eight is enough
+TV/ Movies: This comedy series won the best actor & best supporting actress Emmies in 1981 82*mash
+TV/ Movies: This muppet wears dark glasses & plays the saxophone*zoot
+TV/ Movies: This series was originally going to be called Oil*dynasty
+TV/ Movies: This show had two cousins named Luke & Bo*the dukes of hazzard
+TV/ Movies: Tramp was the name of what animal on the show My Three Sons*dog
+TV/ Movies: Trapper John, M.D. Was a spinoff from what show*mash
+TV/ Movies: Vinnie Barbarino, Boom Boom, Epstein, Horshack & Arnold are from what group*the sweathogs
+TV/ Movies: What 1960s show's original cast included Alan Reed, Jean Vander Pyl, Mel Blanc & Bea Benaderet*flintstones
+TV/ Movies: What 1977 movie featured a dog named Verdell*as good as it gets
+TV/ Movies: What accessories did Wonder Woman use to deflect bullets*golden bracelets
+TV/ Movies: What actress had made a million dollars by the age of 10*shirley temple
+TV/ Movies: What actress played Sean Connery's daughter in "The Presidio"*meg ryan
+TV/ Movies: What actress starred in "I.Q"*meg ryan
+TV/ Movies: What American show centred on the Cleaver family*leave it to beaver
+TV/ Movies: What are the names of Daisy Duck's nieces*april may june
+TV/ Movies: What are the names of Donald Duck's nephews*huey dewey & louey
+TV/ Movies: What bar did Archie Bunker buy*kelseys bar
+TV/ Movies: What boat had been wrecked resulting in the crew being marooned on Gilligans Island*minnow
+TV/ Movies: What car company sponsored, but opted not to run ads during a 195 minute broadcast of Schindler's List*ford motor Company*ford
+TV/ Movies: What car was used in 'Back To The Future'*de lorean
+TV/ Movies: What cartoon couple chose Las Venus for their second honeymoon*george & jane jetson
+TV/ Movies: What character did George Burns play in 'Oh, God'*god
+TV/ Movies: What character did Kate Jackson play in "Charlies Angels"*sabrina
+TV/ Movies: What character had a horse named Cochise*joe cartwright
+TV/ Movies: What city is home to Donald Duck*duckburg
+TV/ Movies: What country was the setting for 'The King & I'*siam
+TV/ Movies: What did Al Bundy do for a living in "Married With Children"*shoe salesman
+TV/ Movies: What Disney character shares his name with a planet*pluto
+TV/ Movies: What famous actor is listed only as 'Stud' in the credits for the 1970 film, 'Myra Breckinridge'*tom selleck
+TV/ Movies: What famous animal character called 'Skull Island' home*king kong
+TV/ Movies: What film featured a cat named Mr. Bigglesworth*austin powers
+TV/ Movies: What film found Bruce Willis at 'Flotsam Paradise'*fifth element
+TV/ Movies: What film is generally considered the worst film ever made*attack of the killer tomatoes
+TV/ Movies: What film starred Drew Barrymore, Mary Louise Parker, & Matthew McConaughney*boys on the side
+TV/ Movies: What is Batman's aircraft called*batplane
+TV/ Movies: What is Batman's car called*batmobile
+TV/ Movies: What is Donald Duck's middle name*fauntleroy
+TV/ Movies: What is E.T. famous for saying*e.t. phone home*e t phone home
+TV/ Movies: What is Mickey Mouse's dog's name*pluto
+TV/ Movies: What is the first word uttered in the movie Citizen Kane*rosebud
 TV/ Movies: Duke Slater was the best friend of this marine.*gomer pyle
 TV/ Movies: Ed Harris watches his wife,Mary Elizabeth Mastrantonio, drown to death.*the abyss
 TV/ Movies: Elvis how many songs were recorded for the movie "Follow That Dream"*seven*7
@@ -1679,20 +1679,20 @@ TV/ Movies: Family ties: who was alex p. Keaton's idol*ronald reagan
 TV/ Movies: Famous Gills: Actor who played Fish on "Barney Miller" and "Fish." (gill, fish ... get it)*abe vigoda
 TV/ Movies: Famous Gills: Name the Monty Python member who best fits this TV / Movies.*terry gilliam
 TV/ Movies: Famous Gills: Plays Agent Dana Sculley on the "X-Files."*gillian anderson
-TV/ Movies: Father mulcahy:  "_____, the lord moves in mysterious ways, but you take the cake". To whom was he referring*klinger
+TV/ Movies: Father mulcahy: "_____, the lord moves in mysterious ways, but you take the cake". To whom was he referring*klinger
 TV/ Movies: Features: "You can't handle the truth!"*a few good men
 TV/ Movies: Features: Darlanne Fluegel, Jimmy Smits, Gregory Hines, and Billy Crystal*running scared
 TV/ Movies: Features: Rutger Hauer, Sean Young, Harrison Ford, Edward James Olmos, and Joe Turkel*blade runner
 TV/ Movies: Features: Tom Skerritt, Ian Holm, Sigourney Weaver, and John Hurt*alien
 TV/ Movies: Features: Virginia Madsen, Peter O' Toole, Vincent Spano, and Muriel Hemingway*creator
 TV/ Movies: Film 101: French phrase referring to all the elements to be photographed -props,sets,etc.*mise-en-scene
-TV/ Movies: Film 101: One of the very first ethnographic films:  of the North.*nanook
+TV/ Movies: Film 101: One of the very first ethnographic films: of the North.*nanook
 TV/ Movies: Film 101: Silent films in Japan were narrated by live performers called .*benshi
 TV/ Movies: Film 101: The light-sensitive compound suspended in film stocks' emulsion (two words)*silver halide
 TV/ Movies: Film 101: TRUE or FALSE: Woody Allen is an overrated putz.*true
 TV/ Movies: Film Air: A definition of longevity: Oscar winner 48 years apart, in 1933 & 1981.*katharine hepburn
 TV/ Movies: Film Air: In "The Maltese Falcon," what was Peter Lorre's character named *joel cairo
-TV/ Movies: Film Air: Rod Steiger played the villain in which smash hit musical  (Yup, he sang, too.)*oklahoma
+TV/ Movies: Film Air: Rod Steiger played the villain in which smash hit musical (Yup, he sang, too.)*oklahoma
 TV/ Movies: Film Air: TV's first LIVE western series, "Action in the Afternoon," was produced where *philadelphia
 TV/ Movies: Film Air: What actor's torn white t-shirt caused a major stir in "Picnic" in 1957 *william holden
 TV/ Movies: Film Roles: Captain Blood*errol flynn
@@ -3219,73 +3219,73 @@ TV/ Movies: What country was the setting of You Only Live Twice*japan
 TV/ Movies: Who was the female star of West Side Story*natalie wood
 TV/ Movies: What film starring Jane Fonda has Duran Duran as the villian*barbarella
 TV/ Movies: What film ends with the line "After all tomorrow is another day"*gone with the wind
-TV/ Movies: 1995, This movie was released on  December 22 Dracula: ---------- *dead and loving it
-TV/ Movies: 1995, This movie was released on  December 22 Grumpier ---------- *old men
-TV/ Movies: 1995, This movie was released on  December 22 Sudden ---------- *death
-TV/ Movies: 1995, This movie was released on  December 20 ---------- *nixon
-TV/ Movies: 1995, This movie was released on  December 15 ---------- *jumanji
-TV/ Movies: 1995, This movie was released on  December 15 ---------- *heat
-TV/ Movies: 1995, This movie was released on  December 13 Sense and ---------- *sensibility
-TV/ Movies: 1995, This movie was released on  December 8 Father of the ---------- *bride - part ii
-TV/ Movies: 1995, This movie was released on  December 1 Wild ---------- *bill
-TV/ Movies: 1995, This movie was released on  December 1 White ---------- *man's burden
-TV/ Movies: 1995, This movie was released on  November 22 ---------- *casino
-TV/ Movies: 1995, This movie was released on  November 22 Money ---------- *train
-TV/ Movies: 1995, This movie was released on  November 22 Toy ---------- *story
-TV/ Movies: 1995, This movie was released on  November 17 It Takes ---------- *two
-TV/ Movies: 1995, This movie was released on  November 17 ---------- *goldeneye
-TV/ Movies: 1995, This movie was released on  November 17 The American ---------- *president
-TV/ Movies: 1995, This movie was released on  November 10 Ace Ventura: When ---------- *nature calls
-TV/ Movies: 1995, This movie was released on  October 27 Fair ---------- *game
-TV/ Movies: 1995, This movie was released on  October 20 ---------- *mallrats
-TV/ Movies: 1995, This movie was released on  October 13 Strange ---------- *days
-TV/ Movies: 1995, This movie was released on  October 13 ---------- *copycat
-TV/ Movies: 1995, This movie was released on  October 13 Les ---------- *miserables
-TV/ Movies: 1995, This movie was released on  October 6 ---------- *assassins
-TV/ Movies: 1995, This movie was released on  September 29 Moonlight & ---------- *valentino
-TV/ Movies: 1995, This movie was released on  September 29 Devil in a ---------- *blue dress
-TV/ Movies: 1995, This movie was released on  September 22 Unstrung ---------- *heroes
-TV/ Movies: 1995, This movie was released on  September 22 To ---------- *die for
-TV/ Movies: 1995, This movie was released on  September 22 ---------- *showgirls
-TV/ Movies: 1995, This movie was released on  September 22 ---------- *seven
-TV/ Movies: 1995, This movie was released on  September 22 The Run of ---------- *the country
-TV/ Movies: 1995, This movie was released on  September 22 Empire ---------- *records
-TV/ Movies: 1995, This movie was released on  September 15 The Stars Fell On ---------- *henrietta
-TV/ Movies: 1995, This movie was released on  September 15 ---------- *hackers
-TV/ Movies: 1995, This movie was released on  September 15 ---------- *angus
-TV/ Movies: 1995, This movie was released on  September 15 Canadian ---------- *bacon
-TV/ Movies: 1995, This movie was released on  September 8 ---------- *clockers
-TV/ Movies: 1995, This movie was released on  September 8 To Wong Foo, Thanks For Everything! ---------- *julie newmar
-TV/ Movies: 1995, This movie was released on  September 1 Magic in ---------- *the water
-TV/ Movies: 1995, This movie was released on  September 1 An Awfully ---------- *big adventure
-TV/ Movies: 1995, This movie was released on  September 1 The Usual ---------- *suspects
-TV/ Movies: 1995, This movie was released on  August 25 The ---------- *show
-TV/ Movies: 1995, This movie was released on  August 25 Lord Of ---------- *illusions
-TV/ Movies: 1995, This movie was released on  August 25 ---------- *desperado
-TV/ Movies: 1995, This movie was released on  August 25 Beyond ---------- *rangoon
-TV/ Movies: 1995, This movie was released on  August 25 The Amazing ---------- *panda adventure
-TV/ Movies: 1995, This movie was released on  August 18 Mortal ---------- *kombat
-TV/ Movies: 1995, This movie was released on  August 18 The Baby-Sitters ---------- *club
-TV/ Movies: 1995, This movie was released on  August 11 Dangerous ---------- *minds
-TV/ Movies: 1995, This movie was released on  August 11 A Walk in the ---------- *clouds
-TV/ Movies: 1995, This movie was released on  August 4 Something To ---------- *talk about
-TV/ Movies: 1995, This movie was released on  August 4 ---------- *bushwacked
-TV/ Movies: 1995, This movie was released on  August 4 ---------- *babe
-TV/ Movies: 1995, This movie was released on  July 28 ---------- *waterworld
-TV/ Movies: 1995, This movie was released on  July 28 The ---------- *net
-TV/ Movies: 1995, This movie was released on  July 28 Operation ---------- *dumbo drop
-TV/ Movies: 1995, This movie was released on  July 12 Nine ---------- *months
-TV/ Movies: 1995, This movie was released on  July 7 ---------- *species
-TV/ Movies: 1995, This movie was released on  July 7 First ---------- *knight
-TV/ Movies: 1995, This movie was released on  June 30 The Mystery of ---------- *rampo
-TV/ Movies: 1995, This movie was released on  June 30 Mighty Morphin ---------- *power rangers
-TV/ Movies: 1995, This movie was released on  June 30 Judge ---------- *dredd
-TV/ Movies: 1995, This movie was released on  June 23 ---------- *pocahontas
-TV/ Movies: 1995, This movie was released on  May 26 Johnny ---------- *mnemonic
-TV/ Movies: 1995, This movie was released on  May 26 ---------- *casper
-TV/ Movies: 1995, This movie was released on  May 19 The Perez ---------- *family
-TV/ Movies: 1995, This movie was released on  May 19 Die Hard With a ---------- *vengeance
-TV/ Movies: 1995, This movie was released on  May 5 French ---------- *kiss
+TV/ Movies: 1995, This movie was released on December 22 Dracula: ---------- *dead and loving it
+TV/ Movies: 1995, This movie was released on December 22 Grumpier ---------- *old men
+TV/ Movies: 1995, This movie was released on December 22 Sudden ---------- *death
+TV/ Movies: 1995, This movie was released on December 20 ---------- *nixon
+TV/ Movies: 1995, This movie was released on December 15 ---------- *jumanji
+TV/ Movies: 1995, This movie was released on December 15 ---------- *heat
+TV/ Movies: 1995, This movie was released on December 13 Sense and ---------- *sensibility
+TV/ Movies: 1995, This movie was released on December 8 Father of the ---------- *bride - part ii
+TV/ Movies: 1995, This movie was released on December 1 Wild ---------- *bill
+TV/ Movies: 1995, This movie was released on December 1 White ---------- *man's burden
+TV/ Movies: 1995, This movie was released on November 22 ---------- *casino
+TV/ Movies: 1995, This movie was released on November 22 Money ---------- *train
+TV/ Movies: 1995, This movie was released on November 22 Toy ---------- *story
+TV/ Movies: 1995, This movie was released on November 17 It Takes ---------- *two
+TV/ Movies: 1995, This movie was released on November 17 ---------- *goldeneye
+TV/ Movies: 1995, This movie was released on November 17 The American ---------- *president
+TV/ Movies: 1995, This movie was released on November 10 Ace Ventura: When ---------- *nature calls
+TV/ Movies: 1995, This movie was released on October 27 Fair ---------- *game
+TV/ Movies: 1995, This movie was released on October 20 ---------- *mallrats
+TV/ Movies: 1995, This movie was released on October 13 Strange ---------- *days
+TV/ Movies: 1995, This movie was released on October 13 ---------- *copycat
+TV/ Movies: 1995, This movie was released on October 13 Les ---------- *miserables
+TV/ Movies: 1995, This movie was released on October 6 ---------- *assassins
+TV/ Movies: 1995, This movie was released on September 29 Moonlight & ---------- *valentino
+TV/ Movies: 1995, This movie was released on September 29 Devil in a ---------- *blue dress
+TV/ Movies: 1995, This movie was released on September 22 Unstrung ---------- *heroes
+TV/ Movies: 1995, This movie was released on September 22 To ---------- *die for
+TV/ Movies: 1995, This movie was released on September 22 ---------- *showgirls
+TV/ Movies: 1995, This movie was released on September 22 ---------- *seven
+TV/ Movies: 1995, This movie was released on September 22 The Run of ---------- *the country
+TV/ Movies: 1995, This movie was released on September 22 Empire ---------- *records
+TV/ Movies: 1995, This movie was released on September 15 The Stars Fell On ---------- *henrietta
+TV/ Movies: 1995, This movie was released on September 15 ---------- *hackers
+TV/ Movies: 1995, This movie was released on September 15 ---------- *angus
+TV/ Movies: 1995, This movie was released on September 15 Canadian ---------- *bacon
+TV/ Movies: 1995, This movie was released on September 8 ---------- *clockers
+TV/ Movies: 1995, This movie was released on September 8 To Wong Foo, Thanks For Everything! ---------- *julie newmar
+TV/ Movies: 1995, This movie was released on September 1 Magic in ---------- *the water
+TV/ Movies: 1995, This movie was released on September 1 An Awfully ---------- *big adventure
+TV/ Movies: 1995, This movie was released on September 1 The Usual ---------- *suspects
+TV/ Movies: 1995, This movie was released on August 25 The ---------- *show
+TV/ Movies: 1995, This movie was released on August 25 Lord Of ---------- *illusions
+TV/ Movies: 1995, This movie was released on August 25 ---------- *desperado
+TV/ Movies: 1995, This movie was released on August 25 Beyond ---------- *rangoon
+TV/ Movies: 1995, This movie was released on August 25 The Amazing ---------- *panda adventure
+TV/ Movies: 1995, This movie was released on August 18 Mortal ---------- *kombat
+TV/ Movies: 1995, This movie was released on August 18 The Baby-Sitters ---------- *club
+TV/ Movies: 1995, This movie was released on August 11 Dangerous ---------- *minds
+TV/ Movies: 1995, This movie was released on August 11 A Walk in the ---------- *clouds
+TV/ Movies: 1995, This movie was released on August 4 Something To ---------- *talk about
+TV/ Movies: 1995, This movie was released on August 4 ---------- *bushwacked
+TV/ Movies: 1995, This movie was released on August 4 ---------- *babe
+TV/ Movies: 1995, This movie was released on July 28 ---------- *waterworld
+TV/ Movies: 1995, This movie was released on July 28 The ---------- *net
+TV/ Movies: 1995, This movie was released on July 28 Operation ---------- *dumbo drop
+TV/ Movies: 1995, This movie was released on July 12 Nine ---------- *months
+TV/ Movies: 1995, This movie was released on July 7 ---------- *species
+TV/ Movies: 1995, This movie was released on July 7 First ---------- *knight
+TV/ Movies: 1995, This movie was released on June 30 The Mystery of ---------- *rampo
+TV/ Movies: 1995, This movie was released on June 30 Mighty Morphin ---------- *power rangers
+TV/ Movies: 1995, This movie was released on June 30 Judge ---------- *dredd
+TV/ Movies: 1995, This movie was released on June 23 ---------- *pocahontas
+TV/ Movies: 1995, This movie was released on May 26 Johnny ---------- *mnemonic
+TV/ Movies: 1995, This movie was released on May 26 ---------- *casper
+TV/ Movies: 1995, This movie was released on May 19 The Perez ---------- *family
+TV/ Movies: 1995, This movie was released on May 19 Die Hard With a ---------- *vengeance
+TV/ Movies: 1995, This movie was released on May 5 French ---------- *kiss
 TV/ Movies: 1996, This movie was released on December 27 ---------- *hamlet
 TV/ Movies: 1996, This movie was released on December 27 The People Vs. ---------- *larry flynt
 TV/ Movies: 1996, This movie was released on December 27 Some Mother's ---------- *son

@@ -119,7 +119,7 @@ A foot-long ruler is ·· inches long*twelve*12
 Most men do this each morning, using a razor*shave
 Most people wear a watch on their ···· wrist*left
 Name the implement that removes water from your windshield on your car*wiper
-Traffic Trivia:  Red means stop, ····· means go*green
+Traffic Trivia: Red means stop, ····· means go*green
 What US state has the Worlds Champion Chili Cookoff every year*Texas
 What bit of Bobby Goldsboro syrup focused on a dying young wife*honey
 What did Sally Rogers always wear in her hair*a bow
@@ -218,7 +218,7 @@ In 1960 "---------- " premiers.*route 6
 In 1968 Motion Picture Association of America adopts film ---------- system.*rating
 In 1985 ---------- Space Shuttle Mission - Atlantis 1 returns to Earth.*21st
 In 1985 21st Space Shuttle Mission - ---------- returns to Earth.*atlantis 1
-In 1604 The supernova called "----------  nova" is first sighted.*kepler's
+In 1604 The supernova called "---------- nova" is first sighted.*kepler's
 In 1873 ---------- Hertzsprung, Danish astronomer (Hertzsprung-Russell diagram), born.*ejnar
 In 1873 Ejnar---------- , Danish astronomer (Hertzsprung-Russell diagram), born.*hertzsprung
 In 1873 Ejnar Hertzsprung, ---------- astronomer (Hertzsprung-Russell diagram), born.*danish
@@ -578,8 +578,8 @@ In 1492 ---------- sights the isle of San Salvador.*columbus
 In 1492 Columbus sights the isle of ----------*san salvador
 In 1793 ---------- executed.*marie antoinette
 In 1835 ---------- -Pieternella-Francoise Tinn, explored the White Nile, born.*alexandrine
-In 1835 Alexandrine-----------  -Francoise Tinn, explored the White Nile, born.*pieternella
-In 1835 Alexandrine-Pieternella-----------   Tinn, explored the White Nile, born.*francoise
+In 1835 Alexandrine----------- -Francoise Tinn, explored the White Nile, born.*pieternella
+In 1835 Alexandrine-Pieternella----------- Tinn, explored the White Nile, born.*francoise
 In 1835 Alexandrine-Pieternella-Francoise---------- , explored the White Nile, born.*tinn
 In 1835 Alexandrine-Pieternella-Francoise Tinn, explored the White---------- , born.*nile
 In 1887 ---------- Kirchoff, discoverer of the laws of spectroscopy, dies.*gustav
@@ -671,7 +671,7 @@ In 1951 Pam Dawber Detroit, actress (Mindy----------- ), born.*mork and mindy
 In 1956 ---------- Navratilova, Prague, Czech Republic, tennis champion (Wimbeldon 1989,79,82-87), born.*martina
 In 1956 Martina---------- , Prague, Czech Republic, tennis champion (Wimbeldon 1989,79,82-87), born.*navratilova
 In 1958 ---------- -Claude Van Damme, Belgium, actor (Kickboxer, No Retreat)*jean
-In 1958 Jean-----------  Van Damme, Belgium, actor (Kickboxer, No Retreat)*claude
+In 1958 Jean----------- Van Damme, Belgium, actor (Kickboxer, No Retreat)*claude
 In 1958 Jean-Claude---------- , Belgium, actor (Kickboxer, No Retreat)*van damme
 In 1958 Jean-Claude Van Damme, Belgium, actor (---------- , No Retreat)*kickboxer
 In 1958 Jean-Claude Van Damme, Belgium, actor (Kickboxer,---------- )*no retreat
@@ -816,7 +816,7 @@ In 1977 US recalls William Bowdler, ambassador to---------- .*south africa
 In 1984 ---------- Jones runs Chicago Marathon in world record 2 h 8 m 5 s.*steve
 In 1984 Steve ---------- runs Chicago Marathon in world record 2 h 8 m 5 s.*jones
 In 1797 ---------- -Jacques Garnerin makes the first parachute jump from a balloon (Paris, France).*andre
-In 1797 Andre-----------  Garnerin makes the first parachute jump from a balloon (Paris, France).*jacques
+In 1797 Andre----------- Garnerin makes the first parachute jump from a balloon (Paris, France).*jacques
 In 1797 Andre-Jacques ---------- makes the first parachute jump from a balloon (Paris, France).*garnerin
 In 1811 ---------- Liszt (in Hungary), Romantic composer, virtuoso pianist, born.*franz
 In 1811 Franz ---------- (in Hungary), Romantic composer, virtuoso pianist, born.*liszt

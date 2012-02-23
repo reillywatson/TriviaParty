@@ -1,7 +1,7 @@
 What is the fastest fish in the world*sailfish
 What is the first letter of the Russian alphabet*a
-What is the full name of the creator of "Jeeves &  Wooster"*pelham grenville wodehouse
-What is the general term used for various forms of insanity &  mental derangement*mental illness
+What is the full name of the creator of "Jeeves & Wooster"*pelham grenville wodehouse
+What is the general term used for various forms of insanity & mental derangement*mental illness
 What is the Greek version of the old testament called*the septuagent
 What is the largest body of fresh water in the world*lake superior
 What is the lightest known substance*hydrogen
@@ -9,9 +9,9 @@ What is the line frequency of the american power supply*60hz
 What is the literal translation of aardvark*earth pig
 What is the longest undammed river west of the Mississippi*yellowstone river
 What is the medical term for an eyeball shaped like a rugby ball*astigmatism
-What is the metal part of a lamp surrounding the bulb &  supporting the shade*harp
+What is the metal part of a lamp surrounding the bulb & supporting the shade*harp
 What is the most common atom in the universe*hydrogen
-What is the most extensively grown &  eaten food*wheat
+What is the most extensively grown & eaten food*wheat
 What is the most mountainous country in Europe*switzerland
 What is the most widely cultivated plant*wheat
 What is the name of the cartilage flap at the trachea which prevents food going down the wrong way*epiglottis
@@ -30,15 +30,15 @@ What is the only capital letter in the Roman alphabet with exactly one endpoint*
 What is the only country with a bible on its flag*dominican republic
 What is the only English word formed by the first three letters of the alphabet*cab
 What is the only New England state without a seacoast*vermont
-What is the part of the sole between the heel &  the ball of the foot*shank
+What is the part of the sole between the heel & the ball of the foot*shank
 What is the product for 'get that 'just brushed freshness' with it'*dentyne
 What is the real name of Tony Curtis*bernard schwartz
 What is the sfa associated with*football
 What is the state bird of West Virginia*cardinal
 What is the state capital of Texas*austin
-What is the study of prehistoric plants &  animals called*paleontology
+What is the study of prehistoric plants & animals called*paleontology
 What is the symbol for iron*fe
-What is the term for precipitation that has been polluted by sulfur dioxide &  nitrogen oxides*acid rain
+What is the term for precipitation that has been polluted by sulfur dioxide & nitrogen oxides*acid rain
 What is the third part of the 'Lord Of The Rings' trilogy*return of the king
 What is the universally accepted birthday of every race horse*january 1
 What is the wbc*world boxing council
@@ -831,7 +831,7 @@ The world's fastest reptile (21.7 mph) is a type of what*iguana
 The worlds first chocolate candy was produced in what year*1828
 The world's youngest parents were ___ & 9 years old.*eight
 The wwii air attack on the Ploesti oil field in Romania was known as*operation soapsuds
-The yo yo    both the toy & its name    originated where*philippines
+The yo yo both the toy & its name originated where*philippines
 The zeedonk is a cross between which two animals*zebra & donkey*
 There are 16 ______ in a cup*tablespoons
 There are 318,979,564,000 possible ways of playing just the first four moves on each side in a game of*chess
@@ -915,7 +915,7 @@ This word is used as the international radio distress call*mayday
 This world class model recently crashed in a helicopter*christie brinkley
 Thomas Savery & Thomas Newcomen invented the....*steam engine
 Thor is the god of thunder, Loki is the god of _____*mischief
-Three of the following U S Presidents appeared at one time or another on what's my line which one did not  Jimmy Carter, Gerald Ford, Ronald Reagan, George Bush*george bush
+Three of the following U S Presidents appeared at one time or another on what's my line which one did not Jimmy Carter, Gerald Ford, Ronald Reagan, George Bush*george bush
 Three under par on a hole of golf is called a(n) __________*albatross
 Three fourths of household _____ is used to flush the toilet & take baths & showers*water
 Throat, foxing, & platform are parts of a(n) ________*shoe
@@ -950,25 +950,25 @@ Two 747's collided here in 1977.*canary islands
 Two things grew on the little nut tree. A silver nutmeg & what else*golden pear
 Two under par on a hole of golf is called a(n) ________*eagle
 Type of Dodge also a snake*viper
-U S capitals   Alaska*juneau
-U S captials   Arizona*phoenix
-U S captials   Arkansas*little rock
-U S captials   Colorado*denver
-U S captials   Delaware*dover
-U S captials   Florida*tallahassee
-U S captials   Kentucky*frankfort
-U S captials   Louisiana*baton rouge
-U S captials   Maine*augusta
-U S captials   Maryland*annapolis
-U S captials   Montana*helena
-U S captials   Nebraska*lincoln
-U S captials   New Hampshire*concord
-U S captials   North Carolina*raleigh
-U S captials   Oregon*salem
-U S captials   Pennsylvania*harrisburg
-U S captials   Washington*olympia
-U S captials   Wisconsin*madison
-U S captials   Wyoming*cheyenne
+U S capitals Alaska*juneau
+U S captials Arizona*phoenix
+U S captials Arkansas*little rock
+U S captials Colorado*denver
+U S captials Delaware*dover
+U S captials Florida*tallahassee
+U S captials Kentucky*frankfort
+U S captials Louisiana*baton rouge
+U S captials Maine*augusta
+U S captials Maryland*annapolis
+U S captials Montana*helena
+U S captials Nebraska*lincoln
+U S captials New Hampshire*concord
+U S captials North Carolina*raleigh
+U S captials Oregon*salem
+U S captials Pennsylvania*harrisburg
+U S captials Washington*olympia
+U S captials Wisconsin*madison
+U S captials Wyoming*cheyenne
 U S president, Herbert C. _________*hoover
 U S President, John Quincy ________*adams
 U S President, Woodrow __________*wilson

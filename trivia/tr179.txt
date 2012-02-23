@@ -13,7 +13,7 @@ what is the name of the cat in the smurfs*azriel
 who was the leader of the good transformers*optimus prime
 what is the capital of macedonia*skopje
 how many mixtapes did funkmaster flex released*4
-what is the capital of bahamas*nassau      
+what is the capital of bahamas*nassau 
 what is the capital of botswana*gaborone
 what is the capital of brazil*brasilia
 what is the capital of gabon*libreville
@@ -104,7 +104,7 @@ what is the highest mountain in the alps*mont blanc
 what is the capital of portugal*lisbon
 what is the capital of spain*madrid
 what is the capital of sweden*stockholm
-how many days did woodstock run*3  
+how many days did woodstock run*3 
 what is the capital of switzerland*bern
 what has dna but is arguably not alive*virus
 what is the capital of turkey*ankara
@@ -133,7 +133,7 @@ who portrayed hot lips houlihan in the m-a-s-h movie*sally kellerman
 what fish is the fastest*sailfish
 in what country is the jutland peninsula located*denmark
 'flag day' is celebrated in canada on what date*february 15
-one word in this question is mispelled.  what is it's correct spelling  peptidoglycan, euphrates, cytokinesis, atrioventricular.*misspelled
+one word in this question is mispelled. what is it's correct spelling peptidoglycan, euphrates, cytokinesis, atrioventricular.*misspelled
 what invention was named for the 1926 ad 'zip, its open, zip, it's closed*zipper
 what country consists mainly of the jutland peninsula*denmark
 what word is used to describe extremely severe or oppressive measures*draconian
@@ -283,7 +283,7 @@ who set foot on the moon on july 20, 1969*neil armstrong
 in which city were the hanging garden*babylon
 what is the largest harbor in holland*rotterdam
 cynophobia is the fear of ____ ____ .*dogs
-which bob marley hit, recorded in london, took six years to reach the uk top-ten  (this song was later recorded by the group, boney m)*no woman no cry
+which bob marley hit, recorded in london, took six years to reach the uk top-ten (this song was later recorded by the group, boney m)*no woman no cry
 on what continent is kilimanjaro on*africa
 what country declared war to germany at the start of wwi*japan
 what is the oxidation state of any element in its standard state*0
@@ -304,7 +304,7 @@ in what year was the first gnu c++ compiler released to the public*1987
 a pugilist is a _________*boxer
 what boys name comes of the latin word for small*paul
 who are jeffrey hyman, thomas erdelyi, douglas colvin, mark bell, and john cummings*the ramones
-you see a lemur in it's natural habitat.  where are you*madagascar
+you see a lemur in it's natural habitat. where are you*madagascar
 what floor did lee harvey oswald allegedly shoot jfk from*sixth
 what is the country code to dial for belgium*0032
 who was called the hero of san juan hill*roosevelt
@@ -360,7 +360,7 @@ in what year did the us enter wwii*1941
 what is tattooed on popeye's arm*anchor
 who wrote 'the prince and the pauper'*mark twain
 what is the gift that is supposed to be given for a 55th wedding anniversary*emerald
-what is the oldest trophy competed for by professional athletes  in north america*stanley cup
+what is the oldest trophy competed for by professional athletes in north america*stanley cup
 what percentage of eligible voters voted in the 1988 u.s. presidential election*50
 which actor provided the voice of 'charlie' in the tv series 'charlie's angels'*john forsythe
 what us state has the most rainfall*hawaii
@@ -496,7 +496,7 @@ dutch football: which club plays in the stadium called 'de kuip'*feyenoord
 what's the capital of italy*rome
 what's the only u.s. state to end in the letter k*new york
 to find an 'atrium', you would need to look in what organ of your body*heart
-who is the current captain of the australian cricket team  (1999/2000)*steve waugh
+who is the current captain of the australian cricket team (1999/2000)*steve waugh
 what is the 2nd largest ocean*atlantic
 the second largest body in the solar system is _______*jupiter
 what deck of card contains the wheel of fortune and the lovers card*tarot
@@ -597,7 +597,7 @@ the fighting irish' is the nickname of what college football team*notre dame
 who 'walked on the wild side'*lou reed
 what does an ornithologist study*birds
 who won the 2001 ncaa mens' basketball championship*duke
-your car's engine has an anti-pollution device known as the pcv valve.  what do those letters stand for*positive crankcase ventilation
+your car's engine has an anti-pollution device known as the pcv valve. what do those letters stand for*positive crankcase ventilation
 altophobia is the fear of ____*heights
 what major city was the 1939 worlds fair held*new york city
 what business was the source of john d. rockefeller's fortune*oil
@@ -724,7 +724,7 @@ what was the last james bond movie to be released in the 80s*license to kill
 what river is the temple of karnak near*nile
 name the person from the game tomb raider*lara croft
 what town is the tv show 'gunsmoke' set in*dodge city
-iatrophobia is the fear of  ____*doctors
+iatrophobia is the fear of ____*doctors
 hippopotomonstrosesquippedaliophobia is the fear of ____*long words
 how many icons are there on the tool bar in mirc v5.02*22
 name the god of the beginning and the end*janus
@@ -744,7 +744,7 @@ what us state has the second longest coastline*florida
 which country adopted the world's first 'plastic currency' in 1988*australia
 what is another name of iris, that connects heaven and earth*rainbow
 fear of washing or bathing.is what kind of phobia*ablutophobia
-the word 'balloon' has two consecutive sets of repeating letters.  name a word that has three consecutive sets of repeating letters in it.*bookkeeper
+the word 'balloon' has two consecutive sets of repeating letters. name a word that has three consecutive sets of repeating letters in it.*bookkeeper
 how fast did the bus in the movie speed need to go in order not to blow up*50mph
 what is the capital of algeria*algiers
 megalophobia is the fear of ____*large things
@@ -795,7 +795,7 @@ which south american capital is the world's highest*la paz
 macrophobia is the fear of ____*long waits
 what animals are used playing polo*horses
 according to the world of astronomy, what was the 'big bang' responsible for creating*universe
-what hermann hesse  book gave its name to a rock group*steppenwolf
+what hermann hesse book gave its name to a rock group*steppenwolf
 what was the name of punky brewster's dog*brandon
 how many pins are used in skittles*9
 what game sometimes challenges you to double-in and double-out*darts

@@ -1,18 +1,18 @@
-Category:  70s: In 1973 he became Los Angeles' first black mayor*tom bradley
-Category:  70s: In 1974, this became the world's tallest building*sears tower
-Category:  70s: The first american to walk on the moon in the 70's*alan shepard
-Category:  70s: This singer starred in Clams on the Half Shell Review*bette midler
-Category:  70s: This war hero quit the Israeli cabinet in 1979*moshe dayan
-Category:  70s: This world leader died in Cairo in 1970*gamal abdel nasser
-Category:  80s: G.D. Searle & Co put this brand sweetener on the market in 1983*nutrasweet
-Category:  80s: In 1983, Anne Burford left her position as administrator of this agency*epa
-Category:  80s: Shot dead at the airport in Manila, in 1983*benigno aquino
-Category:  80s: This leader dozed off in a 1984 speech, leading to speculation of his health*chernenko
-Category:  Devils Dictionary: A large red organ thoughtfully provided by nature to be bilious with*liver
-Category:  Devils Dictionary: A malevolent literary device for cramping the growth of a language*dictionary
-Category:  Devils Dictionary: Able to pick with equal skill a right-hand pocket or a left*ambidextrous
-Category:  Devils Dictionary: One who in a perilous emergency thinks with his legs*coward
-Category:  Devils Dictionary: The most acceptable hypocrisy*politeness
+Category: 70s: In 1973 he became Los Angeles' first black mayor*tom bradley
+Category: 70s: In 1974, this became the world's tallest building*sears tower
+Category: 70s: The first american to walk on the moon in the 70's*alan shepard
+Category: 70s: This singer starred in Clams on the Half Shell Review*bette midler
+Category: 70s: This war hero quit the Israeli cabinet in 1979*moshe dayan
+Category: 70s: This world leader died in Cairo in 1970*gamal abdel nasser
+Category: 80s: G.D. Searle & Co put this brand sweetener on the market in 1983*nutrasweet
+Category: 80s: In 1983, Anne Burford left her position as administrator of this agency*epa
+Category: 80s: Shot dead at the airport in Manila, in 1983*benigno aquino
+Category: 80s: This leader dozed off in a 1984 speech, leading to speculation of his health*chernenko
+Category: Devils Dictionary: A large red organ thoughtfully provided by nature to be bilious with*liver
+Category: Devils Dictionary: A malevolent literary device for cramping the growth of a language*dictionary
+Category: Devils Dictionary: Able to pick with equal skill a right-hand pocket or a left*ambidextrous
+Category: Devils Dictionary: One who in a perilous emergency thinks with his legs*coward
+Category: Devils Dictionary: The most acceptable hypocrisy*politeness
 Category: This delightfully soft topping, care of your local bovine*cheese
 Category: Toys Games: Charles Darrow based his game upon the 1904 "The Landlord's Game"*monopoly
 Category: Toys Games: Klondike is the most popular form of this game*solitaire
@@ -188,7 +188,7 @@ Category: Generation X Toys: This popular card game's name is spanish for "one."
 Category: Generation X Toys: You inserted sticks into round blocks to build abstractions with these*tinker toys
 Category: Gilligans Island: What is the Professor's only concern about his most brilliant idea*if it will work
 Category: Grab Bag: Weekly Radio show taped in West Virginia*mountain stage
-Category: Grabbag:  Pronounced one way, it means majestic, another way, it means a month*august
+Category: Grabbag: Pronounced one way, it means majestic, another way, it means a month*august
 Category: Grabbag: New England state mentioned in a Mark Twain title, he also lived there*connecticut
 Category: Hitchhiker Guide: About the most massively useful thing a hitchhiker can have*towel
 Category: Hitchhiker Guide: Ford Prefect's home was a small planet somewhere in the vicinity of _______*betelgeuse
@@ -520,7 +520,7 @@ In 1856 Peter Henry---------- , 1st to promote photography as an independent art
 In 1888 Brazil abolishes---------- *slavery
 In 1907 Daphne du ---------- novelist (Rebecca, The Parasites), born*maurier
 In 1912 Royal Flying Corps established in---------- *england
-In 1913 1st ----------  engine aircraft built & flown (Igor Sikorsky-Russia)*four*4
+In 1913 1st ---------- engine aircraft built & flown (Igor Sikorsky-Russia)*four*4
 In 1931 Jim Jones, reverend, poisoned over 100 in---------- , born*guyana
 In 1941 Ritchie---------- , singer (Donna, La Bamba), born*valens
 In 1950 Peter---------- , rocker (Genesis-Against All Odds), born*gabriel
@@ -902,7 +902,7 @@ Name the port at the mouth of the River Seine*le havre
 What was the first day of the Roman month called*the calends
 Who wrote the classic novel' Anne of Green Gables'*l m montgomery
 Which actor portrayed head of Tommy Lee Jones department in the film Men In Black*rip torn
-The statue of which famous Englishman stands in the"Piazza of the  British Library*sir isaac newton
+The statue of which famous Englishman stands in the"Piazza of the British Library*sir isaac newton
 To what does the original term' cutty sark ' refer*short shift*chemise
 Who became' Chief Executive' of Pakistan in October 1999*general pervaiz musharraf
 Arlanda is the airport which serves which European city*stockholm

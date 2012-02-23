@@ -348,7 +348,7 @@ In 1714 Treaty of Baden-French retain---------- , Austria gets right bank of Rhi
 In 1714 Treaty of Baden-French retain Alsace, ---------- gets right bank of Rhine.*austria
 In 1714 Treaty of Baden-French retain Alsace, Austria gets right bank of---------- .*rhine
 In 1726 ---------- -Andre Philidor, France, chess champion/musician, born.*francois
-In 1726 Francois-----------  Philidor, France, chess champion/musician, born.*andre
+In 1726 Francois----------- Philidor, France, chess champion/musician, born.*andre
 In 1726 Francois-Andre---------- , France, chess champion/musician, born.*philidor
 In 1726 Francois-Andre Philidor, France, ---------- champion/musician, born.*chess
 In 1822 ---------- declares independence from Portugal (National Day).*brazil
@@ -503,7 +503,7 @@ In 1957 Siobhan Fahey rocker (---------- ), born.*bananarama
 In 1967 ---------- votes 12,138 to 44 to remain British.*gibraltar
 In 1967 Gibraltar votes ---------- to 44 to remain British.*12,138
 In 1974 ---------- -Bissau gains independence from Portugal.*guinea
-In 1974 Guinea-----------  gains independence from Portugal.*bissau
+In 1974 Guinea----------- gains independence from Portugal.*bissau
 In 1974 Guinea-Bissau gains independence from---------- .*portugal
 In 1989 ---------- begin their flight to the west (via Hungary and Czech).*east germans
 In 1989 East Germans begin their flight to the west (via ---------- and Czech).*hungary
@@ -642,7 +642,7 @@ In 1941 Oscar ---------- Sanchez, president of Costa Rica (1986- ) (Nobel 1987),
 In 1941 Oscar Arias---------- , president of Costa Rica (1986- ) (Nobel 1987), born.*sanchez
 In 1941 Oscar Arias Sanchez, president of ---------- (1986- ) (Nobel 1987), born.*costa rica
 In 1959 Soviet ---------- becomes first human-made object to crash on moon.*lunik 2
-In 1961 "----------  Where are You?" premieres.*car 54
+In 1961 "---------- Where are You?" premieres.*car 54
 In 1963 "---------- " premieres.*the outer limits
 In 1965 ---------- release "Yesterday."*beatles
 In 1965 Beatles release "---------- ."*yesterday
@@ -866,7 +866,7 @@ In 1949 ---------- (Leslie Hornby) (in England), model, actor (Blues Brothers), 
 In 1949 Twiggy (---------- Hornby) (in England), model, actor (Blues Brothers), born.*leslie
 In 1949 Twiggy (Leslie---------- ) (in England), model, actor (Blues Brothers), born.*hornby
 In 1970 "---------- " premiers.*mary tyler moore show
-In 1983 St Christopher-----------  gains independence from Britain (Nat'l Day).*nevis
+In 1983 St Christopher----------- gains independence from Britain (Nat'l Day).*nevis
 In 1519 ---------- starts first successful circumnavigation of the world.*magellan
 In 1833 ---------- Teodoro Moneta, Italian journalist (Nobel Peace Prize 1907) BORN*ernesto
 In 1833 Ernesto ---------- Moneta, Italian journalist (Nobel Peace Prize 1907) BORN*teodoro

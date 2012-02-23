@@ -1,23 +1,23 @@
-Barcelona 1992 Olympics: This countries medal tally was: 0  Gold, 2  Silver, 0  Bronze, 2 in Total*south africa
-Barcelona 1992 Olympics: This countries medal tally was: 0  Gold, 1  Silver, 1  Bronze, 2 in Total*israel
-Barcelona 1992 Olympics: This countries medal tally was: 0  Gold, 1  Silver, 1  Bronze, 2 in Total*yugoslavia
-Barcelona 1992 Olympics: This countries medal tally was: 0  Gold, 0  Silver, 2  Bronze, 2 in Total*slovenia
-Barcelona 1992 Olympics: This countries medal tally was: 1  Gold, 0  Silver, 0  Bronze, 1 in Total*switzerland
-Barcelona 1992 Olympics: This countries medal tally was: 0  Gold, 1  Silver, 0  Bronze, 1 in Total*mexico
-Barcelona 1992 Olympics: This countries medal tally was: 0  Gold, 1  Silver, 0  Bronze, 1 in Total*peru
-Barcelona 1992 Olympics: This countries medal tally was: 0  Gold, 1  Silver, 0  Bronze, 1 in Total*chinese taipei
-Barcelona 1992 Olympics: This countries medal tally was: 0  Gold, 0  Silver, 1  Bronze, 1 in Total*argentina
-Barcelona 1992 Olympics: This countries medal tally was: 0  Gold, 0  Silver, 1  Bronze, 1 in Total*bahamas
-Barcelona 1992 Olympics: This countries medal tally was: 0  Gold, 0  Silver, 1  Bronze, 1 in Total*colombia
-Barcelona 1992 Olympics: This countries medal tally was: 0  Gold, 0  Silver, 1  Bronze, 1 in Total*ghana
-Barcelona 1992 Olympics: This countries medal tally was: 0  Gold, 0  Silver, 1  Bronze, 1 in Total*malaysia
-Barcelona 1992 Olympics: This countries medal tally was: 0  Gold, 0  Silver, 1  Bronze, 1 in Total*mongolia
-Barcelona 1992 Olympics: This countries medal tally was: 0  Gold, 0  Silver, 1  Bronze, 1 in Total*pakistan
-Barcelona 1992 Olympics: This countries medal tally was: 0  Gold, 0  Silver, 1  Bronze, 1 in Total*philippines
-Barcelona 1992 Olympics: This countries medal tally was: 0  Gold, 0  Silver, 1  Bronze, 1 in Total*puerto rico
-Barcelona 1992 Olympics: This countries medal tally was: 0  Gold, 0  Silver, 1  Bronze, 1 in Total*qatar
-Barcelona 1992 Olympics: This countries medal tally was: 0  Gold, 0  Silver, 1  Bronze, 1 in Total*suriname
-Barcelona 1992 Olympics: This countries medal tally was: 0  Gold, 0  Silver, 1  Bronze, 1 in Total*thailand
+Barcelona 1992 Olympics: This countries medal tally was: 0 Gold, 2 Silver, 0 Bronze, 2 in Total*south africa
+Barcelona 1992 Olympics: This countries medal tally was: 0 Gold, 1 Silver, 1 Bronze, 2 in Total*israel
+Barcelona 1992 Olympics: This countries medal tally was: 0 Gold, 1 Silver, 1 Bronze, 2 in Total*yugoslavia
+Barcelona 1992 Olympics: This countries medal tally was: 0 Gold, 0 Silver, 2 Bronze, 2 in Total*slovenia
+Barcelona 1992 Olympics: This countries medal tally was: 1 Gold, 0 Silver, 0 Bronze, 1 in Total*switzerland
+Barcelona 1992 Olympics: This countries medal tally was: 0 Gold, 1 Silver, 0 Bronze, 1 in Total*mexico
+Barcelona 1992 Olympics: This countries medal tally was: 0 Gold, 1 Silver, 0 Bronze, 1 in Total*peru
+Barcelona 1992 Olympics: This countries medal tally was: 0 Gold, 1 Silver, 0 Bronze, 1 in Total*chinese taipei
+Barcelona 1992 Olympics: This countries medal tally was: 0 Gold, 0 Silver, 1 Bronze, 1 in Total*argentina
+Barcelona 1992 Olympics: This countries medal tally was: 0 Gold, 0 Silver, 1 Bronze, 1 in Total*bahamas
+Barcelona 1992 Olympics: This countries medal tally was: 0 Gold, 0 Silver, 1 Bronze, 1 in Total*colombia
+Barcelona 1992 Olympics: This countries medal tally was: 0 Gold, 0 Silver, 1 Bronze, 1 in Total*ghana
+Barcelona 1992 Olympics: This countries medal tally was: 0 Gold, 0 Silver, 1 Bronze, 1 in Total*malaysia
+Barcelona 1992 Olympics: This countries medal tally was: 0 Gold, 0 Silver, 1 Bronze, 1 in Total*mongolia
+Barcelona 1992 Olympics: This countries medal tally was: 0 Gold, 0 Silver, 1 Bronze, 1 in Total*pakistan
+Barcelona 1992 Olympics: This countries medal tally was: 0 Gold, 0 Silver, 1 Bronze, 1 in Total*philippines
+Barcelona 1992 Olympics: This countries medal tally was: 0 Gold, 0 Silver, 1 Bronze, 1 in Total*puerto rico
+Barcelona 1992 Olympics: This countries medal tally was: 0 Gold, 0 Silver, 1 Bronze, 1 in Total*qatar
+Barcelona 1992 Olympics: This countries medal tally was: 0 Gold, 0 Silver, 1 Bronze, 1 in Total*suriname
+Barcelona 1992 Olympics: This countries medal tally was: 0 Gold, 0 Silver, 1 Bronze, 1 in Total*thailand
 Seoul 1988 Olympics: This countries medal tally was: 55 Gold, 31 Silver, 46 Bronze, 132 in Total*ussr
 Seoul 1988 Olympics: This countries medal tally was: 37 Gold, 35 Silver, 30 Bronze, 102 in Total*east germany
 Seoul 1988 Olympics: This countries medal tally was: 36 Gold, 31 Silver, 27 Bronze, 94 in Total*united states

@@ -54,9 +54,9 @@ Category:Botany What fruit bear the latin name "citrus grandis"*grapefruit
 Category:Calendar How many days where there in 1976*three hundred and sixty six
 Category:Cartoon Trivia Alvin & Simon had a brother called ····.*Theodore
 Category:Cartoon Trivia An adventurous penguin named Tennessee Tuxedo had a sidekick named ·······*Chumley
-Category:Cartoon Trivia An alien creature in a funny hat has opposed both Bugs Bunny and Daffy Duck.  Where is he from*Mars
+Category:Cartoon Trivia An alien creature in a funny hat has opposed both Bugs Bunny and Daffy Duck. Where is he from*Mars
 Category:Cartoon Trivia An Andy Panda cartoon gave birth to a famous, cantankerous bird. Name him.*Woody Woodpecker
-Category:Cartoon Trivia Before Olive Oil met Popeye she was engaged to someone.  Who was he*Ham Gravy
+Category:Cartoon Trivia Before Olive Oil met Popeye she was engaged to someone. Who was he*Ham Gravy
 Category:Cartoon Trivia Benny and Cecil were at odds with whom*John
 Category:Cartoon Trivia Bugs always finds himself at the wrong end of a gun, usually toted by either Elmer Fudd or who*Yosemite Sam
 Category:Cartoon Trivia Casper the Friendly Ghost frolicked with which witch*Wendy
@@ -158,9 +158,9 @@ Category:Christmas Santa Claus reportedly lives at the ····· Pole.*north
 Category:Comic Strip Trivia What comic strip is set at Camp Swampy*Beetle Bailey
 Category:Computer Science That big square thing you're staring at right now is called a ·······*monitor
 Category:Computer Science The Internet Relay Chat Program, which normally connects to port 6667, is more commonly known as ···.*IRC
-Category:Definitions --isms:  Exalting one's country above all others.*nationalism
-Category:Definitions --isms:  The belief that there is no God.*atheism
-Category:Definitions --isms:  The theory that man cannot prove the existence of a god.*agnosticism
+Category:Definitions --isms: Exalting one's country above all others.*nationalism
+Category:Definitions --isms: The belief that there is no God.*atheism
+Category:Definitions --isms: The theory that man cannot prove the existence of a god.*agnosticism
 Category:Definitions -ism: The belief in the existence of a god or gods.*theism
 Category:Definitions -isms: A diseased condition resulting from the use of beverages such as whiskey.*alcoholism
 Category:Definitions -isms: A one-party system of government in which control is maintained by force and regimentation.*fascism
@@ -320,7 +320,7 @@ Category:Games In which sport or game are the terms: 'pin', 'fork', and 'skewer'
 Category:Games In which sport or game is the term "rook" used*chess
 Category:Games Name the only flexible murder weapon in the game of "Cluedo".*rope
 Category:Games Name the only woman suspect in the game of "Cluedo" who isn't married.*Miss Scarlett
-Category:Games These are the two highest valued letters in "Scrabble".  "Q" and ·····.*Z
+Category:Games These are the two highest valued letters in "Scrabble". "Q" and ·····.*Z
 Category:Games This ancient Chinese game is played with 156 small rectangular tiles.*mah jongg
 Category:Games This is the lowest ranking suit in Bridge.*clubs
 Category:Games This term denotes a chess move in which both the king and the rook are moved.*castling
@@ -498,8 +498,8 @@ Category:Geography This re-opened in 1975 after being closed for 8 years.*Suez C
 Category:Geography This section of Manhattan is noted for its Negro and Latin American residents.*Harlem
 Category:Geography To what country do the Faeroe Islands belong*Denmark
 Category:Geography To what country does the Gaza Strip belong*Egypt
-Category:Geography True Or False:  The Easter Bunny is from Easter Island.*false
-Category:Geography True Or False:  There are only virgins on the Virgin Islands.*false
+Category:Geography True Or False: The Easter Bunny is from Easter Island.*false
+Category:Geography True Or False: There are only virgins on the Virgin Islands.*false
 Category:Geography Under what river does the Holland Tunnel run*Hudson
 Category:Geography Warsaw is the capital of what country*Poland
 Category:Geography What American city is known as Little Havana*Miami
@@ -698,8 +698,8 @@ Category:History In which city were the Hanging Gardens*Babylon
 Category:History In which country did the Boxer Rebellion take place*China
 Category:History In which country was Adolf Hitler born*Austria
 Category:History In which country was the Rosetta Stone found*Egypt
-Category:History Israel occupied the Golan Heights.  Whose territory was it*Syria
-Category:History Israel occupied the West Bank.  It belonged to ·······.*Jordan
+Category:History Israel occupied the Golan Heights. Whose territory was it*Syria
+Category:History Israel occupied the West Bank. It belonged to ·······.*Jordan
 Category:History John F. Kennedy Airport in New York used to be called ··········.*Idlewind
 Category:History Mussolini invaded this country in 1935.*Ethiopia
 Category:History Name Jacques Cousteau's research ship.*Calypso
@@ -779,9 +779,9 @@ Category:History Who was the first chancellor of West Germany after WW II*Konrad
 Category:History Who was the second man to set foot on the moon*Edwin "Buzz" Aldrin
 Category:History Who was, "First in war, first in peace and first in the hearts of his countrymen"*George Washington
 Category:IRC What three letters are overly used to indicate "Laugh Out Loud"*lol
-Category:Langauge Many Meanings:  Fuel, vapor, flattulence, helium.  What is it*gas
-Category:Language Multiple Meanings:  Drinking utensils or sight-enhancers.*glasses
-Category:Language Multiple Meanings:  Slamming your hands together quickly, or a venereal disease.*clap
+Category:Langauge Many Meanings: Fuel, vapor, flattulence, helium. What is it*gas
+Category:Language Multiple Meanings: Drinking utensils or sight-enhancers.*glasses
+Category:Language Multiple Meanings: Slamming your hands together quickly, or a venereal disease.*clap
 Category:Language Name the soda that is often confused with a drug.*Coke
 Category:Language Subject, verb and object are parts of a ·········.*sentence
 Category:Language This animal is found at the beginning of an (English) encyclopedia*aardvark
@@ -818,7 +818,7 @@ Category:Literature What Shakespearean play features the line: A plague on both 
 Category:Literature What was the name of Mother Goose's son*Jack
 Category:Literature What's Penthouse's sister publication for women*Viva
 Category:Litterature Homer wrote this account of the Trojan War.*Iliad
-Category:Logic You are in a room where all walls face south.  A bear walks by.  What color is it*White
+Category:Logic You are in a room where all walls face south. A bear walks by. What color is it*White
 Category:Mathematics A line drawn from an angle of a triangle to the mid-point of the opposite side is a(n) ·······.*median
 Category:Mathematics A triangle with three equal sides is called ·······.*equilateral
 Category:Mathematics A triangle with two equal sides is called ··········.*isosceles
@@ -908,7 +908,7 @@ Category:Movie Trivia Actor: ········ Hackman.*Gene
 Category:Movie Trivia Actor: ·········· Nimoy.*Leonard
 Category:Movie Trivia Actor: ·········· Savalas.*Telly
 Category:Movie Trivia At the end of "Planet of the Apes" what protruded from the rocks*Statue of Liberty
-Category:Movie Trivia Barbara Streisand was the female lead in "Hello, Dolly".  Who was the male lead*Walter Matthau
+Category:Movie Trivia Barbara Streisand was the female lead in "Hello, Dolly". Who was the male lead*Walter Matthau
 Category:Movie Trivia Charles Laughton played Quasimodo in this epic film.*Hunchback of Notre Dame
 Category:Movie Trivia Darth Vader was the villan in the movie, "···· Wars".*Star
 Category:Movie Trivia Film Title: An Officer and a(n) ·········.*Gentleman
@@ -1025,7 +1025,7 @@ Category:Music Besides "Auld Lang Syne" and "For He's a Jolly Good Fellow", what
 Category:Music Fifties rock "n" roll was revived by what greased hair, T-shirted, TV frequenting group*Sha Na Na
 Category:Music Jerry Lee Lewis had Great ····· Of Fire.*balls!
 Category:Music Name Jerry Garcia's long lived group.*The Grateful Dead
-Category:Music The Who's rock musical stars Elton John.  It's called ········.*Tommy
+Category:Music The Who's rock musical stars Elton John. It's called ········.*Tommy
 Category:Music This was the Beatle's first film.*A Hard Day's Night
 Category:Music Through 1963 this duo's total record sales exceeded 18 million with successes including "Cathy's Clown" and "Wake Up Little Suzie".*The Everly Brothers
 Category:Music What band recorded the 1978 hit album: "Briefcase Full of Blues"*The Blues Brothers
@@ -1070,7 +1070,7 @@ Category:Nature An animal is a bird if it has ·······.*feathers
 Category:Nature An animal is a fish if it has ·········.*gills
 Category:Nature Corolla, filament and stigma are parts of a(n) ·········.*flower
 Category:Nature Dense sea-water swamps along coasts of hot countries are called ········.*mangroves
-Category:Nature Dogs bark.  What do donkeys do*bray
+Category:Nature Dogs bark. What do donkeys do*bray
 Category:Nature Excluding man, what is the longest-lived land mammal*elephant
 Category:Nature Fandible, lateral line, and dorsal fin are parts of a(n) ········.*fish
 Category:Nature From what animal is "ambergis" obtained*sperm whale
@@ -1094,7 +1094,7 @@ Category:Nature Name the slowest moving land mammal.*sloth
 Category:Nature Name the smallest breed of dog.*chihuahua
 Category:Nature Name the wild dogs of Australia.*dingo
 Category:Nature Paper is made from the pulp of ·····.*wood
-Category:Nature Snakes are reptiles.  What are frogs*amphibians
+Category:Nature Snakes are reptiles. What are frogs*amphibians
 Category:Nature Some animals spend the winter in a sleep-like state known as ·········.*hibernation
 Category:Nature The "canebrake", "timber" and "pygmy" are types of what*rattlesnake
 Category:Nature The fins of which fish are made into a soup*shark
@@ -1165,7 +1165,7 @@ Category:Physics Two 1.5 volt batteries, when connected in series, produces _ vo
 Category:Physics Water freezes at _ degrees Celcius.*zero*0
 Category:Physics Water freezes at ·· degrees Fahrenheit.*thirty two*32
 Category:Physics What is measured by a Geiger counter*radioactivity
-Category:Physics When light waves pass from one medium into another they change direction.  This is called ·········.*refraction
+Category:Physics When light waves pass from one medium into another they change direction. This is called ·········.*refraction
 Category:Physics Work done, equals force multiplied by ········.*distance
 Category:Politics For what does O.P.E.C. stand*The Organization of Petroleum Exporting Countries
 Category:Politics He was elected President of France, in 1981.*Francios Mitterrand
@@ -1374,7 +1374,7 @@ Category:Trivia A foot-long ruler is ·· inches long.*twelve*12
 Category:Trivia Most men do this each morning, using a razor.*shave
 Category:Trivia Most people wear a watch on their ···· wrist.*left
 Category:Trivia Name the implement that removes water from your windshield on your car*wiper
-Category:Trivia Traffic Trivia:  Red means stop, ····· means go.*green
+Category:Trivia Traffic Trivia: Red means stop, ····· means go.*green
 Category:Trivia What bit of Bobby Goldsboro syrup focused on a dying young wife*honey
 Category:Trivia What did Sally Rogers always wear in her hair*a bow
 Category:Trivia What does the typical American eat 263 of each year not pizza!!*eggs

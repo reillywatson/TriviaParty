@@ -596,7 +596,7 @@ Music : Female Vocalists:The only constant member of the Supremes from 1960-1978
 Music : Female Vocalists:This singer renounced her US citizenship in 1937 to become French.*josephine baker
 Music : Female Vocalists:This woman had a solo single that spent 9 weeks of 1981 at #1.*kim carnes
 Music : Fifties rock "n" roll was revived by what greased hair, t shirted, tv frequenting group*sha na na
-Music : Fill in the blank:  "it's a real beauty, a ______ cutie"*mexican
+Music : Fill in the blank: "it's a real beauty, a ______ cutie"*mexican
 Music : Fill in the Blank: "After the ____ ____"*gold rush
 Music : Fill in the blank: "I am the ______ ____, I can do anything."*lizard king
 Music : Final nation listed in the nation song...*sudan
@@ -677,7 +677,7 @@ Music : Gee Music : Architecht of Bebop who outlived his contemporary C Parker b
 Music : Gee Music : Elevator music maker who had a hit with "songbird" *kenny g
 Music : Gee Music : Ramones motto "_____ _____ hey!" *gabba gabba
 Music : Gee Music : Singer of the Boomtown Rats, he played "Pink" in "the Wall" *bob geldof
-Music : Gee Music : Theyve got the beat, theyve got the beat, yeah, theyve got it!!!  *the go-gos
+Music : Gee Music : Theyve got the beat, theyve got the beat, yeah, theyve got it!!! *the go-gos
 Music : Gender-bending singer on "The Crying Game" and with the Culture Club.*boy george
 Music : Genesis first album without Peter Gabriel *trick of the tail
 Music : Genesis:"Fading Lights" was written about the death of this rock guitarist's son.*eric clapton
@@ -720,7 +720,7 @@ Music : Group with album _Head Games*foreigner
 Music : Group with album _Nursery Cryme*genesis
 Music : Group: Richard Thompson, Sandy Denny, Simon Nicol... *fairport convention
 Music : Group's live album "Exit Stage Left" includes "YYZ" and an awesome drum solo.*rush
-Music : Groups:  _____ Trick*cheap
+Music : Groups: _____ Trick*cheap
 Music : Grunge Singles: As a friend, as an old enemy*come as you are
 Music : Grunge Singles: Daddy didn't give attention...*jeremy
 Music : Grunge Singles: Down, down, down you're rollin'*we die young
@@ -739,7 +739,7 @@ Music : Guitar: What is a plectrum*pick
 Music : Guitar: What is a two-coil, counterwound pickup called *humbucker
 Music : Guitar: What is the fifth of A *e
 Music : Guitar: What is this type of chord commonly known as - "E5"*power
-Music : Guitar: Which of these chords is usually barred  "E" "D" "B" "A"*b
+Music : Guitar: Which of these chords is usually barred "E" "D" "B" "A"*b
 Music : Guitar: Who is the famous bass guitarist for the band Primus *les Claypool
 Music : Guitarist & singer with the Minutemen*d boone
 Music : Guitarist Eric Clapton was formerly a member of this group*cream
@@ -3280,7 +3280,7 @@ Name the artist/band: Respectable*mel & kim
 Name the artist/band: Love In The First Degree*bananarama
 Name the artist/band: Everything I Own*boy george
 Name the artist/band: Wonderful Life*black
-Name the artist/band: (Something  Inside) So Strong*labi siffre
+Name the artist/band: (Something Inside) So Strong*labi siffre
 Name the artist/band: China In Your Hand*t'pau
 Name the artist/band: Alone*heart
 Name the artist/band: Is This Love*whitesnake
@@ -3302,21 +3302,21 @@ Name the artist/band: Sun Is Shining*bob marley vs funkstar de luxe
 Name the artist/band: Not Over You Yet*diana ross
 Name the artist/band: When The Heartache Is Over*tina turner
 Name the artist/band: Canned Heat*jamiroquai
-Music Term: - Equivalent of four quarter notes (in 4  /  4 time, 4 beats).*whole note
+Music Term: - Equivalent of four quarter notes (in 4 / 4 time, 4 beats).*whole note
 Music Term: - (I) The interval consisting of two semitones (e.g. C to D).*whole tone
-Music Term:  (Ger.) - Cradle song.*wiegenlied
-Music Term:  (Ger.) - Heavy, weighty.*wuchtig
-Music Term:  (Ger.) - Tender.*zart
-Music Term:  (Ger.) - tenderness.*Zarthcit
-Music Term:  (Ger.) - tenderly.*Zartlich
-Music Term:  (Sp.) - Spanish traditional stage entertainment with satirical spoken dialogue.*zaruela
-Music Term:  (Ger.) - Tempo. *zeitmass
-Music Term:  (Ger.) - Rather.*ziemlich
-Music Term:  (Ger.) - Rather slow.*ziemlich langsam
-Music Term:  (It.) - In the style of gypsy music.*zingarese*alla
-Music Term:  (It., 'limp') - Term describes music with a prominent Scotch snap or syncopation.*zoppa
-Music Term:  (Ger.) - Holding back, slowing down.*zuruckhaltend
-Music Term:  (Ger.) - An interlude or episode (e.g. in a fugue or rondo). *zwischenspiel
+Music Term: (Ger.) - Cradle song.*wiegenlied
+Music Term: (Ger.) - Heavy, weighty.*wuchtig
+Music Term: (Ger.) - Tender.*zart
+Music Term: (Ger.) - tenderness.*Zarthcit
+Music Term: (Ger.) - tenderly.*Zartlich
+Music Term: (Sp.) - Spanish traditional stage entertainment with satirical spoken dialogue.*zaruela
+Music Term: (Ger.) - Tempo. *zeitmass
+Music Term: (Ger.) - Rather.*ziemlich
+Music Term: (Ger.) - Rather slow.*ziemlich langsam
+Music Term: (It.) - In the style of gypsy music.*zingarese*alla
+Music Term: (It., 'limp') - Term describes music with a prominent Scotch snap or syncopation.*zoppa
+Music Term: (Ger.) - Holding back, slowing down.*zuruckhaltend
+Music Term: (Ger.) - An interlude or episode (e.g. in a fugue or rondo). *zwischenspiel
 Name the artist/band: Where The Streets Have No Name*u2
 Name the artist/band: Heaven Is A Place On Earth*belinda carlisle
 Name the artist/band: La Bamba*los lobos
@@ -3336,7 +3336,7 @@ Name the artist/band: Respectable*mel & kim
 Name the artist/band: Love In The First Degree*bananarama
 Name the artist/band: Everything I Own*boy george
 Name the artist/band: Wonderful Life*black
-Name the artist/band: (Something  Inside) So Strong*labi siffre
+Name the artist/band: (Something Inside) So Strong*labi siffre
 Name the artist/band: China In Your Hand*t'pau
 Name the artist/band: Alone*heart
 Name the artist/band: Is This Love*whitesnake
@@ -3562,6 +3562,6 @@ Who is Elton John lyrics writer*bernie taupin
 Who sang in duo with Elton John, "Don't go breaking ny heart" in 1976*kiki dee
 What was Elton John's father's job*royal air force pilot
 What is the only Elton John disco music album*victim of love
-In the Elton John's song "Captain Fantastic & the Brown Dirt Cowboy",  Elton John is the Captain, who is the Cowboy*bernie taupin
+In the Elton John's song "Captain Fantastic & the Brown Dirt Cowboy", Elton John is the Captain, who is the Cowboy*bernie taupin
 Through which music magazine did Elton John meet his song writer Bernie Taupin*new musical express
 Music : Category: Punny Cat: This 70's/80's band isn't the Air National Guard. They're just all out of love.*air supply

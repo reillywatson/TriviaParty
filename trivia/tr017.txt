@@ -87,7 +87,7 @@ In 40 Gnaeus Julius Agricola Roman general; conquered ---------- and Northern En
 In 40 Gnaeus Julius Agricola Roman general; conquered Wales and Northern---------- , born. *england
 In 823 ---------- (the Bald) king of France (843-77), emperor (875-77), born. *charles ii
 In 823 Charles II (the Bald) king of ---------- (843-77), emperor (875-77), born. *france
-In 1373 Anglo-----------  Treaty of Alliance (world's oldest) signed. *portuguese
+In 1373 Anglo----------- Treaty of Alliance (world's oldest) signed. *portuguese
 In 1752 Fanny---------- , England, author (Camille, Evelina), born. *burney
 In 1773 Thomas ---------- proponent of the wave theory of light, born. *young
 In 1863 Samuel ---------- publishes 1st part of "Erewhon", Christchurch, N.Z.. *butler
@@ -520,7 +520,7 @@ In 1925 Bill ---------- Mich, (andthe Comets-Rock Around the Clock), born. *hale
 In 1925 Bill Haley Mich, (andthe ---------- -Rock Around the Clock), born. *comets
 In 1945 ---------- becomes 1st nation to formally accept UN Charter. *nicaragua
 In 1945 Burt ---------- LA Calif, actor (Robin-Batman T.V. Show), born. *ward
-In 1945 Burt Ward LA Calif, actor (Robin-----------  T.V. Show), born. *batman
+In 1945 Burt Ward LA Calif, actor (Robin----------- T.V. Show), born. *batman
 In 1946 Sylvester ---------- NYC, actor/director (Rocky, Rambo, Cobra), born. *stallone
 In 1946 Sylvester Stallone NYC, actor/director (---------- , Rambo, Cobra), born. *rocky
 In 1946 Sylvester Stallone NYC, actor/director (Rocky, ---------- , Cobra), born. *rambo
@@ -561,14 +561,14 @@ In 1709 Battle of Poltava; ---------- defeat Swedes. *russians
 In 1709 Battle of Poltava; Russians defeat---------- . *swedes
 In 1776 Col. John ---------- gave first public reading of American Decleration of Independence. *nixon
 In 1889 John L. ---------- wins by KO in 75 rounds in last bareknuckle bout. *sullivan
-In 1889 Vol 1, No 1, of "----------  Journal" published. *the wall street
+In 1889 Vol 1, No 1, of "---------- Journal" published. *the wall street
 In 1907 Florenz ---------- staged first `Follies' on the roof of the NY Theater. *ziegfeld
 In 1950 Leroy ---------- awarded first Order of Purple Heart in Korea. *deans
 In 1959 Maj. Dale R. ---------- and Master Sgt. Chester M. Ovnand first American soldiers to be killed during the Vietnam War. *buis
 In 1959 Maj. Dale R. Buis and Master Sgt. Chester M. ---------- first American soldiers to be killed during the Vietnam War. *ovnand
 In 1959 Maj. Dale R. Buis and Master Sgt. Chester M. Ovnand first American soldiers to be killed during the ---------- War. *vietnam
 In 1977 Sabra ---------- finishes longest recorded belly dance (100 hrs). *starr
-In 1978 Pioneer-----------  Multi-probe launched to Venus. *venus 2
+In 1978 Pioneer----------- Multi-probe launched to Venus. *venus 2
 In 1978 Pioneer-Venus 2 Multi-probe launched to---------- . *venus
 In 1540 England's King ---------- 6-month marriage to Anne of Cleves annulled. *henry viii
 In 1540 England's King Henry VIII 6-month marriage to ---------- of Cleves annulled. *anne
@@ -665,7 +665,7 @@ In 1543 England's King Henry VIII weds Catherine ---------- (6th and last wife).
 In 1689 Orangeman's Day -- Battle of the---------- , Protestant victory in Ireland. *boyne
 In 1689 Orangeman's Day -- Battle of the Boyne, ---------- victory in Ireland. *protestant
 In 1730 Josiah---------- , English pottery designer, manufacturer born*wedgewood
-In 1895 Oscar---------- , lyricist, born  who worked with Richard Rodgers *hammerstein ii
+In 1895 Oscar---------- , lyricist, born who worked with Richard Rodgers *hammerstein ii
 In 1928 First televised ---------- match. *tennis
 In 1937 Dr. William---------- , comedian, actor born*cosby
 In 1960---------- , first passive satellite launched. *echo i
@@ -753,7 +753,7 @@ In 1872 Roald---------- , Norwegian explorer, discoverer of South Pole born*amun
 In 1872 Roald Amundsen, Norwegian explorer, discoverer of ---------- born*south pole
 In 1888 ---------- Zernike, inventor of phase-contrast microscope (Nobel 1953) *frits
 In 1888 Frits---------- , inventor of phase-contrast microscope (Nobel 1953) *zernike
-In 1888 Frits Zernike, inventor of phase-----------  microscope (Nobel 1953) *contrast
+In 1888 Frits Zernike, inventor of phase----------- microscope (Nobel 1953) *contrast
 In 1888 Frits Zernike, inventor of phase-contrast ---------- (Nobel 1953) *microscope
 In 1896 ---------- Lie, first Secretary-General of UN (1946-52) *trygve
 In 1907 Barbara---------- , actor born*stanwyck
@@ -1220,7 +1220,7 @@ In 1578 Battle of Alcazarquivir, ---------- defeat Portugese. *morrocans
 In 1578 Battle of Alcazarquivir, Morrocans defeat---------- . *portugese
 In 1693 ---------- invents champagne. *dom perignon
 In 1755 ---------- -Jacque Conte inventor (modern pencil), born. *nicolas
-In 1755 Nicolas-----------  Conte inventor (modern pencil), born. *jacque
+In 1755 Nicolas----------- Conte inventor (modern pencil), born. *jacque
 In 1755 Nicolas-Jacque ---------- inventor (modern pencil), born. *conte
 In 1792 ---------- Bysshe Shelley England, romantic poet (Adonais), born. *percy
 In 1792 Percy ---------- Shelley England, romantic poet (Adonais), born. *bysshe
@@ -1257,7 +1257,7 @@ In 1930 Neil---------- , X-15 pilot, first moonwalker (Gemini 8, Apollo 11), bor
 In 1941 ---------- D. Kizim, Soviet cosmonaut (Soyuz T-3, T-10, T-15), born. *leonid
 In 1941 Leonid D.---------- , Soviet cosmonaut (Soyuz T-3, T-10, T-15), born. *kizim
 In 1945 Atom Bomb dropped on ---------- by the 'Enola Gay' (Pacific Time). *hiroshima
-In 1945 Atom Bomb dropped on Hiroshima by the '----------  (Pacific Time). *enola gay
+In 1945 Atom Bomb dropped on Hiroshima by the '---------- (Pacific Time). *enola gay
 In 1945 ---------- dropped on Hiroshima by the 'Enola Gay' (Pacific Time). *atom bomb
 In 1962 ---------- Monroe dies at age 36. *marilyn
 In 1962 Marilyn ---------- dies at age 36. *monroe
@@ -1380,7 +1380,7 @@ In 1776 Amedeo---------- , made famous by picking 6.022 x 10 ^ 23 *avogadro
 In 1778 Capt. ---------- passes through Bering Strait. *cook
 In 1778 Capt. Cook passes through ---------- Strait. *bering
 In 1842 The US-Canada border defined by the ---------- -Ashburton Treaty. *webster
-In 1842 The US-Canada border defined by the Webster-----------  Treaty. *ashburton
+In 1842 The US-Canada border defined by the Webster----------- Treaty. *ashburton
 In 1849 ---------- Republic crushed by Austria and Russia. *hungarian
 In 1849 Hungarian Republic crushed by ---------- and Russia. *austria
 In 1849 Hungarian Republic crushed by Austria and---------- . *russia
@@ -1439,8 +1439,8 @@ In 1519 ---------- 's ship set sail to circumnavigate the Earth. *magellan
 In 1792 Mobs in Paris attack the palace of---------- . *louis xvi
 In 1809 ---------- declares independence from Spain (National Day). *ecuador
 In 1809 Ecuador declares independence from ---------- (National Day). *spain
-In 1866 Transatlantic cable laid -  Pres ---------- spoke to Queen Victoria. *buchanan
-In 1866 Transatlantic cable laid -  Pres Buchanan spoke to Queen---------- . *victoria
+In 1866 Transatlantic cable laid - Pres ---------- spoke to Queen Victoria. *buchanan
+In 1866 Transatlantic cable laid - Pres Buchanan spoke to Queen---------- . *victoria
 In 1893 Viscount---------- , Scotland, Governor General of Australia (1959-61), born. *dunrossil
 In 1909 ---------- King of Morocco (1953, 1955-61), born. *mohammed v
 In 1909 Mohammed V King of ---------- (1953, 1955-61), born. *morocco
@@ -1772,7 +1772,7 @@ In 1952 Patrick ---------- Houston Tx, actor/dancer (Dirty Dancing, Ghost), born
 In 1952 Patrick Swayze Houston Tx, actor/dancer (---------- , Ghost), born. *dirty dancing
 In 1952 Patrick Swayze Houston Tx, actor/dancer (Dirty Dancing,---------- ), born. *ghost
 In 1957 ---------- -Manuel Fangio, wins his last auto World Championship at 46. *juan
-In 1957 Juan-----------  Fangio, wins his last auto World Championship at 46. *manuel
+In 1957 Juan----------- Fangio, wins his last auto World Championship at 46. *manuel
 In 1957 Juan-Manuel---------- , wins his last auto World Championship at 46. *fangio
 In 1957 Juan-Manuel Fangio, wins his last auto World Championship at---------- . *forty six*46
 In 1958 ---------- Castro makes a speech on Cuban pirate radio Rebelde. *fidel
@@ -1782,7 +1782,7 @@ In 1958---------- , by Vladimir Nabokov, published. *lolita
 In 1958 Lolita, by ---------- Nabokov, published. *vladimir
 In 1958 Lolita, by Vladimir---------- , published. *nabokov
 In 1988 Republican Convention in New Orleans select ---------- -Quayle ticket. *bush
-In 1988 Republican Convention in New Orleans select Bush-----------  ticket. *quayle
+In 1988 Republican Convention in New Orleans select Bush----------- ticket. *quayle
 In 1398 ---------- Lopez, Marques de Santillana, Spanish poet, born *inigo
 In 1398 Inigo---------- , Marques de Santillana, Spanish poet, born *lopez
 In 1398 Inigo Lopez, Marques de---------- , Spanish poet, born *santillana
@@ -1995,7 +1995,7 @@ In 1984 ---------- Capote author (In Cold Blood), dies. *truman
 In 1984 Truman ---------- author (In Cold Blood), dies. *capote
 In 1989 ---------- makes its closest approach to Neptune (0400 GMT). *voyager 2
 In 1989 Voyager 2 makes its closest approach to ---------- (0400 GMT). *neptune
-In 1991 ----------  Lewis runs 100m in 9.86 seconds. *carl
+In 1991 ---------- Lewis runs 100m in 9.86 seconds. *carl
 In 1991 Carl ---------- runs 100m in 9.86 seconds. *lewis
 In 55 B.C. ---------- forces under Julius Caesar invaded Britain. *roman
 In 1346 English longbows defeat French in Battle of---------- . *crecy
@@ -2043,7 +2043,7 @@ In 1912 Edgar ---------- Burroughs' publishes "Tarzan". *rice
 In 1912 Edgar Rice ---------- ' publishes "Tarzan". *burroughs
 In 1912 Edgar Rice Burroughs' publishes "---------- ". *tarzan
 In 1928 ---------- -Briand Pact, where 60 nations agreed to outlaw war. *kellogg
-In 1928 Kellogg-----------  Pact, where 60 nations agreed to outlaw war. *briand
+In 1928 Kellogg----------- Pact, where 60 nations agreed to outlaw war. *briand
 In 1928 Kellogg-Briand Pact, where ---------- nations agreed to outlaw war. *sixty*60
 In 1939 ---------- Warsitz makes first jet-propelled flight (in a Heinkel He-178). *erich
 In 1939 Erich ---------- makes first jet-propelled flight (in a Heinkel He-178). *warsitz
