@@ -2,10 +2,11 @@
 <head>
 <title>Trivia Party!</title>
 <script src="/socket.io/socket.io.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script>
 var name = prompt("enter your name");
 
-var socket = io.connect('http://www.reillywatson.net/');
+var socket = io.connect('http://localhost:3000/');
 socket.emit('name', name);
 
 var answers = [];
@@ -19,13 +20,13 @@ var stopTimer = function() {
 var hintTick = function() {
 	if (hintTimer != null) {
 		var hint = document.getElementById('hint');
-		var hintText = hint.innerHTML;
+		var hintText = hint.innerHTML.replace('&amp;', '&');
 		var newHint = hintText;
 		while (newHint === hintText && hintText !== answers[0]) {
 			var replacementPoint = Math.floor(Math.random() * hintText.length);
 			newHint = newHint.substr(0, replacementPoint) + answers[0].substr(replacementPoint, 1) + newHint.substr(replacementPoint+1);
 		}
-		hint.innerHTML = newHint;
+		hint.innerHTML = newHint.replace('&', '&amp;');
 		hintTimer = setTimeout("hintTick()", 1500);
 	}
 }
@@ -41,7 +42,8 @@ socket.on('gotquestion', function (data) {
 });
 
 socket.on('gottext', function(data) {
-	document.getElementById('text').innerHTML += data.text + '<br/>';
+	$("#text").append(data.text + '<br/>');
+	$("#textContainer").scrollTop($("#textContainer")[0].scrollHeight);
 });
 
 var guesstextentered = function(e, element) {
@@ -70,5 +72,7 @@ var skipquestion = function() {
 <input id="guess" type="text" onkeypress="guesstextentered(event, this)" default="true" /><p/>
 <button type="button" onclick="skipquestion()">Skip</button>
 <p/>
+<div id="textContainer" style="overflow:auto; height: 50%; width: 50%">
 <span id="text"></span>
+</div>
 </body>
